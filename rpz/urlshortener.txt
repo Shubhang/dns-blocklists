@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762018200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762046940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 17:30 UTC
-; Version: 2025.1101.1730.03
+; Last modified: 02 Nov 2025 01:29 UTC
+; Version: 2025.1102.0129.12
 ; Syntax: RPZ
-; Number of entries: 17842
+; Number of entries: 17826
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -279,8 +279,6 @@ web.a.app CNAME .
 *.web.a.app CNAME .
 a8s.app CNAME .
 *.a8s.app CNAME .
-acessa.app CNAME .
-*.acessa.app CNAME .
 aiurl.app CNAME .
 *.aiurl.app CNAME .
 alter-kpi.app CNAME .
@@ -981,8 +979,6 @@ zqq.bio CNAME .
 *.zqq.bio CNAME .
 zulu.bio CNAME .
 *.zulu.bio CNAME .
-ad7.biz CNAME .
-*.ad7.biz CNAME .
 asharq.biz CNAME .
 *.asharq.biz CNAME .
 bee4.biz CNAME .
@@ -7587,8 +7583,6 @@ b33.fr CNAME .
 *.b33.fr CNAME .
 links.berwick.fr CNAME .
 *.links.berwick.fr CNAME .
-w.big-appli.fr CNAME .
-*.w.big-appli.fr CNAME .
 bytl.fr CNAME .
 *.bytl.fr CNAME .
 carmoov.fr CNAME .
@@ -10783,8 +10777,6 @@ zdrive.li CNAME .
 *.zdrive.li CNAME .
 zxc.li CNAME .
 *.zxc.li CNAME .
-afb88.life CNAME .
-*.afb88.life CNAME .
 aozczwj.life CNAME .
 *.aozczwj.life CNAME .
 bchf.life CNAME .
@@ -13119,8 +13111,6 @@ zti.me CNAME .
 *.zti.me CNAME .
 ampifire.media CNAME .
 *.ampifire.media CNAME .
-ansg.media CNAME .
-*.ansg.media CNAME .
 l.daoust.media CNAME .
 *.l.daoust.media CNAME .
 dps.media CNAME .
@@ -15925,8 +15915,6 @@ mou.sr CNAME .
 *.mou.sr CNAME .
 spn.sr CNAME .
 *.spn.sr CNAME .
-adfa.st CNAME .
-*.adfa.st CNAME .
 al.st CNAME .
 *.al.st CNAME .
 arkinv.st CNAME .
@@ -16613,8 +16601,6 @@ bamerus.top CNAME .
 *.bamerus.top CNAME .
 biaotee.top CNAME .
 *.biaotee.top CNAME .
-bitcoinshortener.top CNAME .
-*.bitcoinshortener.top CNAME .
 biturl.top CNAME .
 *.biturl.top CNAME .
 bt1207fabu.top CNAME .
@@ -17487,8 +17473,6 @@ w.wiki CNAME .
 *.w.wiki CNAME .
 0987.win CNAME .
 *.0987.win CNAME .
-adil.win CNAME .
-*.adil.win CNAME .
 agmd.win CNAME .
 *.agmd.win CNAME .
 akunvip.win CNAME .

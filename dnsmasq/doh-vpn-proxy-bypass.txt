@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 18:40 UTC
-# Version: 2025.1101.1840.34
+# Last modified: 02 Nov 2025 02:39 UTC
+# Version: 2025.1102.0239.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6429
+# Number of entries: 6420
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -255,8 +255,6 @@ local=/acomit.lk/
 local=/acrea.cz/
 local=/adg.acrobyte.org/
 local=/adguard.acrobyte.org/
-local=/activatevpn.com/
-local=/activpn.com/
 local=/actmobile.com/
 local=/adampowell.pro/
 local=/adbl-tslagter.nl/
@@ -270,7 +268,6 @@ local=/syd.adfilter.net/
 local=/adfiltro.fun/
 local=/adfreedns.eu/
 local=/adfreedns.top/
-local=/adfreeproxy.com/
 local=/adghs.de/
 local=/adgremoteau.com/
 local=/adguard.io/
@@ -316,7 +313,6 @@ local=/airdns.org/
 local=/dns.airmaxcloud.uk/
 local=/dns.airns.net/
 local=/airvpn.org/
-local=/study.ajhurst.org/
 local=/rdjdns.ajraspi.xyz/
 local=/dns.akbxr.com/
 local=/akunssh.net/
@@ -429,7 +425,6 @@ local=/anonymurl.biz/
 local=/anonypost.com/
 local=/anonyproxy.biz/
 local=/anonysurf.com/
-local=/know.core.antidemon.com/
 local=/antpeak.com/
 local=/antycenzor.pl/
 local=/dns2.anuar.me/
@@ -496,7 +491,6 @@ local=/atsssgo.xyz/
 local=/dohtrial.att.net/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
-local=/stevenisafemboy.auraria.org/
 local=/auto-aufladen.de/
 local=/avanquestusa.com/
 local=/vanheim.ff.avast.com/
@@ -614,8 +608,6 @@ local=/bestvpnrating.com/
 local=/bestvpnserver.com/
 local=/bestvpnssh.com/
 local=/bestwon203.com/
-local=/bestyouproxytube.com/
-local=/bestyoutubeproxy.info/
 local=/www-proxy.bettercallghaith.wiki/
 local=/betternet.co/
 local=/betterproxy.net/
@@ -650,7 +642,6 @@ local=/physics.sciencestudy.biz.st/
 local=/bizfast.info/
 local=/gate.blackboxdynamics.io/
 local=/blacklogic.com/
-local=/essay.gov.blacknapkins.org/
 local=/dns1.blackrandcrf.ru/
 local=/blackvpn.com/
 local=/fennec.blackyfox.net/

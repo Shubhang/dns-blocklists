@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 18:33 UTC
-# Version: 2025.1101.1833.59
+# Last modified: 02 Nov 2025 02:32 UTC
+# Version: 2025.1102.0232.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11238
+# Number of entries: 11232
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -535,7 +535,6 @@ local=/altadefinizione.coffee/
 local=/altadefinizione.com/
 local=/altadefinizione.community/
 local=/altadefinizione.coupons/
-local=/altadefinizione.cx/
 local=/altadefinizione.cyou/
 local=/altadefinizione.dance/
 local=/altadefinizione.date/
@@ -715,7 +714,6 @@ local=/animekai.to/
 local=/animekaizoku.com/
 local=/animekayo.com/
 local=/animekhor.org/
-local=/animekisa.tv/
 local=/animelab.com/
 local=/animeland.tv/
 local=/animeland.us/
@@ -746,7 +744,6 @@ local=/animesonline.cc/
 local=/animestars.org/
 local=/animestotais.xyz/
 local=/animesuge.io/
-local=/animesugetv.to/
 local=/animesuki.com/
 local=/animet.ru/
 local=/animetake.tv/
@@ -755,7 +752,6 @@ local=/animetorrents.com/
 local=/animetorrents.me/
 local=/animetosho.org/
 local=/animeua.club/
-local=/animeultima.eu/
 local=/animeultima.to/
 local=/animevibe.tv/
 local=/animevostfr.tv/
@@ -1151,7 +1147,6 @@ local=/bestserials.com/
 local=/bestsportstreaming.com/
 local=/beststresser.com/
 local=/bestwish.lol/
-local=/bewildandout.org/
 local=/tracker.beyond-hd.me/
 local=/bflix.ac/
 local=/bflix.bz/
@@ -1253,7 +1248,6 @@ local=/bitvn.net/
 local=/alt.bitworld.to/
 local=/biu47.xyz/
 local=/vexmovies.biz.id/
-local=/biztorrents.com/
 local=/bj-share.net/
 local=/tracker.bjut.jp/
 local=/bkshare.com/

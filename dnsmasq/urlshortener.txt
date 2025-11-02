@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 17:30 UTC
-# Version: 2025.1101.1730.03
+# Last modified: 02 Nov 2025 01:29 UTC
+# Version: 2025.1102.0129.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8921
+# Number of entries: 8913
 #
 local=/0.gp/
 local=/00m.in/
@@ -456,7 +456,6 @@ local=/acer.co/
 local=/acer.link/
 local=/aces.mp/
 local=/aces.so/
-local=/acessa.app/
 local=/acessaurl.com/
 local=/acg.kr/
 local=/acorta.click/
@@ -469,7 +468,6 @@ local=/acus.org/
 local=/ad.cr/
 local=/ad-med.cz/
 local=/ad5.eu/
-local=/ad7.biz/
 local=/ada2.in/
 local=/adabook.cloud/
 local=/dbf.adalaj.org/
@@ -482,14 +480,12 @@ local=/add2wallet.link/
 local=/adesp.link/
 local=/adesta.cc/
 local=/adf.ly/
-local=/adfa.st/
 local=/adfly.be/
 local=/adflydsp.com/
 local=/adflyfly.com/
 local=/adfoc.us/
 local=/adfw2025.com/
 local=/adialerts.com/
-local=/adil.win/
 local=/adjh.pt/
 local=/adjix.com/
 local=/adku.link/
@@ -520,7 +516,6 @@ local=/adx.kr/
 local=/ady.to/
 local=/aegyo.me/
 local=/aet.na/
-local=/afb88.life/
 local=/affectit.cloud/
 local=/affishort.com/
 local=/aficlicktrack.xyz/
@@ -685,7 +680,6 @@ local=/annah.ar/
 local=/anon.to/
 local=/anonshort.com/
 local=/anp.su/
-local=/ansg.media/
 local=/answ.xyz/
 local=/antinawala.team/
 local=/anx.io/
@@ -992,7 +986,6 @@ local=/biaotee.top/
 local=/biastonu.com/
 local=/bibl.es/
 local=/bidly.cc/
-local=/w.big-appli.fr/
 local=/bigcc.cc/
 local=/go.bigdomain.my/
 local=/bigfi.sh/
@@ -1048,7 +1041,6 @@ local=/bit.do/
 local=/bit.ly/
 local=/bit-ely.com/
 local=/bit24.live/
-local=/bitcoinshortener.top/
 local=/go.bitcomma.com/
 local=/bitesli.com/
 local=/bitgg.co/

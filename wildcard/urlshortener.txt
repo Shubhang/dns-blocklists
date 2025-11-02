@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 17:30 UTC
-# Version: 2025.1101.1730.03
+# Last modified: 02 Nov 2025 01:29 UTC
+# Version: 2025.1102.0129.12
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 8921
+# Number of entries: 8913
 #
 *.0.gp
 *.00m.in
@@ -456,7 +456,6 @@
 *.acer.link
 *.aces.mp
 *.aces.so
-*.acessa.app
 *.acessaurl.com
 *.acg.kr
 *.acorta.click
@@ -469,7 +468,6 @@
 *.ad.cr
 *.ad-med.cz
 *.ad5.eu
-*.ad7.biz
 *.ada2.in
 *.adabook.cloud
 *.dbf.adalaj.org
@@ -482,14 +480,12 @@
 *.adesp.link
 *.adesta.cc
 *.adf.ly
-*.adfa.st
 *.adfly.be
 *.adflydsp.com
 *.adflyfly.com
 *.adfoc.us
 *.adfw2025.com
 *.adialerts.com
-*.adil.win
 *.adjh.pt
 *.adjix.com
 *.adku.link
@@ -520,7 +516,6 @@
 *.ady.to
 *.aegyo.me
 *.aet.na
-*.afb88.life
 *.affectit.cloud
 *.affishort.com
 *.aficlicktrack.xyz
@@ -685,7 +680,6 @@
 *.anon.to
 *.anonshort.com
 *.anp.su
-*.ansg.media
 *.answ.xyz
 *.antinawala.team
 *.anx.io
@@ -992,7 +986,6 @@
 *.biastonu.com
 *.bibl.es
 *.bidly.cc
-*.w.big-appli.fr
 *.bigcc.cc
 *.go.bigdomain.my
 *.bigfi.sh
@@ -1048,7 +1041,6 @@
 *.bit.ly
 *.bit-ely.com
 *.bit24.live
-*.bitcoinshortener.top
 *.go.bitcomma.com
 *.bitesli.com
 *.bitgg.co

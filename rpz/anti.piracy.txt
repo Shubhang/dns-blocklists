@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762021980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762050720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 18:33 UTC
-; Version: 2025.1101.1833.59
+; Last modified: 02 Nov 2025 02:32 UTC
+; Version: 2025.1102.0232.38
 ; Syntax: RPZ
-; Number of entries: 22476
+; Number of entries: 22464
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3218,8 +3218,6 @@ bitturk.com CNAME .
 *.bitturk.com CNAME .
 bitvaulttorrent.com CNAME .
 *.bitvaulttorrent.com CNAME .
-biztorrents.com CNAME .
-*.biztorrents.com CNAME .
 bkshare.com CNAME .
 *.bkshare.com CNAME .
 blablastream.com CNAME .
@@ -8248,8 +8246,6 @@ tracker.startwork.cv CNAME .
 *.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
-altadefinizione.cx CNAME .
-*.altadefinizione.cx CNAME .
 tracker.animeworld.cx CNAME .
 *.tracker.animeworld.cx CNAME .
 k.avc.cx CNAME .
@@ -8824,8 +8820,6 @@ lekuluent.et CNAME .
 *.lekuluent.et CNAME .
 altadefinizione.eu CNAME .
 *.altadefinizione.eu CNAME .
-animeultima.eu CNAME .
-*.animeultima.eu CNAME .
 bigbbs.eu CNAME .
 *.bigbbs.eu CNAME .
 bollywood.eu CNAME .
@@ -15158,8 +15152,6 @@ beatrice-raws.org CNAME .
 *.beatrice-raws.org CNAME .
 beemp3s.org CNAME .
 *.beemp3s.org CNAME .
-bewildandout.org CNAME .
-*.bewildandout.org CNAME .
 bigfangroup.org CNAME .
 *.bigfangroup.org CNAME .
 bigtorrent.org CNAME .
@@ -19520,8 +19512,6 @@ animekai.to CNAME .
 *.animekai.to CNAME .
 animenosub.to CNAME .
 *.animenosub.to CNAME .
-animesugetv.to CNAME .
-*.animesugetv.to CNAME .
 animeultima.to CNAME .
 *.animeultima.to CNAME .
 animixplay.to CNAME .
@@ -20478,8 +20468,6 @@ animebytes.tv CNAME .
 *.animebytes.tv CNAME .
 animefreak.tv CNAME .
 *.animefreak.tv CNAME .
-animekisa.tv CNAME .
-*.animekisa.tv CNAME .
 animeland.tv CNAME .
 *.animeland.tv CNAME .
 animerush.tv CNAME .

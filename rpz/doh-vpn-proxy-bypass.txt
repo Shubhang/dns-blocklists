@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762022400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762051140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 18:40 UTC
-; Version: 2025.1101.1840.34
+; Last modified: 02 Nov 2025 02:39 UTC
+; Version: 2025.1102.0239.02
 ; Syntax: RPZ
-; Number of entries: 12858
+; Number of entries: 12840
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1131,18 +1131,12 @@ aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acevpn.com CNAME .
 *.acevpn.com CNAME .
-activatevpn.com CNAME .
-*.activatevpn.com CNAME .
-activpn.com CNAME .
-*.activpn.com CNAME .
 actmobile.com CNAME .
 *.actmobile.com CNAME .
 adblockersite.com CNAME .
 *.adblockersite.com CNAME .
 adblockluna.com CNAME .
 *.adblockluna.com CNAME .
-adfreeproxy.com CNAME .
-*.adfreeproxy.com CNAME .
 adgremoteau.com CNAME .
 *.adgremoteau.com CNAME .
 dns.adguard.com CNAME .
@@ -1265,8 +1259,6 @@ anonypost.com CNAME .
 *.anonypost.com CNAME .
 anonysurf.com CNAME .
 *.anonysurf.com CNAME .
-know.core.antidemon.com CNAME .
-*.know.core.antidemon.com CNAME .
 antpeak.com CNAME .
 *.antpeak.com CNAME .
 dns1.api110.com CNAME .
@@ -1407,8 +1399,6 @@ bestvpnssh.com CNAME .
 *.bestvpnssh.com CNAME .
 bestwon203.com CNAME .
 *.bestwon203.com CNAME .
-bestyouproxytube.com CNAME .
-*.bestyouproxytube.com CNAME .
 bettervpn.com CNAME .
 *.bettervpn.com CNAME .
 dns.bgeneto.com CNAME .
@@ -6673,8 +6663,6 @@ openvpnpptpserver.bese.info CNAME .
 *.openvpnpptpserver.bese.info CNAME .
 bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
-bestyoutubeproxy.info CNAME .
-*.bestyoutubeproxy.info CNAME .
 bizfast.info CNAME .
 *.bizfast.info CNAME .
 brazilproxy.info CNAME .
@@ -9693,8 +9681,6 @@ airdns.org CNAME .
 *.airdns.org CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
-study.ajhurst.org CNAME .
-*.study.ajhurst.org CNAME .
 amandahugnkiss.org CNAME .
 *.amandahugnkiss.org CNAME .
 americanvpn.org CNAME .
@@ -9723,8 +9709,6 @@ astrill.org CNAME .
 *.astrill.org CNAME .
 dns.auffray.org CNAME .
 *.dns.auffray.org CNAME .
-stevenisafemboy.auraria.org CNAME .
-*.stevenisafemboy.auraria.org CNAME .
 dns.bbppt.org CNAME .
 *.dns.bbppt.org CNAME .
 bestvpn.org CNAME .
@@ -9735,8 +9719,6 @@ sunny-wolf-734.biologyscholar.org CNAME .
 *.sunny-wolf-734.biologyscholar.org CNAME .
 goga7777777.bissnes.org CNAME .
 *.goga7777777.bissnes.org CNAME .
-essay.gov.blacknapkins.org CNAME .
-*.essay.gov.blacknapkins.org CNAME .
 dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .

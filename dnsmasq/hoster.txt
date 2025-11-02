@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 09:57 UTC
-# Version: 2025.1101.0957.11
+# Last modified: 02 Nov 2025 01:58 UTC
+# Version: 2025.1102.0158.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1379
+# Number of entries: 1374
 #
 local=/000a.de/
 local=/000space.com/
@@ -214,17 +214,13 @@ local=/bebinmall.today/
 local=/beepworld.it/
 local=/beget.tech/
 local=/begins.de/
-local=/bellastheboutique.shop/
 local=/beplaced.com/
 local=/berlin.tl/
-local=/bethelcreations.shop/
 local=/betrunken.org/
-local=/bezemchsell.shop/
 local=/bg.gp/
 local=/bgydnb.vip/
 local=/bigheadhosting.net/
 local=/bigthomas.shop/
-local=/bikashfancyclothing.shop/
 local=/bilder.lc/
 local=/billblett.com/
 local=/biz.ly/
@@ -235,7 +231,6 @@ local=/bizhat.com/
 local=/bizmovie.shop/
 local=/blackapplehost.com/
 local=/blackblogs.org/
-local=/blakelysboutique.shop/
 local=/blinkweb.com/
 local=/blo.gg/
 local=/blog.com/

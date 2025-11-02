@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Nov 2025 18:40 UTC
-! Version: 2025.1101.1840.34
+! Last modified: 02 Nov 2025 02:39 UTC
+! Version: 2025.1102.0239.02
 ! Syntax: AdBlock
-! Number of entries: 6429
+! Number of entries: 6420
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -256,8 +256,6 @@
 ||acrea.cz^
 ||adg.acrobyte.org^
 ||adguard.acrobyte.org^
-||activatevpn.com^
-||activpn.com^
 ||actmobile.com^
 ||adampowell.pro^
 ||adbl-tslagter.nl^
@@ -271,7 +269,6 @@
 ||adfiltro.fun^
 ||adfreedns.eu^
 ||adfreedns.top^
-||adfreeproxy.com^
 ||adghs.de^
 ||adgremoteau.com^
 ||adguard.io^
@@ -317,7 +314,6 @@
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
 ||airvpn.org^
-||study.ajhurst.org^
 ||rdjdns.ajraspi.xyz^
 ||dns.akbxr.com^
 ||akunssh.net^
@@ -430,7 +426,6 @@
 ||anonypost.com^
 ||anonyproxy.biz^
 ||anonysurf.com^
-||know.core.antidemon.com^
 ||antpeak.com^
 ||antycenzor.pl^
 ||dns2.anuar.me^
@@ -497,7 +492,6 @@
 ||dohtrial.att.net^
 ||dns.audet.cloud^
 ||dns.auffray.org^
-||stevenisafemboy.auraria.org^
 ||auto-aufladen.de^
 ||avanquestusa.com^
 ||vanheim.ff.avast.com^
@@ -615,8 +609,6 @@
 ||bestvpnserver.com^
 ||bestvpnssh.com^
 ||bestwon203.com^
-||bestyouproxytube.com^
-||bestyoutubeproxy.info^
 ||www-proxy.bettercallghaith.wiki^
 ||betternet.co^
 ||betterproxy.net^
@@ -651,7 +643,6 @@
 ||bizfast.info^
 ||gate.blackboxdynamics.io^
 ||blacklogic.com^
-||essay.gov.blacknapkins.org^
 ||dns1.blackrandcrf.ru^
 ||blackvpn.com^
 ||fennec.blackyfox.net^

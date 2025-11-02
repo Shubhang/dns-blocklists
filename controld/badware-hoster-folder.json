@@ -1464,13 +1464,6 @@
       }
     },
     {
-      "PK": "bellastheboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "beplaced.com",
       "action": {
         "do": 0,
@@ -1485,21 +1478,7 @@
       }
     },
     {
-      "PK": "bethelcreations.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "betrunken.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bezemchsell.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -1528,13 +1507,6 @@
     },
     {
       "PK": "bigthomas.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bikashfancyclothing.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -1605,13 +1577,6 @@
     },
     {
       "PK": "blackblogs.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blakelysboutique.shop",
       "action": {
         "do": 0,
         "status": 1
