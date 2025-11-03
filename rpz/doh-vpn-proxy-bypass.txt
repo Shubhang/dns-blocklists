@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762108620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762137300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 18:37 UTC
-; Version: 2025.1102.1837.06
+; Last modified: 03 Nov 2025 02:35 UTC
+; Version: 2025.1103.0235.47
 ; Syntax: RPZ
-; Number of entries: 13566
+; Number of entries: 13532
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -675,8 +675,6 @@ lvpqirhbat.castroyasociados.cl CNAME .
 *.lvpqirhbat.castroyasociados.cl CNAME .
 ab.ctx.cl CNAME .
 *.ab.ctx.cl CNAME .
-devfruitpremium.incodesltda.cl CNAME .
-*.devfruitpremium.incodesltda.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 btg.ludopop.cl CNAME .
@@ -2173,8 +2171,6 @@ geonode.com CNAME .
 *.geonode.com CNAME .
 adguard.georgev22.com CNAME .
 *.adguard.georgev22.com CNAME .
-geosurf.com CNAME .
-*.geosurf.com CNAME .
 get-express-vpn.com CNAME .
 *.get-express-vpn.com CNAME .
 get-vuze-vpn.com CNAME .
@@ -2215,14 +2211,10 @@ lamdtl.giize.com CNAME .
 *.lamdtl.giize.com CNAME .
 gipvpn.com CNAME .
 *.gipvpn.com CNAME .
-giveproxy.com CNAME .
-*.giveproxy.com CNAME .
 gizlibaglanti.com CNAME .
 *.gizlibaglanti.com CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
-i-civics.glacialpower.com CNAME .
-*.i-civics.glacialpower.com CNAME .
 global-proxy.com CNAME .
 *.global-proxy.com CNAME .
 globalchatinc.com CNAME .
@@ -2265,8 +2257,6 @@ gotrusted.com CNAME .
 *.gotrusted.com CNAME .
 gracarno.com CNAME .
 *.gracarno.com CNAME .
-basic.idea.gracesiefer.com CNAME .
-*.basic.idea.gracesiefer.com CNAME .
 grammarhelpers.com CNAME .
 *.grammarhelpers.com CNAME .
 adguard.grantbruneau.com CNAME .
@@ -2297,8 +2287,6 @@ guavi.com CNAME .
 *.guavi.com CNAME .
 homedns.gumeniuk.com CNAME .
 *.homedns.gumeniuk.com CNAME .
-edu.gurdit.com CNAME .
-*.edu.gurdit.com CNAME .
 gvirabi.com CNAME .
 *.gvirabi.com CNAME .
 gwopboyded.com CNAME .
@@ -2509,10 +2497,6 @@ iksde.com CNAME .
 *.iksde.com CNAME .
 ilinhy.com CNAME .
 *.ilinhy.com CNAME .
-hp.ilove4ndan.com CNAME .
-*.hp.ilove4ndan.com CNAME .
-rhp.ilove4ndan.com CNAME .
-*.rhp.ilove4ndan.com CNAME .
 ilumu.com CNAME .
 *.ilumu.com CNAME .
 dns.imaicool.com CNAME .
@@ -2537,8 +2521,6 @@ indo-ssh.com CNAME .
 *.indo-ssh.com CNAME .
 dns.indybanipal.com CNAME .
 *.dns.indybanipal.com CNAME .
-the.infocommthailand.com CNAME .
-*.the.infocommthailand.com CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
 doh.infotechlibrary.com CNAME .
@@ -2681,8 +2663,6 @@ dns.juancamos.com CNAME .
 *.dns.juancamos.com CNAME .
 everyonewantstocrackshawnp.jumpingcrab.com CNAME .
 *.everyonewantstocrackshawnp.jumpingcrab.com CNAME .
-mathissofun.jumpingcrab.com CNAME .
-*.mathissofun.jumpingcrab.com CNAME .
 skoolisawsom76.nien.jumpingcrab.com CNAME .
 *.skoolisawsom76.nien.jumpingcrab.com CNAME .
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
@@ -2739,8 +2719,6 @@ kingsurfproxy.com CNAME .
 *.kingsurfproxy.com CNAME .
 klcknerrip.com CNAME .
 *.klcknerrip.com CNAME .
-dylkffdoca.klockars.com CNAME .
-*.dylkffdoca.klockars.com CNAME .
 dns.knyfie.com CNAME .
 *.dns.knyfie.com CNAME .
 adguard.konikoni428.com CNAME .
@@ -2755,8 +2733,6 @@ kproxy.com CNAME .
 *.kproxy.com CNAME .
 kproxysite.com CNAME .
 *.kproxysite.com CNAME .
-solidcoding.krewedegroove.com CNAME .
-*.solidcoding.krewedegroove.com CNAME .
 kstdownload.com CNAME .
 *.kstdownload.com CNAME .
 hdns.ksyun.com CNAME .
@@ -7507,10 +7483,6 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
-doh3.kekew.info CNAME .
-*.doh3.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lorc17-dns.komeho.info CNAME .
@@ -9373,8 +9345,6 @@ nxmevip.justlearning.net CNAME .
 *.nxmevip.justlearning.net CNAME .
 saugatproxm.justlearning.net CNAME .
 *.saugatproxm.justlearning.net CNAME .
-sciencerocks.justlearning.net CNAME .
-*.sciencerocks.justlearning.net CNAME .
 solgorknh.justlearning.net CNAME .
 *.solgorknh.justlearning.net CNAME .
 yanglini.justlearning.net CNAME .
@@ -11727,8 +11697,6 @@ bigbugpoppearblack.super-modding.quest CNAME .
 *.bigbugpoppearblack.super-modding.quest CNAME .
 kadowaki.super-modding.quest CNAME .
 *.kadowaki.super-modding.quest CNAME .
-doh.kekew.racing CNAME .
-*.doh.kekew.racing CNAME .
 unblocked.racing CNAME .
 *.unblocked.racing CNAME .
 d4.re CNAME .
@@ -12331,8 +12299,6 @@ center-crm.store CNAME .
 *.center-crm.store CNAME .
 fun4school.store CNAME .
 *.fun4school.store CNAME .
-home-server.store CNAME .
-*.home-server.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 node9.servernode.store CNAME .

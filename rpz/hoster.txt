@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762106160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762134900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 17:56 UTC
-; Version: 2025.1102.1756.55
+; Last modified: 03 Nov 2025 01:55 UTC
+; Version: 2025.1103.0155.50
 ; Syntax: RPZ
-; Number of entries: 2678
+; Number of entries: 2670
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -154,8 +154,6 @@ ibiz.cc CNAME .
 *.ibiz.cc CNAME .
 ispot.cc CNAME .
 *.ispot.cc CNAME .
-jtexpsers.cc CNAME .
-*.jtexpsers.cc CNAME .
 jtposts.cc CNAME .
 *.jtposts.cc CNAME .
 jugem.cc CNAME .
@@ -2396,12 +2394,6 @@ georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .
 *.godscience.shop CNAME .
-goweachbuy.shop CNAME .
-*.goweachbuy.shop CNAME .
-gowedhemarketing.shop CNAME .
-*.gowedhemarketing.shop CNAME .
-grecofioredesigns.shop CNAME .
-*.grecofioredesigns.shop CNAME .
 greecemar.shop CNAME .
 *.greecemar.shop CNAME .
 harise.shop CNAME .

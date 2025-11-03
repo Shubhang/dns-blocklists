@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 18:36 UTC
-# Version: 2025.1102.1836.35
+# Last modified: 03 Nov 2025 02:35 UTC
+# Version: 2025.1103.0235.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3867
+# Number of entries: 3863
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1794,7 +1794,6 @@
 0.0.0.0 cloud2.holzmannclouddns.de
 0.0.0.0 socolov.home.ro
 0.0.0.0 adguard.home-lab-network.com
-0.0.0.0 home-server.store
 0.0.0.0 pi.homeanywhere.org
 0.0.0.0 admin.homedns.uk
 0.0.0.0 isolacje.homeip.net
@@ -2134,9 +2133,6 @@
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns2.keinewerbung.me
 0.0.0.0 guard.keiper.net
-0.0.0.0 doh.kekew.info
-0.0.0.0 doh.kekew.racing
-0.0.0.0 doh3.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 kellerbier-home.com
 0.0.0.0 dns.kellys.pw

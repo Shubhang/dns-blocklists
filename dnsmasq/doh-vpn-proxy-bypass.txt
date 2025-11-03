@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 18:37 UTC
-# Version: 2025.1102.1837.06
+# Last modified: 03 Nov 2025 02:35 UTC
+# Version: 2025.1103.0235.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6783
+# Number of entries: 6766
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2252,7 +2252,6 @@ local=/unblocked-games-at.geometry-games.online/
 local=/geonix.com/
 local=/geonode.com/
 local=/adguard.georgev22.com/
-local=/geosurf.com/
 local=/geosurf.io/
 local=/german-proxy.de/
 local=/gersoctruda.ru/
@@ -2303,12 +2302,10 @@ local=/masterproxy-proxy.github.io/
 local=/proxybrowser.github.io/
 local=/shadowsocks5.github.io/
 local=/doh.ptqy.gitv.tv/
-local=/giveproxy.com/
 local=/gizlen.net/
 local=/gizlibaglanti.com/
 local=/h.gjrick.tw/
 local=/sdns22.gkonuralp.com/
-local=/i-civics.glacialpower.com/
 local=/glacius.top/
 local=/dns.glampool.cloud/
 local=/adguard.glbd.fr/
@@ -2370,7 +2367,6 @@ local=/gotrusted.com/
 local=/gowork.info/
 local=/gpreport.us/
 local=/gracarno.com/
-local=/basic.idea.gracesiefer.com/
 local=/graef.in/
 local=/grammarhelpers.com/
 local=/adguard.grantbruneau.com/
@@ -2413,7 +2409,6 @@ local=/dns2.guidocioni.it/
 local=/homedns.gumeniuk.com/
 local=/gumm.org/
 local=/dns.gupthabrothers.in/
-local=/edu.gurdit.com/
 local=/guruproxy.net/
 local=/dns.gussguss.ovh/
 local=/dns.gutwe.in/
@@ -2580,7 +2575,6 @@ local=/beta.holyunblocker.org/
 local=/cloud2.holzmannclouddns.de/
 local=/socolov.home.ro/
 local=/adguard.home-lab-network.com/
-local=/home-server.store/
 local=/pi.homeanywhere.org/
 local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
@@ -2720,8 +2714,6 @@ local=/dns.ikataruto.com/
 local=/ikhebdorst.nl/
 local=/iksde.com/
 local=/ilinhy.com/
-local=/hp.ilove4ndan.com/
-local=/rhp.ilove4ndan.com/
 local=/ilumu.com/
 local=/ilysk.lol/
 local=/dns.imaicool.com/
@@ -2747,14 +2739,12 @@ local=/in-disguise.com/
 local=/www-yy.in6.to/
 local=/incaseineeditoneday.com/
 local=/dns.inclusioproject.com/
-local=/devfruitpremium.incodesltda.cl/
 local=/incog.works/
 local=/adblock.indianets.net/
 local=/indiaproxy.win/
 local=/indo-ssh.com/
 local=/dns.indraarsana.site/
 local=/dns.indybanipal.com/
-local=/the.infocommthailand.com/
 local=/dns.inforlogia.com/
 local=/doh.infotechlibrary.com/
 local=/doh.infracell.net/
@@ -2948,7 +2938,6 @@ local=/judua3rtinpst0s.xyz/
 local=/juicysalmon.ru/
 local=/addns.jujuland.net/
 local=/everyonewantstocrackshawnp.jumpingcrab.com/
-local=/mathissofun.jumpingcrab.com/
 local=/skoolisawsom76.nien.jumpingcrab.com/
 local=/qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com/
 local=/dns.jundev.org/
@@ -2965,7 +2954,6 @@ local=/dns.justinnetworkingsolutions.com/
 local=/coolmanbartx.justlearning.net/
 local=/nxmevip.justlearning.net/
 local=/saugatproxm.justlearning.net/
-local=/sciencerocks.justlearning.net/
 local=/solgorknh.justlearning.net/
 local=/yanglini.justlearning.net/
 local=/uto1.k.vu/
@@ -3003,9 +2991,6 @@ local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns2.keinewerbung.me/
 local=/guard.keiper.net/
-local=/doh.kekew.info/
-local=/doh.kekew.racing/
-local=/doh3.kekew.info/
 local=/doh.kel.pe/
 local=/kellerbier-home.com/
 local=/dns.kellys.pw/
@@ -3040,7 +3025,6 @@ local=/dns1.kla44.de/
 local=/dns1.klcd.eu/
 local=/dns2.klcd.eu/
 local=/klcknerrip.com/
-local=/dylkffdoca.klockars.com/
 local=/adguard.kngnet.de/
 local=/knight1.de/
 local=/knvpn.net/
@@ -3078,7 +3062,6 @@ local=/dart.kpsn.org/
 local=/dns.kpsn.dev/
 local=/pips.kpsn.org/
 local=/adblock.krctech.dev/
-local=/solidcoding.krewedegroove.com/
 local=/dns.kriswerry.nl/
 local=/xray.krnl.eu/
 local=/dns.krol.cloud/
