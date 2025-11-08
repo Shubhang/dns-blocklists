@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762565340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762594200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Nov 2025 01:29 UTC
-; Version: 2025.1108.0129.19
+; Last modified: 08 Nov 2025 09:30 UTC
+; Version: 2025.1108.0930.07
 ; Syntax: RPZ
-; Number of entries: 18608
+; Number of entries: 18624
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3947,6 +3947,8 @@ el1nk.com CNAME .
 *.el1nk.com CNAME .
 el32.com CNAME .
 *.el32.com CNAME .
+elfdirect.com CNAME .
+*.elfdirect.com CNAME .
 eliasbrickner.com CNAME .
 *.eliasbrickner.com CNAME .
 elrsx.com CNAME .
@@ -4057,6 +4059,8 @@ flowcode.com CNAME .
 *.flowcode.com CNAME .
 flowhits.com CNAME .
 *.flowhits.com CNAME .
+fly4win.com CNAME .
+*.fly4win.com CNAME .
 flyurls.com CNAME .
 *.flyurls.com CNAME .
 fneezet.com CNAME .
@@ -4117,6 +4121,8 @@ gasely.com CNAME .
 *.gasely.com CNAME .
 go.gcash.com CNAME .
 *.go.gcash.com CNAME .
+gclnk.com CNAME .
+*.gclnk.com CNAME .
 gdurl.com CNAME .
 *.gdurl.com CNAME .
 geetlink.com CNAME .
@@ -9047,6 +9053,8 @@ golinker.in CNAME .
 *.golinker.in CNAME .
 gowes.in CNAME .
 *.gowes.in CNAME .
+href.in CNAME .
+*.href.in CNAME .
 hutmat.in CNAME .
 *.hutmat.in CNAME .
 i09.in CNAME .
@@ -13131,6 +13139,8 @@ hrbl.me CNAME .
 *.hrbl.me CNAME .
 hscr.me CNAME .
 *.hscr.me CNAME .
+hurl.me CNAME .
+*.hurl.me CNAME .
 ichini.me CNAME .
 *.ichini.me CNAME .
 ictv.me CNAME .
@@ -14111,6 +14121,8 @@ emojied.net CNAME .
 *.emojied.net CNAME .
 encurtador.net CNAME .
 *.encurtador.net CNAME .
+eplt.net CNAME .
+*.eplt.net CNAME .
 eshort.net CNAME .
 *.eshort.net CNAME .
 ezlc.net CNAME .
@@ -15999,6 +16011,8 @@ curl.ro CNAME .
 *.curl.ro CNAME .
 damoro.ro CNAME .
 *.damoro.ro CNAME .
+fsu.ro CNAME .
+*.fsu.ro CNAME .
 icks.ro CNAME .
 *.icks.ro CNAME .
 iuu.ro CNAME .
@@ -17351,6 +17365,8 @@ cutlnk.top CNAME .
 *.cutlnk.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
+hnpa.top CNAME .
+*.hnpa.top CNAME .
 itdmusic.top CNAME .
 *.itdmusic.top CNAME .
 jmal.top CNAME .

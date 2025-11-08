@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 21:58 UTC
-# Version: 2025.1107.2158.23
+# Last modified: 08 Nov 2025 09:59 UTC
+# Version: 2025.1108.0959.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1326
+# Number of entries: 1330
 #
 local=/000a.de/
 local=/000space.com/
@@ -650,6 +650,7 @@ local=/georgiatwo.shop/
 local=/gerentebr.com/
 local=/getenjoyment.net/
 local=/getresponsesite.com/
+local=/gg123.vip/
 local=/gilde.in/
 local=/gildenseite.de/
 local=/girlsense.com/
@@ -675,8 +676,10 @@ local=/grwebsite.com/
 local=/gtempurl.com/
 local=/guest.de/
 local=/guide.lc/
+local=/guzhibo.cn/
 local=/gymsharkitaliaofficial.it/
 local=/h.gp/
+local=/halloweencp.com/
 local=/hanefra7bikiemta.com/
 local=/harise.shop/
 local=/hase.in/
@@ -741,6 +744,7 @@ local=/inbox24.eu/
 local=/inbox24.net/
 local=/inbox24.org/
 local=/indexcm-t.com/
+local=/infinityfree.net/
 local=/infinityfreeapp.com/
 local=/info.cm/
 local=/info.nu/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762552680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762595940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 21:58 UTC
-; Version: 2025.1107.2158.23
+; Last modified: 08 Nov 2025 09:59 UTC
+; Version: 2025.1108.0959.38
 ; Syntax: RPZ
-; Number of entries: 2652
+; Number of entries: 2660
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -232,6 +232,8 @@ ru.cm CNAME .
 *.ru.cm CNAME .
 duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
+guzhibo.cn CNAME .
+*.guzhibo.cn CNAME .
 webnode.cn CNAME .
 *.webnode.cn CNAME .
 2fh.co CNAME .
@@ -648,6 +650,8 @@ grwebsite.com CNAME .
 *.grwebsite.com CNAME .
 gtempurl.com CNAME .
 *.gtempurl.com CNAME .
+halloweencp.com CNAME .
+*.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
 highclassacademia.com CNAME .
@@ -2002,6 +2006,8 @@ great-site.net CNAME .
 *.great-site.net CNAME .
 inbox24.net CNAME .
 *.inbox24.net CNAME .
+infinityfree.net CNAME .
+*.infinityfree.net CNAME .
 is-best.net CNAME .
 *.is-best.net CNAME .
 jixx.net CNAME .
@@ -2632,6 +2638,8 @@ bateicpoint.vip CNAME .
 *.bateicpoint.vip CNAME .
 bgydnb.vip CNAME .
 *.bgydnb.vip CNAME .
+gg123.vip CNAME .
+*.gg123.vip CNAME .
 imtokne.vip CNAME .
 *.imtokne.vip CNAME .
 webnode.vn CNAME .

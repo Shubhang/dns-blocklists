@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 01:29 UTC
-! Version: 2025.1108.0129.19
+! Last modified: 08 Nov 2025 09:30 UTC
+! Version: 2025.1108.0930.07
 ! Syntax: AdBlock
-! Number of entries: 9304
+! Number of entries: 9312
 !
 ||0.gp^
 ||00m.in^
@@ -2411,6 +2411,7 @@
 ||el32.com^
 ||ela.st^
 ||elaxima.pro^
+||elfdirect.com^
 ||eliasbrickner.com^
 ||elink.ly^
 ||elivr.in^
@@ -2454,6 +2455,7 @@
 ||envs.sh^
 ||eohelp.link^
 ||epicureanrecipevault.one^
+||eplt.net^
 ||epmlnk.io^
 ||epochtim.es^
 ||ept.ms^
@@ -2667,6 +2669,7 @@
 ||flx.to^
 ||fly.yt^
 ||fly2.ws^
+||fly4win.com^
 ||flyra.link^
 ||flys.pw^
 ||flyurls.com^
@@ -2725,6 +2728,7 @@
 ||fstgo.to^
 ||fstrk.cc^
 ||url-shortener.yc.fstrk.io^
+||fsu.ro^
 ||fsv.tf^
 ||on.ft.com^
 ||ftim.eu^
@@ -2798,6 +2802,7 @@
 ||gbpg.net^
 ||gbte.tech^
 ||go.gcash.com^
+||gclnk.com^
 ||gdanstum.net^
 ||s.gdngs.de^
 ||gdurl.com^
@@ -3192,6 +3197,7 @@
 ||hmt.ai^
 ||hncinnamon.com^
 ||hnd.bio^
+||hnpa.top^
 ||hnsl.mn^
 ||go.hny.co^
 ||hnz.li^
@@ -3242,6 +3248,7 @@
 ||hrbl.me^
 ||hrbrg.co^
 ||href.ar^
+||href.in^
 ||href.li^
 ||href.pw^
 ||link.hritbot.com^
@@ -3280,6 +3287,7 @@
 ||huntscreens.com^
 ||hurirk.net^
 ||hurl.it^
+||hurl.me^
 ||hurl.ws^
 ||husband92.com^
 ||hut.bz^

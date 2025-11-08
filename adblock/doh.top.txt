@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 09:52 UTC
-! Version: 2025.1107.0952.00
+! Last modified: 08 Nov 2025 10:43 UTC
+! Version: 2025.1108.1043.05
 ! Syntax: AdBlock
-! Number of entries: 552
+! Number of entries: 564
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -103,6 +103,7 @@
 ||httpdns1.cc.cdnhwc5.com^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-ore.anycast.censurfridns.dk^
+||dns.cert.ee^
 ||cfdjb.org^
 ||ibuki.cgnat.net^
 ||chaos-system.de^
@@ -153,6 +154,7 @@
 ||dns.dns-over-https.com^
 ||dns0.eu^
 ||doq.dns4all.eu^
+||doq64.dns4all.eu^
 ||dns4me.net^
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
@@ -198,6 +200,7 @@
 ||dns.dremaxx.de^
 ||droyd.top^
 ||agh.dshubham.xyz^
+||jurre-home.duckdns.org^
 ||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -209,6 +212,7 @@
 ||dns.eliv.kr^
 ||eth.link^
 ||opennic1.eth-services.de^
+||dns.fullaccesstointernet.jp.eu.org^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||dns.faked.org^
@@ -218,7 +222,9 @@
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
+||dns.ffnw.de^
 ||fidelius.top^
+||dns.filipccz.eu^
 ||dns.fizz.studio^
 ||doh.flashstart.com^
 ||dns01.flm9.net^
@@ -234,13 +240,16 @@
 ||us-ny.foxyfy.net^
 ||us-sj.foxyfy.net^
 ||dns.froth.zone^
+||dns.furrydns.de^
 ||doh.futa.gg^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
+||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.glorydns.com^
 ||moph.go.th^
@@ -252,6 +261,7 @@
 ||dns.guard.io^
 ||dns.guardmydns.com^
 ||gztech.me^
+||dns.hanahira.dev^
 ||httpdns.ocloud.heytapmobi.com^
 ||dns.hinet.net^
 ||hitian.me^
@@ -348,6 +358,7 @@
 ||dns.neutopia.org^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -398,6 +409,7 @@
 ||pm9352-bd.xyz^
 ||dns.porteii.com^
 ||doh.powerdns.org^
+||dns.ha-dvin.pp.ua^
 ||sundalandia.pp.ua^
 ||dns.pragmasec.nl^
 ||de.dns.privex.io^
