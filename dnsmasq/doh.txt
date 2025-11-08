@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 02:39 UTC
-# Version: 2025.1108.0239.35
+# Last modified: 08 Nov 2025 22:40 UTC
+# Version: 2025.1108.2240.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3376
+# Number of entries: 3385
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1828,6 +1828,9 @@ local=/kcolspacrm.ir/
 local=/dns.kebree.fr/
 local=/dns2.keinewerbung.me/
 local=/guard.keiper.net/
+local=/doh.kekew.info/
+local=/doh.kekew.racing/
+local=/doh3.kekew.info/
 local=/doh.kel.pe/
 local=/kellerbier-home.com/
 local=/dns.kellys.pw/
@@ -1970,6 +1973,7 @@ local=/dns.lobbygod.com/
 local=/flat.loisy.it/
 local=/nas-fusion.loisy.it/
 local=/an.loliconapp.top/
+local=/adguard.londonwebnerd.cloud/
 local=/doh.dns1.lonet.org/
 local=/doh.phdns1.lonet.org/
 local=/doh.phdns2.lonet.org/
@@ -1986,7 +1990,9 @@ local=/lslnyjq.uk/
 local=/dns1.luan.contact/
 local=/dns.luismm2311.com/
 local=/doh.lujiacai.top/
+local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
+local=/lukscasino-929-tr.xyz/
 local=/dns.lululu.dev/
 local=/dns.luma-medien.com/
 local=/pure.lunetra.online/
@@ -2077,6 +2083,7 @@ local=/httpdnsmultiapi.meituan.com/
 local=/httpdnsmultiapivip.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
+local=/mendozasdelivery.com/
 local=/meowless.club/
 local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/
@@ -2097,6 +2104,7 @@ local=/mijoregner.de/
 local=/mikatos.de/
 local=/dns.mikeliu.org/
 local=/mikewaddick.com/
+local=/mikezhang.xyz/
 local=/dns.mikopono.nl/
 local=/rwkdwpwsyv48.mikopono.nl/
 local=/ukns.milangas2.top/
@@ -2467,6 +2475,7 @@ local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
 local=/paradise-human.shop/
 local=/dns.pari.network/
+local=/pashagame456.com/
 local=/paskam.xyz/
 local=/a.passcloud.xyz/
 local=/i.passcloud.xyz/

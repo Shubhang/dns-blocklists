@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 10:43 UTC
-! Version: 2025.1108.1043.05
+! Last modified: 08 Nov 2025 22:41 UTC
+! Version: 2025.1108.2241.24
 ! Syntax: AdBlock
-! Number of entries: 564
+! Number of entries: 569
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -325,6 +325,8 @@
 ||lelux.fi^
 ||doh.libredns.gr^
 ||loadlow.me^
+||lukscasino-479-tr.xyz^
+||lukscasino-929-tr.xyz^
 ||maqgie.xyz^
 ||masters-of-cloud.de^
 ||testguard.meexx.de^
@@ -332,7 +334,9 @@
 ||httpdns.meituan.com^
 ||httpdnsmultiapi.meituan.com^
 ||httpdnsmultiapivip.meituan.com^
+||mendozasdelivery.com^
 ||testaghome.meshkov.info^
+||mikezhang.xyz^
 ||netcup.mismat.ch^
 ||dnstls.mobik.com^
 ||morbitzer.de^
@@ -398,6 +402,7 @@
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
 ||resolver.dnsprivacy.org.uk^
+||pashagame456.com^
 ||dns.pccoach.nl^
 ||dns.peb-schmidt.de^
 ||dns.pernika.net^

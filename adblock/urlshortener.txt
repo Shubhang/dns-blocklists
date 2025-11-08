@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 09:30 UTC
-! Version: 2025.1108.0930.07
+! Last modified: 08 Nov 2025 21:30 UTC
+! Version: 2025.1108.2130.12
 ! Syntax: AdBlock
-! Number of entries: 9312
+! Number of entries: 9330
 !
 ||0.gp^
 ||00m.in^
@@ -3586,6 +3586,7 @@
 ||j2team.dev^
 ||j99.us^
 ||ja.cat^
+||ja.ma^
 ||jacesantiago.space^
 ||jackson.events^
 ||jaecoomy.com^
@@ -3713,6 +3714,7 @@
 ||kaas.gg^
 ||kabuzzle.com^
 ||kagca.link^
+||kagk.top^
 ||kaitect.com^
 ||kalcty.com^
 ||kamo.es^
@@ -3734,6 +3736,7 @@
 ||kaz.sk^
 ||kbank.co^
 ||kbit.co^
+||kbitly.com^
 ||kccim.ir^
 ||kck.st^
 ||kdo.link^
@@ -3921,6 +3924,7 @@
 ||l9.fr^
 ||l9k.net^
 ||la.bio^
+||labb.in^
 ||labs.to^
 ||laco.st^
 ||lah.bio^
@@ -4094,6 +4098,7 @@
 ||linkaloo.it^
 ||linkalp.com^
 ||linkapp.click^
+||linkasd.com^
 ||linkasli.pro^
 ||linkatra.com^
 ||linkb.ee^
@@ -4172,6 +4177,7 @@
 ||linkio.it^
 ||linkiq.co^
 ||linkis.co^
+||linkis.xyz^
 ||linkit.net^
 ||linkit4.me^
 ||linkiti.com^
@@ -4209,12 +4215,14 @@
 ||linkly.info^
 ||linkly.qa^
 ||linklyhq.com^
+||linklytics.com^
 ||linkme.lol^
 ||linkme.page^
 ||linkmeow.com^
 ||linkmix.co^
 ||linkmngr.com^
 ||linkmonet.com^
+||linkmpomax.live^
 ||linkmu.cyou^
 ||linkmyurl.com^
 ||linkn.co^
@@ -4233,6 +4241,7 @@
 ||linkopeners.com^
 ||linkoqr.com^
 ||linkotomy.com^
+||linkotw.live^
 ||linkp.ir^
 ||linkp.online^
 ||linkpage.it^
@@ -4331,6 +4340,7 @@
 ||linkze.me^
 ||linkzone.live^
 ||create.linnk.fr^
+||linq.ist^
 ||linqer.me^
 ||linqr.cc^
 ||linqup.in^
@@ -4577,6 +4587,7 @@
 ||m5.lt^
 ||maac.io^
 ||macanplay.click^
+||macau123.link^
 ||machess.org^
 ||lk.macmarketing.us^
 ||maejo.link^
@@ -4701,6 +4712,7 @@
 ||meelink.net^
 ||meelinks.com^
 ||meetu.ps^
+||megalink.pro^
 ||megalink.vip^
 ||megapay.online^
 ||megasite.link^
@@ -5057,6 +5069,7 @@
 ||myumi.ch^
 ||myup.work^
 ||myurl.id^
+||myurl.in^
 ||myurl.ly^
 ||myurls.ca^
 ||app.myvcrd.com^
@@ -5083,11 +5096,13 @@
 ||nakama420.xyz^
 ||nakdetail.com^
 ||nal.la^
+||nalo.life^
 ||name.ly^
 ||nanatech.live^
 ||links.nanoleaf.me^
 ||nanourl.in^
 ||nanourl.org^
+||nanuba.com^
 ||narrowurl.com^
 ||go.nasa.gov^
 ||on.natgeo.com^
@@ -5193,6 +5208,7 @@
 ||njx.me^
 ||nkbp.jp^
 ||nkf.re^
+||nkisa.link^
 ||nks.li^
 ||nkxe.com^
 ||nlab.cg^
@@ -5636,6 +5652,7 @@
 ||pia.sh^
 ||pic.gd^
 ||pich.in^
+||picklink.me^
 ||picsee.co^
 ||picsee.io^
 ||pieceof.link^
@@ -5666,6 +5683,7 @@
 ||pke.to^
 ||pkg.pw^
 ||pkv.li^
+||pkvg.link^
 ||plabtainment.com^
 ||placesunknown.art^
 ||pladollmo.com^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 02:39 UTC
-# Version: 2025.1108.0239.35
+# Last modified: 08 Nov 2025 22:40 UTC
+# Version: 2025.1108.2240.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3852
+# Number of entries: 3861
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2142,6 +2142,9 @@
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns2.keinewerbung.me
 0.0.0.0 guard.keiper.net
+0.0.0.0 doh.kekew.info
+0.0.0.0 doh.kekew.racing
+0.0.0.0 doh3.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 kellerbier-home.com
 0.0.0.0 dns.kellys.pw
@@ -2292,6 +2295,7 @@
 0.0.0.0 flat.loisy.it
 0.0.0.0 nas-fusion.loisy.it
 0.0.0.0 an.loliconapp.top
+0.0.0.0 adguard.londonwebnerd.cloud
 0.0.0.0 doh.dns1.lonet.org
 0.0.0.0 doh.phdns1.lonet.org
 0.0.0.0 doh.phdns2.lonet.org
@@ -2308,7 +2312,9 @@
 0.0.0.0 dns1.luan.contact
 0.0.0.0 dns.luismm2311.com
 0.0.0.0 doh.lujiacai.top
+0.0.0.0 lukscasino-479-tr.xyz
 0.0.0.0 lukscasino-542-tr.xyz
+0.0.0.0 lukscasino-929-tr.xyz
 0.0.0.0 dns.lululu.dev
 0.0.0.0 dns.luma-medien.com
 0.0.0.0 pure.lunetra.online
@@ -2404,6 +2410,7 @@
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 dns.melvin2204.nl
+0.0.0.0 mendozasdelivery.com
 0.0.0.0 meowless.club
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr
@@ -2428,6 +2435,7 @@
 0.0.0.0 mikatos.de
 0.0.0.0 dns.mikeliu.org
 0.0.0.0 mikewaddick.com
+0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
 0.0.0.0 ukns.milangas2.top
@@ -2853,6 +2861,7 @@
 0.0.0.0 dns-ovh.panszelescik.pl
 0.0.0.0 paradise-human.shop
 0.0.0.0 dns.pari.network
+0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
 0.0.0.0 a.passcloud.xyz
 0.0.0.0 i.passcloud.xyz

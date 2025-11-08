@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762594200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762637400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Nov 2025 09:30 UTC
-; Version: 2025.1108.0930.07
+; Last modified: 08 Nov 2025 21:30 UTC
+; Version: 2025.1108.2130.12
 ; Syntax: RPZ
-; Number of entries: 18624
+; Number of entries: 18660
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4533,6 +4533,8 @@ sms.katapult.com CNAME .
 *.sms.katapult.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
+kbitly.com CNAME .
+*.kbitly.com CNAME .
 keckcntr.com CNAME .
 *.keckcntr.com CNAME .
 kinky-pipes.com CNAME .
@@ -4625,6 +4627,8 @@ linkallstar.com CNAME .
 *.linkallstar.com CNAME .
 linkalp.com CNAME .
 *.linkalp.com CNAME .
+linkasd.com CNAME .
+*.linkasd.com CNAME .
 linkatra.com CNAME .
 *.linkatra.com CNAME .
 linkbeton.com CNAME .
@@ -4723,6 +4727,8 @@ linklada.com CNAME .
 *.linklada.com CNAME .
 linklyhq.com CNAME .
 *.linklyhq.com CNAME .
+linklytics.com CNAME .
+*.linklytics.com CNAME .
 linkmeow.com CNAME .
 *.linkmeow.com CNAME .
 linkmngr.com CNAME .
@@ -5113,6 +5119,8 @@ naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 nakdetail.com CNAME .
 *.nakdetail.com CNAME .
+nanuba.com CNAME .
+*.nanuba.com CNAME .
 narrowurl.com CNAME .
 *.narrowurl.com CNAME .
 on.natgeo.com CNAME .
@@ -9095,6 +9103,8 @@ kutt.in CNAME .
 *.kutt.in CNAME .
 kwiklinks.in CNAME .
 *.kwiklinks.in CNAME .
+labb.in CNAME .
+*.labb.in CNAME .
 lcut.in CNAME .
 *.lcut.in CNAME .
 lelink.in CNAME .
@@ -9175,6 +9185,8 @@ l.mypad.in CNAME .
 *.l.mypad.in CNAME .
 mypin.in CNAME .
 *.mypin.in CNAME .
+myurl.in CNAME .
+*.myurl.in CNAME .
 nanourl.in CNAME .
 *.nanourl.in CNAME .
 nexturl.in CNAME .
@@ -10631,6 +10643,8 @@ yul.is CNAME .
 *.yul.is CNAME .
 calcal.ist CNAME .
 *.calcal.ist CNAME .
+linq.ist CNAME .
+*.linq.ist CNAME .
 1url.it CNAME .
 *.1url.it CNAME .
 45h.it CNAME .
@@ -11413,6 +11427,8 @@ mute-fill-mood.life CNAME .
 *.mute-fill-mood.life CNAME .
 mytbg.life CNAME .
 *.mytbg.life CNAME .
+nalo.life CNAME .
+*.nalo.life CNAME .
 noicindya.life CNAME .
 *.noicindya.life CNAME .
 ovo99sports.life CNAME .
@@ -11835,6 +11851,8 @@ luminary.link CNAME .
 *.luminary.link CNAME .
 lynki.link CNAME .
 *.lynki.link CNAME .
+macau123.link CNAME .
+*.macau123.link CNAME .
 maejo.link CNAME .
 *.maejo.link CNAME .
 mcro.link CNAME .
@@ -11873,6 +11891,8 @@ nils.link CNAME .
 *.nils.link CNAME .
 nin.link CNAME .
 *.nin.link CNAME .
+nkisa.link CNAME .
+*.nkisa.link CNAME .
 nov.link CNAME .
 *.nov.link CNAME .
 nxss.link CNAME .
@@ -11929,6 +11949,8 @@ pino.link CNAME .
 *.pino.link CNAME .
 pixel.link CNAME .
 *.pixel.link CNAME .
+pkvg.link CNAME .
+*.pkvg.link CNAME .
 premex.link CNAME .
 *.premex.link CNAME .
 pressthis.link CNAME .
@@ -12327,6 +12349,10 @@ linkinc.live CNAME .
 *.linkinc.live CNAME .
 linkins.live CNAME .
 *.linkins.live CNAME .
+linkmpomax.live CNAME .
+*.linkmpomax.live CNAME .
+linkotw.live CNAME .
+*.linkotw.live CNAME .
 linkzone.live CNAME .
 *.linkzone.live CNAME .
 loaynwfv2.live CNAME .
@@ -12765,6 +12791,8 @@ cr.ma CNAME .
 *.cr.ma CNAME .
 dd.ma CNAME .
 *.dd.ma CNAME .
+ja.ma CNAME .
+*.ja.ma CNAME .
 mo.ma CNAME .
 *.mo.ma CNAME .
 okk.ma CNAME .
@@ -13357,6 +13385,8 @@ pasir.me CNAME .
 *.pasir.me CNAME .
 peerwith.me CNAME .
 *.peerwith.me CNAME .
+picklink.me CNAME .
+*.picklink.me CNAME .
 pixelfy.me CNAME .
 *.pixelfy.me CNAME .
 pixly.me CNAME .
@@ -15659,6 +15689,8 @@ loginmaxwin.pro CNAME .
 *.loginmaxwin.pro CNAME .
 lowrihouston.pro CNAME .
 *.lowrihouston.pro CNAME .
+megalink.pro CNAME .
+*.megalink.pro CNAME .
 menangjp.pro CNAME .
 *.menangjp.pro CNAME .
 midget.pro CNAME .
@@ -17371,6 +17403,8 @@ itdmusic.top CNAME .
 *.itdmusic.top CNAME .
 jmal.top CNAME .
 *.jmal.top CNAME .
+kagk.top CNAME .
+*.kagk.top CNAME .
 klik.top CNAME .
 *.klik.top CNAME .
 laowangfabu.top CNAME .
@@ -18509,6 +18543,8 @@ lillink.xyz CNAME .
 *.lillink.xyz CNAME .
 linkdpx.xyz CNAME .
 *.linkdpx.xyz CNAME .
+linkis.xyz CNAME .
+*.linkis.xyz CNAME .
 linkol.xyz CNAME .
 *.linkol.xyz CNAME .
 litt.xyz CNAME .
