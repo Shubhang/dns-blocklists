@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 22:40 UTC
-# Version: 2025.1108.2240.55
+# Last modified: 09 Nov 2025 02:36 UTC
+# Version: 2025.1109.0236.21
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 3861
 #
@@ -656,7 +656,6 @@
 0.0.0.0 www.closetruth.date
 0.0.0.0 dns.cloud-admin.xyz
 0.0.0.0 doh.cloud-sekeng.com
-0.0.0.0 cloudbenders.fun
 0.0.0.0 dns.cloudfiction.eu
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 dns.cloudflare.com
@@ -2988,6 +2987,7 @@
 0.0.0.0 nl.dns.privex.io
 0.0.0.0 dns.valbatos.pro.vn
 0.0.0.0 project-evoex.de
+0.0.0.0 dns.propheci.xyz
 0.0.0.0 adg.proprietarypenguin.com
 0.0.0.0 dns.proprietarypenguin.com
 0.0.0.0 prostoclub.ru

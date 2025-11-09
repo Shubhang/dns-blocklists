@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 22:35 UTC
-# Version: 2025.1108.2235.05
+# Last modified: 09 Nov 2025 02:30 UTC
+# Version: 2025.1109.0230.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11444
+# Number of entries: 11447
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6611,30 +6611,23 @@ local=/multicanais.live/
 local=/multicanaishd.online/
 local=/multimovies.center/
 local=/multimovies.cheap/
-local=/multimovies.city/
 local=/multimovies.click/
 local=/multimovies.cloud/
 local=/multimovies.com/
 local=/multimovies.coupons/
-local=/multimovies.digital/
 local=/multimovies.forum/
 local=/multimovies.guru/
 local=/multimovies.lol/
 local=/multimovies.media/
-local=/multimovies.mobi/
 local=/multimovies.network/
 local=/multimovies.nl/
 local=/multimovies.onl/
 local=/multimovies.online/
-local=/multimovies.press/
 local=/multimovies.run/
-local=/multimovies.sale/
 local=/multimovies.sbs/
-local=/multimovies.store/
 local=/multimovies.vip/
 local=/multimovies.website/
 local=/multimovies.work/
-local=/multimovies.world/
 local=/multimovies.xyz/
 local=/multreactor.ru/
 local=/mults.info/
@@ -7869,6 +7862,7 @@ local=/quantus.tv/
 local=/quebec-partage.com/
 local=/quebec-team.net/
 local=/quedustreaming.com/
+local=/quest4play.xyz/
 local=/quetelbd.net/
 local=/quez.in/
 local=/quezstresser.com/
@@ -7943,6 +7937,7 @@ local=/rarbgaccess.org/
 local=/rarbgaccessed.org/
 local=/rarbgcore.org/
 local=/rarbgdata.org/
+local=/rarbgenter.org/
 local=/rarbgget.org/
 local=/rarbggo.org/
 local=/rarbggo.to/
@@ -7974,6 +7969,7 @@ local=/raspberryheaven.net/
 local=/raulken.it/
 local=/rautaportti.net/
 local=/rawkbawx.rocks/
+local=/rawlayer.com/
 local=/rbtv77.work/
 local=/rcahub.com/
 local=/rdconlinebd.net/
@@ -7989,6 +7985,7 @@ local=/real-fmovies.show/
 local=/realfiles.net/
 local=/mail.realliferpg.de/
 local=/realstation.live/
+local=/realstresser.com/
 local=/rebellyon.tv/
 local=/reboot.tube/
 local=/receitasone.com/
@@ -8063,6 +8060,7 @@ local=/rezi.one/
 local=/rezka.ag/
 local=/ezis-amarftp.rf.gd/
 local=/store.rg-adguard.net/
+local=/rg-mechanics.club/
 local=/rg-mechanics.org/
 local=/rgfootball.net/
 local=/bt.rghost.net/
@@ -8075,6 +8073,7 @@ local=/gwp2-v19.rinet.ru/
 local=/rintor.info/
 local=/rintor.net/
 local=/rintor.org/
+local=/riper.am/
 local=/riper.online/
 local=/riperam.org/
 local=/ripple.is/
@@ -8131,6 +8130,7 @@ local=/rojadirectatvhd.me/
 local=/rojadirectatvhd.site/
 local=/rojadirectatvs.com/
 local=/rojadirectaz.top/
+local=/rojadirectenvivo.me/
 local=/rojadiretta.me/
 local=/rojatv.tv/
 local=/rom-news.com/
@@ -8177,6 +8177,7 @@ local=/rtorrent.net/
 local=/rulu.co/
 local=/rune-server.org/
 local=/runwaybroadband.com/
+local=/rus-media.org/
 local=/russianfilmhub.com/
 local=/rustorka.com/
 local=/rustradio.org/
@@ -8240,6 +8241,7 @@ local=/savebt.com/
 local=/savefiles.com/
 local=/savefrom.bz/
 local=/saveig.in/
+local=/saveitfrom.com/
 local=/sbaofficial.com/
 local=/sbenny.com/
 local=/sbmods.in/
@@ -9137,6 +9139,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

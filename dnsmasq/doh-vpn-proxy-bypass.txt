@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 22:41 UTC
-# Version: 2025.1108.2241.31
+# Last modified: 09 Nov 2025 02:36 UTC
+# Version: 2025.1109.0236.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6843
+# Number of entries: 6852
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -919,7 +919,6 @@ local=/cloakvpn.com/
 local=/closetruth.date/
 local=/dns.cloud-admin.xyz/
 local=/doh.cloud-sekeng.com/
-local=/cloudbenders.fun/
 local=/dns.cloudfiction.eu/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/learn.wiki-edu.xyz.cdn.cloudflare.net/
@@ -4155,6 +4154,7 @@ local=/media.logic.postie.org/
 local=/potatovpn.io/
 local=/dns.powerbs.net/
 local=/doh.powerdns.org/
+local=/poxy.pl/
 local=/adguard-server.pp.ua/
 local=/2.alpo.pp.ua/
 local=/angry.pp.ua/
@@ -4228,6 +4228,7 @@ local=/dns.valbatos.pro.vn/
 local=/pro-tower.com/
 local=/prointern.info/
 local=/project-evoex.de/
+local=/dns.propheci.xyz/
 local=/adg.proprietarypenguin.com/
 local=/dns.proprietarypenguin.com/
 local=/edu.prostitutki-na-vyezd.com/
@@ -4293,6 +4294,7 @@ local=/proxy-best.com/
 local=/proxy-bypass.com/
 local=/proxy-cheap.com/
 local=/proxy-german.de/
+local=/proxy-internet.info/
 local=/proxy-list.download/
 local=/proxy-n-vpn.com/
 local=/proxy-search.com/
@@ -4533,6 +4535,7 @@ local=/hk.reaticle.com/
 local=/dns.reckoningslug.name/
 local=/vladimirloljk.lollipopyum.liveastheman.reconectar.cl/
 local=/topwriting.redalameda.cl/
+local=/redhoodie.site/
 local=/redproxy.info/
 local=/dns.redroot.cc/
 local=/redschool.info/
@@ -4666,6 +4669,12 @@ local=/sandmining.us/
 local=/sandparticles.us/
 local=/sandvpn.com/
 local=/dns.saneaki.com/
+local=/backend.development.sanluix.org/
+local=/database.development.sanluix.org/
+local=/frontend.development.sanluix.org/
+local=/mobile.development.sanluix.org/
+local=/tools.development.sanluix.org/
+local=/lol.sanluix.org/
 local=/saoudiproxy.info/
 local=/router.sapib.ca/
 local=/adb-dns.sapient.cyou/

@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 22:40 UTC
-# Version: 2025.1108.2240.55
+# Last modified: 09 Nov 2025 02:36 UTC
+# Version: 2025.1109.0236.21
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3385
 #
@@ -561,7 +561,6 @@ local=/adguard.clmnnt.codes/
 local=/closetruth.date/
 local=/dns.cloud-admin.xyz/
 local=/doh.cloud-sekeng.com/
-local=/cloudbenders.fun/
 local=/dns.cloudfiction.eu/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
@@ -2590,6 +2589,7 @@ local=/de.dns.privex.io/
 local=/nl.dns.privex.io/
 local=/dns.valbatos.pro.vn/
 local=/project-evoex.de/
+local=/dns.propheci.xyz/
 local=/adg.proprietarypenguin.com/
 local=/dns.proprietarypenguin.com/
 local=/prostoclub.ru/

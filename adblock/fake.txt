@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 21:28 UTC
-! Version: 2025.1108.2128.19
+! Last modified: 09 Nov 2025 01:27 UTC
+! Version: 2025.1109.0127.04
 ! Syntax: AdBlock
-! Number of entries: 14224
+! Number of entries: 14254
 !
 ||01broker.com^
 ||01crypto.com^
@@ -10159,6 +10159,7 @@
 ||lp.potenzmittel.gratis^
 ||potenzmittel-1.com^
 ||potenzmittel-apotheke.biz^
+||potenzmittel-apotheke.eu^
 ||potenzmittel-kaufen-deutschland.com^
 ||potenzmittelapotheke24at.com^
 ||potenzmittelonlinekaufen.org^
@@ -10180,6 +10181,7 @@
 ||pranaclothingcanada.com^
 ||pranakleidung.com^
 ||prashanti-baumarkt.com^
+||praxis-natuerlichgesund.de^
 ||prdictorehad.com^
 ||precidion.com^
 ||precioustreasuresdeutschland.com^
@@ -10197,6 +10199,7 @@
 ||preminantdo.com^
 ||premison.de^
 ||premium-feuer.com^
+||premium-heizoel.com^
 ||premium-spot.com^
 ||premium-toolsverkaufen.com^
 ||premium-yields.com^
@@ -10214,12 +10217,14 @@
 ||presseausweis-beantragen.at^
 ||pressl.co^
 ||prestige-vin.com^
+||prestigebanq.com^
 ||prestonoutlet.com^
 ||prettyaccord.com^
 ||prettylittlekitchen.com^
 ||prettystarme.com^
 ||prevailk.com^
 ||prevalentw.com^
+||previdialkredit.com^
 ||priceslash.shop^
 ||primada.de^
 ||primaprofi-reinigung.at^
@@ -10227,6 +10232,7 @@
 ||prime-analytics.de^
 ||prime-deutschland.com^
 ||prime-e-bike.eu^
+||prime-moda.com^
 ||prime-smog.com^
 ||primecapitals.de^
 ||primecargotransit.com^
@@ -10271,6 +10277,7 @@
 ||produit-structure.com^
 ||produktretter.at^
 ||produtosachados.digital^
+||proevery.com^
 ||profibikes.de^
 ||proficienct.com^
 ||profititerra.co^
@@ -10295,6 +10302,7 @@
 ||propagaty.com^
 ||propellerfinnen.com^
 ||properties-list.com^
+||property-24.com^
 ||proposalt.com^
 ||propositiok.com^
 ||proskillpath.online^
@@ -10355,6 +10363,7 @@
 ||fr.puprime.online^
 ||purawerk-gmbh.de^
 ||pure-chaleur.com^
+||puregadget.store^
 ||pureglowde.com^
 ||purelywhitedeluxe.com^
 ||pureprefer.com^
@@ -10435,6 +10444,7 @@
 ||qxequitytrade.com^
 ||qyfgjd.com^
 ||hausvorlage.qzkajy.top^
+||qzzfg7zy0r.online^
 ||r.de^
 ||r7-bike.com^
 ||r7-tools.com^
@@ -10471,6 +10481,7 @@
 ||radixinvest.com^
 ||radsturm.de^
 ||radtourmitthule.de^
+||radtrikotoutlet.de^
 ||raduniversum.de^
 ||radwunder.de^
 ||radzeit.com^
@@ -10521,6 +10532,7 @@
 ||rattzekatz.com^
 ||raumausstatter-conrad.shop^
 ||raumdeko-supply.com^
+||raumgartenwerk.de^
 ||raumzauberde.com^
 ||rauschde.site^
 ||rawu.ink^
@@ -10646,6 +10658,7 @@
 ||remstone.eu^
 ||renado.de^
 ||renatainformatica.com^
+||renditeexperte.com^
 ||rennkurbelde.com^
 ||rennradberater.com^
 ||rennradergravel.com^
@@ -10692,11 +10705,13 @@
 ||retter-de.shop^
 ||returnpotentialonline.com^
 ||reubenco.com^
+||reveilove.com^
 ||reviewpunt.nl^
 ||revitaprost.eu^
 ||revoltmode.com^
 ||revolutionracecam.com^
 ||revolutionraceinc.com^
+||revolutionracemag.com^
 ||revolutionraceshop.com^
 ||revolutionracesweet.com^
 ||revolutionraoe.com^
@@ -10761,6 +10776,7 @@
 ||rinkieker.de^
 ||riptidesoccer.org^
 ||risora.de^
+||rissionshop.de^
 ||peakexperiences.ritll.com^
 ||sportodyssey.ritll.com^
 ||ritter-mode.com^
@@ -10785,6 +10801,7 @@
 ||robelshoes.at^
 ||robertoserafini.store^
 ||robertosthelabel.com^
+||app.robex-ai.com^
 ||robo-center.com^
 ||robo-fx.co^
 ||robo-wienburg.com^
@@ -10876,6 +10893,7 @@
 ||rovikshop.de^
 ||rovux.co^
 ||rowa-versand.de^
+||roxyaustria.com^
 ||roxydubai.com^
 ||roxysgd.com^
 ||roxyski.de^
@@ -10917,6 +10935,7 @@
 ||rundummobil.de^
 ||runons.club^
 ||russellnbromleycanada.com^
+||russiannewstoday.com^
 ||russmohl.de^
 ||rutherford.life^
 ||ruthmode.de^
@@ -11001,6 +11020,7 @@
 ||snipes.sales-eu.com^
 ||salesaddle.com^
 ||salesceramic.com^
+||salescomplex.com^
 ||salesconsulter.de^
 ||salesdaddymasterclass.com^
 ||salesorganics.com^
@@ -11027,6 +11047,7 @@
 ||salomonoutletgermany.de^
 ||salomonoutletireland.com^
 ||salomonoutletstoresusa.com^
+||salomonschuhesale.de^
 ||salomonshoesbulgaria.com^
 ||salomonstoreosterreich.at^
 ||salomonsuomi.com^
@@ -11043,6 +11064,7 @@
 ||samofotografie.de^
 ||samsoe-outlet.shop^
 ||samsonitedeutschland.de^
+||samsonitesuomi.com^
 ||samsonitexdeutschland.de^
 ||fr.samtradefx.com^
 ||sandalenhausschuhe.com^
@@ -11072,6 +11094,7 @@
 ||saopauloautopeca.com^
 ||saphirvogel.de^
 ||sapientfinancial.ltd^
+||sara-berlin.com^
 ||sarahmo.de^
 ||sarahravengb.com^
 ||saramaud.com^
@@ -11111,6 +11134,7 @@
 ||scarpiereingresso.com^
 ||sccottdiscount.com^
 ||scd-invest.com^
+||scentuelle.de^
 ||schaffelhuberconsulting.de^
 ||schafflutzel-motorgerate.com^
 ||schallreiniger.de^
@@ -11129,6 +11153,8 @@
 ||schlafhimmel.com^
 ||schlaftabletten-rezeptfrei.org^
 ||schlagschrauberfive.com^
+||schleichsite.com^
+||schleichworld.com^
 ||schloss-pichler.at^
 ||schluchsee-ferienwohnung.de^
 ||schluesseldienst-hilfe.at^
@@ -11227,7 +11253,10 @@
 ||sebagoantwerpen.com^
 ||sebagobruxelles.com^
 ||sebagodeckshoesireland.com^
+||sebagosaat.com^
 ||sebagoschoenen.com^
+||sebagoshoesgreece.com^
+||sebagozapatos.com^
 ||sebastian-stenzel.de^
 ||secrettime.shop^
 ||secureinvest.org^
@@ -12754,6 +12783,7 @@
 ||toystik.com^
 ||toystom.com^
 ||tozido.de^
+||tpcinvest.com^
 ||tqdjywjx.shop^
 ||trabo-garten.de^
 ||tracht-aporter.com^

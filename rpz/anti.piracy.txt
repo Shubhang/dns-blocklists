@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762641300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762655400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Nov 2025 22:35 UTC
-; Version: 2025.1108.2235.05
+; Last modified: 09 Nov 2025 02:30 UTC
+; Version: 2025.1109.0230.58
 ; Syntax: RPZ
-; Number of entries: 22888
+; Number of entries: 22894
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -174,6 +174,8 @@ mamul.am CNAME .
 *.mamul.am CNAME .
 putlockers.am CNAME .
 *.putlockers.am CNAME .
+riper.am CNAME .
+*.riper.am CNAME .
 vegamovies.am CNAME .
 *.vegamovies.am CNAME .
 yts.am CNAME .
@@ -1818,8 +1820,6 @@ hdmovie2.city CNAME .
 *.hdmovie2.city CNAME .
 kinox.city CNAME .
 *.kinox.city CNAME .
-multimovies.city CNAME .
-*.multimovies.city CNAME .
 r365.city CNAME .
 *.r365.city CNAME .
 streamingcommunity.city CNAME .
@@ -2074,6 +2074,8 @@ old.pubfilms.club CNAME .
 *.old.pubfilms.club CNAME .
 rarbg.club CNAME .
 *.rarbg.club CNAME .
+rg-mechanics.club CNAME .
+*.rg-mechanics.club CNAME .
 isk.richardsw.club CNAME .
 *.isk.richardsw.club CNAME .
 rips.club CNAME .
@@ -6540,12 +6542,16 @@ rarelust.com CNAME .
 *.rarelust.com CNAME .
 rarlinks.com CNAME .
 *.rarlinks.com CNAME .
+rawlayer.com CNAME .
+*.rawlayer.com CNAME .
 rcahub.com CNAME .
 *.rcahub.com CNAME .
 readallcomics.com CNAME .
 *.readallcomics.com CNAME .
 real-debrid.com CNAME .
 *.real-debrid.com CNAME .
+realstresser.com CNAME .
+*.realstresser.com CNAME .
 receitasone.com CNAME .
 *.receitasone.com CNAME .
 redbeltmovie.com CNAME .
@@ -6692,6 +6698,8 @@ savebt.com CNAME .
 *.savebt.com CNAME .
 savefiles.com CNAME .
 *.savefiles.com CNAME .
+saveitfrom.com CNAME .
+*.saveitfrom.com CNAME .
 sbaofficial.com CNAME .
 *.sbaofficial.com CNAME .
 sbenny.com CNAME .
@@ -8748,8 +8756,6 @@ manganime.digital CNAME .
 *.manganime.digital CNAME .
 metromedia.digital CNAME .
 *.metromedia.digital CNAME .
-multimovies.digital CNAME .
-*.multimovies.digital CNAME .
 putlocker.digital CNAME .
 *.putlocker.digital CNAME .
 serien.digital CNAME .
@@ -12198,6 +12204,8 @@ rojadirectai.me CNAME .
 *.rojadirectai.me CNAME .
 rojadirectatvhd.me CNAME .
 *.rojadirectatvhd.me CNAME .
+rojadirectenvivo.me CNAME .
+*.rojadirectenvivo.me CNAME .
 rojadiretta.me CNAME .
 *.rojadiretta.me CNAME .
 ronaldo7.me CNAME .
@@ -12250,6 +12258,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -12444,8 +12454,6 @@ liteapks.mobi CNAME .
 *.liteapks.mobi CNAME .
 lookmovie.mobi CNAME .
 *.lookmovie.mobi CNAME .
-multimovies.mobi CNAME .
-*.multimovies.mobi CNAME .
 streamingcommunity.mobi CNAME .
 *.streamingcommunity.mobi CNAME .
 tantifilm.mobi CNAME .
@@ -16458,6 +16466,8 @@ rarbgcore.org CNAME .
 *.rarbgcore.org CNAME .
 rarbgdata.org CNAME .
 *.rarbgdata.org CNAME .
+rarbgenter.org CNAME .
+*.rarbgenter.org CNAME .
 rarbgget.org CNAME .
 *.rarbgget.org CNAME .
 rarbggo.org CNAME .
@@ -16514,6 +16524,8 @@ rom-news.org CNAME .
 *.rom-news.org CNAME .
 rune-server.org CNAME .
 *.rune-server.org CNAME .
+rus-media.org CNAME .
+*.rus-media.org CNAME .
 rustradio.org CNAME .
 *.rustradio.org CNAME .
 rutor.org CNAME .
@@ -17384,8 +17396,6 @@ hdmovie2.poker CNAME .
 *.hdmovie2.poker CNAME .
 vegamovies.poker CNAME .
 *.vegamovies.poker CNAME .
-multimovies.press CNAME .
-*.multimovies.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
 vegamovies.press CNAME .
@@ -18676,8 +18686,6 @@ hdmovie2.sale CNAME .
 *.hdmovie2.sale CNAME .
 ilgeniodellostreaming.sale CNAME .
 *.ilgeniodellostreaming.sale CNAME .
-multimovies.sale CNAME .
-*.multimovies.sale CNAME .
 streamingcommunity.sale CNAME .
 *.streamingcommunity.sale CNAME .
 world4ufree.sale CNAME .
@@ -19392,8 +19400,6 @@ moviecluphd.store CNAME .
 *.moviecluphd.store CNAME .
 movt70.store CNAME .
 *.movt70.store CNAME .
-multimovies.store CNAME .
-*.multimovies.store CNAME .
 owijfsldkjf.store CNAME .
 *.owijfsldkjf.store CNAME .
 rpyztjadsbonh.store CNAME .
@@ -22118,8 +22124,6 @@ hesgoal.world CNAME .
 *.hesgoal.world CNAME .
 igram.world CNAME .
 *.igram.world CNAME .
-multimovies.world CNAME .
-*.multimovies.world CNAME .
 net3lix.world CNAME .
 *.net3lix.world CNAME .
 pirateproxy.world CNAME .
@@ -22730,6 +22734,8 @@ publictracker.xyz CNAME .
 *.publictracker.xyz CNAME .
 putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
+quest4play.xyz CNAME .
+*.quest4play.xyz CNAME .
 rainveil36.xyz CNAME .
 *.rainveil36.xyz CNAME .
 rainwhisper40.xyz CNAME .

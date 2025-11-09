@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Nov 2025 22:41 UTC
-! Version: 2025.1108.2241.24
+! Last modified: 09 Nov 2025 02:36 UTC
+! Version: 2025.1109.0236.48
 ! Syntax: AdBlock
 ! Number of entries: 569
 !
@@ -111,7 +111,6 @@
 ||canadianshield.cira.ca^
 ||dns.circl.lu^
 ||cleanbrowsing.org^
-||cloudbenders.fun^
 ||dns.cloudflare.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -420,6 +419,7 @@
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||project-evoex.de^
+||dns.propheci.xyz^
 ||dns.psociety.de^
 ||publicdnsserver.com^
 ||dns.pumpkinvrar.com^
