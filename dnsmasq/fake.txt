@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 17:27 UTC
-# Version: 2025.1109.1727.10
+# Last modified: 10 Nov 2025 09:26 UTC
+# Version: 2025.1110.0926.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14323
+# Number of entries: 14318
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1343,7 +1343,6 @@ local=/besseregesunheit.com/
 local=/best-apotheke.online/
 local=/best-bike-outdoor.com/
 local=/best-camping-deals.com/
-local=/best-cheap-pharmacy.com/
 local=/best-elekt.com/
 local=/best-garden24.de/
 local=/best-good-winery.com/
@@ -2231,6 +2230,7 @@ local=/centsyshop.com/
 local=/cerabone.cz/
 local=/ceramicjapan-de.com/
 local=/ceramictablewareshop.com/
+local=/cerebrum-iq.com/
 local=/certainlyo.com/
 local=/cervus-bike.de/
 local=/cescory.com/
@@ -2400,6 +2400,7 @@ local=/climbersequip.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
+local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -3522,7 +3523,6 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
-local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -6216,7 +6216,6 @@ local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
-local=/hotelinphuket.net/
 local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-colorado.net/
@@ -6224,7 +6223,6 @@ local=/hotels-in-tyrol.com/
 local=/hotelsinperm.ru/
 local=/hotelsinvienna.org/
 local=/hotelsofmenorca.com/
-local=/hotelsofnewyorkcity.net/
 local=/hotelwareus.com/
 local=/hotelwhales.com/
 local=/hotix.de/
@@ -6324,7 +6322,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -6578,7 +6575,6 @@ local=/inteigral.com/
 local=/inteiograly.com/
 local=/intelilawllp.com/
 local=/intellisynex.com/
-local=/intentionalk.com/
 local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
@@ -9497,6 +9493,7 @@ local=/onlinehealthworldtrust.com/
 local=/onlinekamagra.com/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
+local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemessershop.com/
 local=/onlinepharmx.com/
@@ -11765,7 +11762,6 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
-local=/specializeg.com/
 local=/specialmdassortment.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
@@ -12779,7 +12775,6 @@ local=/topoffice24.de/
 local=/toponlinepharmacies.com/
 local=/topoutdoorsport.com/
 local=/topoutdoorstore.com/
-local=/toppillsstore.com/
 local=/toppreis24.com/
 local=/topreinigungsmittel.com/
 local=/toprolexes.com/
