@@ -1,14 +1,14 @@
 # Unblocking for relaxed lists only
 
 # n-tv app: When blocked, a video starts again after a few seconds
-ad-ipd.sxp.smartclip.net
-des.smartclip.net
-te.technical-service.net
-te2.technical-service.net
-te.ip-prod.aws-cbc.cloud
+### ad-ipd.sxp.smartclip.net
+### des.smartclip.net
+### te.technical-service.net
+### te2.technical-service.net
+### te.ip-prod.aws-cbc.cloud
 
 # Slow loading of the top images (tiles) in the new Windows 11 App Store
-bat.bing.com
+### bat.bing.com
 
 # https://github.com/hagezi/dns-blocklists/issues/7392
 *.i.posthog.com
@@ -59,15 +59,15 @@ dit.whatsapp.net
 callrail.com
 
 # Adblock detection iOS app derstandard.at
-data-*.derstandard.at
-data-dda7d24eb2.derstandard.at
-at-w-atderstand-relay.iocnt.net
-relay-client-c03.iocnt.net
-imagesrv.adition.com
-px.staticfiles.at
+### data-*.derstandard.at
+### data-dda7d24eb2.derstandard.at
+### at-w-atderstand-relay.iocnt.net
+### relay-client-c03.iocnt.net
+### imagesrv.adition.com
+### px.staticfiles.at
 
 # https://github.com/hagezi/dns-blocklists/issues/2229
-ad3.adfarm1.adition.com
+### ad3.adfarm1.adition.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1183
 ad.71i.de

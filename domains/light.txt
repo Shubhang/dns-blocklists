@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 18:05 UTC
-# Version: 2025.1110.1805.16
+# Last modified: 10 Nov 2025 19:34 UTC
+# Version: 2025.1110.1934.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 85353
+# Number of entries: 85378
 #
 00055edc1917.com
 000free.us
@@ -8243,6 +8243,29 @@ adireto.com
 api-ao.adison.co
 cdn-ao.adison.co
 api-ao.g.adison.co
+adition.com
+ad.adition.com
+adfarm1.adition.com
+ad1.adfarm1.adition.com
+ad11.adfarm1.adition.com
+ad11p.adfarm1.adition.com
+ad13.adfarm1.adition.com
+ad2.adfarm1.adition.com
+ad3.adfarm1.adition.com
+ad4.adfarm1.adition.com
+ad7.adfarm1.adition.com
+ad71.adfarm1.adition.com
+ad9.adfarm1.adition.com
+adsdk.adfarm1.adition.com
+dsp.adfarm1.adition.com
+dsp-cookie.adfarm1.adition.com
+dspcluster.adfarm1.adition.com
+match.adfarm1.adition.com
+mobile.adfarm1.adition.com
+cd.adition.com
+imagesrv.adition.com
+track.adition.com
+vt.adition.com
 aditude.cloud
 aditude.io
 cw-static.aditude.io
@@ -23831,6 +23854,7 @@ tcx-beacon.docs.aws.dev
 prod.us-west-2.tcx-beacon.docs.aws.dev
 log.shortbread.aws.dev
 prod.log.shortbread.aws.dev
+te.ip-prod.aws-cbc.cloud
 te-static.ip-prod.aws-cbc.cloud
 track.ip-prod.aws-cbc.cloud
 watch-advertising.now-plus-prod.aws-cbc.cloud
@@ -25498,6 +25522,7 @@ analytics.binaryfortress.com
 bincatracs.com
 bindirect.click
 adsdk.bing.net
+bat.bing.com
 bat.bing.net
 c.bing.com
 www.c.bing.com
@@ -52813,6 +52838,7 @@ script.ioam.de
 ascstats.iobit.com
 stats.iobit.com
 iocnt.de
+iocnt.net
 apps.iocnt.de
 data-49877903fc.apps.iocnt.de
 data-57ee451953.apps.iocnt.de
@@ -73221,6 +73247,7 @@ smartcj.com
 smartclick.net
 c.smartclick.net
 smartclip.com
+smartclip.net
 appassets.smartclip.net
 cdn.smartclip.net
 dco.smartclip.net
@@ -74665,6 +74692,7 @@ staticfile.net
 staticfile.org
 cdn.staticfile.net
 cdn.staticfile.org
+px.staticfiles.at
 staticgalaksion.com
 iads.staticscdn.net
 staticstuff.net
@@ -76314,6 +76342,7 @@ tracker.techinfragotpush.com
 techiteration.com
 www.techiteration.com
 techmorich.com
+technical-service.net
 tr.technical-service.net
 techniciancocoon.com
 technomould.gr
@@ -80629,8 +80658,6 @@ wt.viagogo.net
 www.viagogo.se
 viagrasamplesfrompfizer.com
 viagrawinner.com
-vialotadom.com
-ak.vialotadom.com
 vianboaegiaed.website
 viantinc.com
 cdn.viantinc.com
@@ -82477,8 +82504,6 @@ sijai.wemass.com
 events.api.red.wemesh.ca
 metrics.wemod.com
 wemtagoowhoohiz.net
-wendels-bistro.com
-www.wendels-bistro.com
 wendelstein-1b.com
 wendise.com
 api-log-upload.wenext.technology

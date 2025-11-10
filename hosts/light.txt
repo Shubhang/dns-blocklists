@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 18:05 UTC
-# Version: 2025.1110.1805.16
+# Last modified: 10 Nov 2025 19:34 UTC
+# Version: 2025.1110.1934.09
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 85353
+# Number of entries: 85378
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -8243,6 +8243,29 @@
 0.0.0.0 api-ao.adison.co
 0.0.0.0 cdn-ao.adison.co
 0.0.0.0 api-ao.g.adison.co
+0.0.0.0 adition.com
+0.0.0.0 ad.adition.com
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 ad1.adfarm1.adition.com
+0.0.0.0 ad11.adfarm1.adition.com
+0.0.0.0 ad11p.adfarm1.adition.com
+0.0.0.0 ad13.adfarm1.adition.com
+0.0.0.0 ad2.adfarm1.adition.com
+0.0.0.0 ad3.adfarm1.adition.com
+0.0.0.0 ad4.adfarm1.adition.com
+0.0.0.0 ad7.adfarm1.adition.com
+0.0.0.0 ad71.adfarm1.adition.com
+0.0.0.0 ad9.adfarm1.adition.com
+0.0.0.0 adsdk.adfarm1.adition.com
+0.0.0.0 dsp.adfarm1.adition.com
+0.0.0.0 dsp-cookie.adfarm1.adition.com
+0.0.0.0 dspcluster.adfarm1.adition.com
+0.0.0.0 match.adfarm1.adition.com
+0.0.0.0 mobile.adfarm1.adition.com
+0.0.0.0 cd.adition.com
+0.0.0.0 imagesrv.adition.com
+0.0.0.0 track.adition.com
+0.0.0.0 vt.adition.com
 0.0.0.0 aditude.cloud
 0.0.0.0 aditude.io
 0.0.0.0 cw-static.aditude.io
@@ -23831,6 +23854,7 @@
 0.0.0.0 prod.us-west-2.tcx-beacon.docs.aws.dev
 0.0.0.0 log.shortbread.aws.dev
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 te.ip-prod.aws-cbc.cloud
 0.0.0.0 te-static.ip-prod.aws-cbc.cloud
 0.0.0.0 track.ip-prod.aws-cbc.cloud
 0.0.0.0 watch-advertising.now-plus-prod.aws-cbc.cloud
@@ -25498,6 +25522,7 @@
 0.0.0.0 bincatracs.com
 0.0.0.0 bindirect.click
 0.0.0.0 adsdk.bing.net
+0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 c.bing.com
 0.0.0.0 www.c.bing.com
@@ -52813,6 +52838,7 @@
 0.0.0.0 ascstats.iobit.com
 0.0.0.0 stats.iobit.com
 0.0.0.0 iocnt.de
+0.0.0.0 iocnt.net
 0.0.0.0 apps.iocnt.de
 0.0.0.0 data-49877903fc.apps.iocnt.de
 0.0.0.0 data-57ee451953.apps.iocnt.de
@@ -73221,6 +73247,7 @@
 0.0.0.0 smartclick.net
 0.0.0.0 c.smartclick.net
 0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
 0.0.0.0 appassets.smartclip.net
 0.0.0.0 cdn.smartclip.net
 0.0.0.0 dco.smartclip.net
@@ -74665,6 +74692,7 @@
 0.0.0.0 staticfile.org
 0.0.0.0 cdn.staticfile.net
 0.0.0.0 cdn.staticfile.org
+0.0.0.0 px.staticfiles.at
 0.0.0.0 staticgalaksion.com
 0.0.0.0 iads.staticscdn.net
 0.0.0.0 staticstuff.net
@@ -76314,6 +76342,7 @@
 0.0.0.0 techiteration.com
 0.0.0.0 www.techiteration.com
 0.0.0.0 techmorich.com
+0.0.0.0 technical-service.net
 0.0.0.0 tr.technical-service.net
 0.0.0.0 techniciancocoon.com
 0.0.0.0 technomould.gr
@@ -80629,8 +80658,6 @@
 0.0.0.0 www.viagogo.se
 0.0.0.0 viagrasamplesfrompfizer.com
 0.0.0.0 viagrawinner.com
-0.0.0.0 vialotadom.com
-0.0.0.0 ak.vialotadom.com
 0.0.0.0 vianboaegiaed.website
 0.0.0.0 viantinc.com
 0.0.0.0 cdn.viantinc.com
@@ -82477,8 +82504,6 @@
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 metrics.wemod.com
 0.0.0.0 wemtagoowhoohiz.net
-0.0.0.0 wendels-bistro.com
-0.0.0.0 www.wendels-bistro.com
 0.0.0.0 wendelstein-1b.com
 0.0.0.0 wendise.com
 0.0.0.0 api-log-upload.wenext.technology

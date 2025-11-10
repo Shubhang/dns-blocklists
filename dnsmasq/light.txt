@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 18:05 UTC
-# Version: 2025.1110.1805.16
+# Last modified: 10 Nov 2025 19:34 UTC
+# Version: 2025.1110.1934.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 43112
+# Number of entries: 43080
 #
 local=/00055edc1917.com/
 local=/000free.us/
@@ -3673,6 +3673,7 @@ local=/adireto.com/
 local=/api-ao.adison.co/
 local=/cdn-ao.adison.co/
 local=/api-ao.g.adison.co/
+local=/adition.com/
 local=/aditude.cloud/
 local=/aditude.io/
 local=/adivery.com/
@@ -7024,6 +7025,7 @@ local=/awrgykbzmzmjz.online/
 local=/awritwssbcfqcow.com/
 local=/tcx-beacon.docs.aws.dev/
 local=/log.shortbread.aws.dev/
+local=/te.ip-prod.aws-cbc.cloud/
 local=/te-static.ip-prod.aws-cbc.cloud/
 local=/track.ip-prod.aws-cbc.cloud/
 local=/watch-advertising.now-plus-prod.aws-cbc.cloud/
@@ -8221,6 +8223,7 @@ local=/analytics.binaryfortress.com/
 local=/bincatracs.com/
 local=/bindirect.click/
 local=/adsdk.bing.net/
+local=/bat.bing.com/
 local=/bat.bing.net/
 local=/c.bing.com/
 local=/commerce.bing.com/
@@ -22183,30 +22186,7 @@ local=/ioam.de/
 local=/ascstats.iobit.com/
 local=/stats.iobit.com/
 local=/iocnt.de/
-local=/apptbkic-relay.iocnt.net/
-local=/at.iocnt.net/
-local=/at-w-atorf-relay.iocnt.net/
-local=/bild-relay.iocnt.net/
-local=/config-at.iocnt.net/
-local=/haz-relay.iocnt.net/
-local=/kicker-relay.iocnt.net/
-local=/mobaubi-relay.iocnt.net/
-local=/mobbild-relay.iocnt.net/
-local=/mobhaz-relay.iocnt.net/
-local=/mobippen-relay.iocnt.net/
-local=/mobkicke-relay.iocnt.net/
-local=/mobmhs-relay.iocnt.net/
-local=/mobpromo-relay.iocnt.net/
-local=/mobt3n-relay.iocnt.net/
-local=/mobtoi-relay.iocnt.net/
-local=/mobwatso-relay.iocnt.net/
-local=/mobwelt-relay.iocnt.net/
-local=/relay-client-c01.iocnt.net/
-local=/relay-client-c02.iocnt.net/
-local=/relay-client-c07.iocnt.net/
-local=/script-at.iocnt.net/
-local=/toi-relay.iocnt.net/
-local=/welt-relay.iocnt.net/
+local=/iocnt.net/
 local=/iodidlawlike.com/
 local=/advzone.ioe.vn/
 local=/iofeguoyhemey.space/
@@ -34966,18 +34946,7 @@ local=/smartbotfx.com/
 local=/smartcj.com/
 local=/smartclick.net/
 local=/smartclip.com/
-local=/appassets.smartclip.net/
-local=/cdn.smartclip.net/
-local=/dco.smartclip.net/
-local=/hbbtv.smartclip.net/
-local=/stats.smartclip.net/
-local=/ad.sxp.smartclip.net/
-local=/bid.sxp.smartclip.net/
-local=/des.sxp.smartclip.net/
-local=/hoover.sxp.smartclip.net/
-local=/hoovermedia.sxp.smartclip.net/
-local=/stats.sxp.smartclip.net/
-local=/sync.sxp.smartclip.net/
+local=/smartclip.net/
 local=/smartclip-services.com/
 local=/smartcpatrack.com/
 local=/smartdatacollective.com/
@@ -35874,6 +35843,7 @@ local=/static-swaven.com/
 local=/staticcc.com/
 local=/staticfile.net/
 local=/staticfile.org/
+local=/px.staticfiles.at/
 local=/staticgalaksion.com/
 local=/iads.staticscdn.net/
 local=/staticstuff.net/
@@ -36912,7 +36882,7 @@ local=/advmanager.techfun.pl/
 local=/techinfragotpush.com/
 local=/techiteration.com/
 local=/techmorich.com/
-local=/tr.technical-service.net/
+local=/technical-service.net/
 local=/techniciancocoon.com/
 local=/technomould.gr/
 local=/technoratimedia.com/
@@ -39687,7 +39657,6 @@ local=/viagogo.se/
 local=/wt.viagogo.net/
 local=/viagrasamplesfrompfizer.com/
 local=/viagrawinner.com/
-local=/vialotadom.com/
 local=/vianboaegiaed.website/
 local=/viantinc.com/
 local=/telemetry.app.viator.com/
@@ -40912,7 +40881,6 @@ local=/wemass.com/
 local=/events.api.red.wemesh.ca/
 local=/metrics.wemod.com/
 local=/wemtagoowhoohiz.net/
-local=/wendels-bistro.com/
 local=/wendelstein-1b.com/
 local=/wendise.com/
 local=/api-log-upload.wenext.technology/

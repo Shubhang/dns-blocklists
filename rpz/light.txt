@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762797900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762803240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Nov 2025 18:05 UTC
-; Version: 2025.1110.1805.16
+; Last modified: 10 Nov 2025 19:34 UTC
+; Version: 2025.1110.1934.09
 ; Syntax: RPZ
-; Number of entries: 86224
+; Number of entries: 86160
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -870,6 +870,8 @@ telemetry.sol-it.at CNAME .
 *.telemetry.sol-it.at CNAME .
 srtuiyhuali.at CNAME .
 *.srtuiyhuali.at CNAME .
+px.staticfiles.at CNAME .
+*.px.staticfiles.at CNAME .
 matomo.touristik.at CNAME .
 *.matomo.touristik.at CNAME .
 matomo.verbundlinie.at CNAME .
@@ -7084,6 +7086,8 @@ aiml-google.cloud CNAME .
 *.aiml-google.cloud CNAME .
 measure.lamp.avct.cloud CNAME .
 *.measure.lamp.avct.cloud CNAME .
+te.ip-prod.aws-cbc.cloud CNAME .
+*.te.ip-prod.aws-cbc.cloud CNAME .
 te-static.ip-prod.aws-cbc.cloud CNAME .
 *.te-static.ip-prod.aws-cbc.cloud CNAME .
 track.ip-prod.aws-cbc.cloud CNAME .
@@ -11800,6 +11804,8 @@ adipolosolutions.com CNAME .
 *.adipolosolutions.com CNAME .
 adireto.com CNAME .
 *.adireto.com CNAME .
+adition.com CNAME .
+*.adition.com CNAME .
 adivery.com CNAME .
 *.adivery.com CNAME .
 adizio.com CNAME .
@@ -17250,6 +17256,8 @@ analytics.binaryfortress.com CNAME .
 *.analytics.binaryfortress.com CNAME .
 bincatracs.com CNAME .
 *.bincatracs.com CNAME .
+bat.bing.com CNAME .
+*.bat.bing.com CNAME .
 c.bing.com CNAME .
 *.c.bing.com CNAME .
 commerce.bing.com CNAME .
@@ -52138,8 +52146,6 @@ viagrasamplesfrompfizer.com CNAME .
 *.viagrasamplesfrompfizer.com CNAME .
 viagrawinner.com CNAME .
 *.viagrawinner.com CNAME .
-vialotadom.com CNAME .
-*.vialotadom.com CNAME .
 viantinc.com CNAME .
 *.viantinc.com CNAME .
 telemetry.app.viator.com CNAME .
@@ -53810,8 +53816,6 @@ wemass.com CNAME .
 *.wemass.com CNAME .
 metrics.wemod.com CNAME .
 *.metrics.wemod.com CNAME .
-wendels-bistro.com CNAME .
-*.wendels-bistro.com CNAME .
 wendelstein-1b.com CNAME .
 *.wendelstein-1b.com CNAME .
 wendise.com CNAME .
@@ -70262,54 +70266,8 @@ intermesh.net CNAME .
 *.intermesh.net CNAME .
 invoca.net CNAME .
 *.invoca.net CNAME .
-apptbkic-relay.iocnt.net CNAME .
-*.apptbkic-relay.iocnt.net CNAME .
-at.iocnt.net CNAME .
-*.at.iocnt.net CNAME .
-at-w-atorf-relay.iocnt.net CNAME .
-*.at-w-atorf-relay.iocnt.net CNAME .
-bild-relay.iocnt.net CNAME .
-*.bild-relay.iocnt.net CNAME .
-config-at.iocnt.net CNAME .
-*.config-at.iocnt.net CNAME .
-haz-relay.iocnt.net CNAME .
-*.haz-relay.iocnt.net CNAME .
-kicker-relay.iocnt.net CNAME .
-*.kicker-relay.iocnt.net CNAME .
-mobaubi-relay.iocnt.net CNAME .
-*.mobaubi-relay.iocnt.net CNAME .
-mobbild-relay.iocnt.net CNAME .
-*.mobbild-relay.iocnt.net CNAME .
-mobhaz-relay.iocnt.net CNAME .
-*.mobhaz-relay.iocnt.net CNAME .
-mobippen-relay.iocnt.net CNAME .
-*.mobippen-relay.iocnt.net CNAME .
-mobkicke-relay.iocnt.net CNAME .
-*.mobkicke-relay.iocnt.net CNAME .
-mobmhs-relay.iocnt.net CNAME .
-*.mobmhs-relay.iocnt.net CNAME .
-mobpromo-relay.iocnt.net CNAME .
-*.mobpromo-relay.iocnt.net CNAME .
-mobt3n-relay.iocnt.net CNAME .
-*.mobt3n-relay.iocnt.net CNAME .
-mobtoi-relay.iocnt.net CNAME .
-*.mobtoi-relay.iocnt.net CNAME .
-mobwatso-relay.iocnt.net CNAME .
-*.mobwatso-relay.iocnt.net CNAME .
-mobwelt-relay.iocnt.net CNAME .
-*.mobwelt-relay.iocnt.net CNAME .
-relay-client-c01.iocnt.net CNAME .
-*.relay-client-c01.iocnt.net CNAME .
-relay-client-c02.iocnt.net CNAME .
-*.relay-client-c02.iocnt.net CNAME .
-relay-client-c07.iocnt.net CNAME .
-*.relay-client-c07.iocnt.net CNAME .
-script-at.iocnt.net CNAME .
-*.script-at.iocnt.net CNAME .
-toi-relay.iocnt.net CNAME .
-*.toi-relay.iocnt.net CNAME .
-welt-relay.iocnt.net CNAME .
-*.welt-relay.iocnt.net CNAME .
+iocnt.net CNAME .
+*.iocnt.net CNAME .
 ip-label.net CNAME .
 *.ip-label.net CNAME .
 tracking.ibotta-classic.ipn-ops.net CNAME .
@@ -71650,30 +71608,8 @@ smart-ip.net CNAME .
 *.smart-ip.net CNAME .
 smartclick.net CNAME .
 *.smartclick.net CNAME .
-appassets.smartclip.net CNAME .
-*.appassets.smartclip.net CNAME .
-cdn.smartclip.net CNAME .
-*.cdn.smartclip.net CNAME .
-dco.smartclip.net CNAME .
-*.dco.smartclip.net CNAME .
-hbbtv.smartclip.net CNAME .
-*.hbbtv.smartclip.net CNAME .
-stats.smartclip.net CNAME .
-*.stats.smartclip.net CNAME .
-ad.sxp.smartclip.net CNAME .
-*.ad.sxp.smartclip.net CNAME .
-bid.sxp.smartclip.net CNAME .
-*.bid.sxp.smartclip.net CNAME .
-des.sxp.smartclip.net CNAME .
-*.des.sxp.smartclip.net CNAME .
-hoover.sxp.smartclip.net CNAME .
-*.hoover.sxp.smartclip.net CNAME .
-hoovermedia.sxp.smartclip.net CNAME .
-*.hoovermedia.sxp.smartclip.net CNAME .
-stats.sxp.smartclip.net CNAME .
-*.stats.sxp.smartclip.net CNAME .
-sync.sxp.smartclip.net CNAME .
-*.sync.sxp.smartclip.net CNAME .
+smartclip.net CNAME .
+*.smartclip.net CNAME .
 ad.dev.smartnews.net CNAME .
 *.ad.dev.smartnews.net CNAME .
 otel-collector.reliability.smartnews.net CNAME .
@@ -71842,8 +71778,8 @@ tavoos.net CNAME .
 *.tavoos.net CNAME .
 techfocusmedia.net CNAME .
 *.techfocusmedia.net CNAME .
-tr.technical-service.net CNAME .
-*.tr.technical-service.net CNAME .
+technical-service.net CNAME .
+*.technical-service.net CNAME .
 techslam.net CNAME .
 *.techslam.net CNAME .
 teemooge.net CNAME .
