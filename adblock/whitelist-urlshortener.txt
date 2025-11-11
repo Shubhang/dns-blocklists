@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 05:28 UTC
-! Version: 2025.1111.0528.53
+! Last modified: 11 Nov 2025 17:28 UTC
+! Version: 2025.1111.1728.48
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -513,6 +513,7 @@
 @@||adurly.cc^
 @@||adv.li^
 @@||adv.pe^
+@@||advartiso.com^
 @@||advisable.link^
 @@||advmyc.com^
 @@||advnutri.com^
@@ -607,6 +608,7 @@
 @@||alisys.it^
 @@||all-link.me^
 @@||allamericanpatriots.com^
+@@||allbio.link^
 @@||alldomainwhois.xyz^
 @@||alli.pub^
 @@||allinonetab.com^
@@ -1075,6 +1077,7 @@
 @@||bit24.live^
 @@||go.bitcomma.com^
 @@||bitesli.com^
+@@||bitfy.cc^
 @@||bitgg.co^
 @@||bitigee.com^
 @@||bitl.app^
@@ -1116,6 +1119,7 @@
 @@||bitx.bio^
 @@||bity.la^
 @@||bity.onl^
+@@||bityl.co^
 @@||bityvirt.com^
 @@||bityvnd.com^
 @@||bityvnn.com^
@@ -1592,6 +1596,7 @@
 @@||clickwhale.pro^
 @@||clicky.me^
 @@||clientlinks.net^
+@@||clik.now^
 @@||clikk.in^
 @@||clikly.link^
 @@||clikr.ir^
@@ -1800,6 +1805,7 @@
 @@||covgo.cc^
 @@||coz.de^
 @@||cpamarketing.ro^
+@@||cpbr.link^
 @@||cpdnet.org^
 @@||cph.bz^
 @@||cpklik.com^
@@ -2165,6 +2171,7 @@
 @@||dogelexusin.store^
 @@||doiop.com^
 @@||dojobe.link^
+@@||dolr.in^
 @@||domi.link^
 @@||domixox.com^
 @@||domlink.ink^
@@ -3449,6 +3456,7 @@
 @@||iplis.ru^
 @@||iplog.co^
 @@||iplog.link^
+@@||iplogger.cn^
 @@||iplogger.co^
 @@||iplogger.info^
 @@||iplogger.org^
@@ -4534,6 +4542,7 @@
 @@||magaus.co^
 @@||magaus.net^
 @@||magaus.org^
+@@||magaus.xyz^
 @@||mah.to^
 @@||maha77.site^
 @@||urlshortener.mahamafzar.com^
@@ -4746,6 +4755,7 @@
 @@||minilink.io^
 @@||minilink.pro^
 @@||minilinked.com^
+@@||minily.org^
 @@||links.minipcr.com^
 @@||minitv.fun^
 @@||miniurl.be^
@@ -6721,6 +6731,7 @@
 @@||shorturl.lk^
 @@||shorturl.re^
 @@||shorturl.ru^
+@@||shorturl.win^
 @@||shorturl.ws^
 @@||shorturl88.com^
 @@||shorturlapp.com^
@@ -6785,6 +6796,7 @@
 @@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
+@@||shrinkme.top^
 @@||shrinkme.us^
 @@||shrinkme.vip^
 @@||shrinkmyurl.com^
@@ -9109,6 +9121,7 @@
 @@||ytube.io^
 @@||ytubl.ink^
 @@||ytxt.mobi^
+@@||yu3.io^
 @@||yubi.co^
 @@||yui.co^
 @@||yuk.nu^

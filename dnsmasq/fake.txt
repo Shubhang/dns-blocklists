@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 09:26 UTC
-# Version: 2025.1111.0926.51
+# Last modified: 11 Nov 2025 17:27 UTC
+# Version: 2025.1111.1727.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14334
+# Number of entries: 14345
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -170,6 +170,7 @@ local=/addicted2.at/
 local=/addinno-kauf.de/
 local=/addmich.de/
 local=/adeliamode.de/
+local=/adfinanz-group.com/
 local=/adidas-campus.at/
 local=/adidas-samba.at/
 local=/adidas-spezial.at/
@@ -1061,6 +1062,7 @@ local=/balancecentrum.eu/
 local=/balancedecke.de/
 local=/balancepadsalestore.com/
 local=/balaoofertas.com/
+local=/balder-industries.com/
 local=/balduin-store.shop/
 local=/baldyandthefidgets.com/
 local=/balenciagaireland.com/
@@ -2498,6 +2500,7 @@ local=/coincorex.com/
 local=/web.coinhouse.top/
 local=/coinmarketfeed.net/
 local=/coinmoh.com/
+local=/coinnova.eu/
 local=/coinspayworld.com/
 local=/cokimnsi.shop/
 local=/colaboratorstore.de/
@@ -4283,6 +4286,7 @@ local=/familiarm.net/
 local=/familiarn.com/
 local=/familienbegleiterin.de/
 local=/familienmobil24.de/
+local=/family-office-management.com/
 local=/family-pills.com/
 local=/familyhistoryjamaica.com/
 local=/famore.shop/
@@ -6723,6 +6727,8 @@ local=/je-decouvre.fr/
 local=/jean-weis.com/
 local=/jeansniedrigerpreis.com/
 local=/jeansrabatt.de/
+local=/jedermarkt.store/
+local=/jedermart.store/
 local=/jefercopellets.com/
 local=/jefferycooper.com/
 local=/jeffkelleher.shop/
@@ -7404,6 +7410,8 @@ local=/landschaft-pellets.com/
 local=/ro10.landunk.com/
 local=/ro9.landunk.com/
 local=/de1.landurm.com/
+local=/landwirtschaftlicheegbr.com/
+local=/landwirtschftlicheegbr.com/
 local=/lane-properties.com/
 local=/laneberg.de/
 local=/lanetech.de/
@@ -8466,6 +8474,7 @@ local=/milopuzzle.shop/
 local=/miloujewelrys.com/
 local=/mimty.de/
 local=/minamuller.de/
+local=/minansecapital.com/
 local=/minasautopecas.com/
 local=/minceex.com/
 local=/mindaro.de/
@@ -10247,6 +10256,7 @@ local=/primehealthplus.org/
 local=/primehouse.store/
 local=/primelogisticllc.com/
 local=/primesupply.shop/
+local=/primevermoegen1.com/
 local=/primo-invest.com/
 local=/primonial-group.com/
 local=/primuselektro.de/
@@ -10376,7 +10386,6 @@ local=/purprints.net/
 local=/purrkit.shop/
 local=/pushup.at/
 local=/putonit.com/
-local=/apothekerezeptfrei-1.puzl.com/
 local=/gartenmuster.pvnlvp.ink/
 local=/pvqkcuin.shop/
 local=/pyro-effects.com/
@@ -12780,6 +12789,7 @@ local=/topillstore.com/
 local=/topjobs.wiki/
 local=/topledlightstore.com/
 local=/toplivingfurniture.com/
+local=/toplomarket.com/
 local=/toplomarketxsh.com/
 local=/topmarket-shop.com/
 local=/topmodeltoys.com/
@@ -13005,6 +13015,7 @@ local=/tsonlinestore.com/
 local=/tsptheshop.com/
 local=/tsv-erste.de/
 local=/ttgun.com/
+local=/ttkarriere.com/
 local=/ttl-logistik.de/
 local=/tttrilliant-fx.net/
 local=/tucnea.com/

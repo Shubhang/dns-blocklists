@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 09:26 UTC
-! Version: 2025.1111.0926.51
+! Last modified: 11 Nov 2025 17:27 UTC
+! Version: 2025.1111.1727.09
 ! Syntax: AdBlock
-! Number of entries: 14334
+! Number of entries: 14345
 !
 ||01broker.com^
 ||01crypto.com^
@@ -171,6 +171,7 @@
 ||addinno-kauf.de^
 ||addmich.de^
 ||adeliamode.de^
+||adfinanz-group.com^
 ||adidas-campus.at^
 ||adidas-samba.at^
 ||adidas-spezial.at^
@@ -1062,6 +1063,7 @@
 ||balancedecke.de^
 ||balancepadsalestore.com^
 ||balaoofertas.com^
+||balder-industries.com^
 ||balduin-store.shop^
 ||baldyandthefidgets.com^
 ||balenciagaireland.com^
@@ -2499,6 +2501,7 @@
 ||web.coinhouse.top^
 ||coinmarketfeed.net^
 ||coinmoh.com^
+||coinnova.eu^
 ||coinspayworld.com^
 ||cokimnsi.shop^
 ||colaboratorstore.de^
@@ -4284,6 +4287,7 @@
 ||familiarn.com^
 ||familienbegleiterin.de^
 ||familienmobil24.de^
+||family-office-management.com^
 ||family-pills.com^
 ||familyhistoryjamaica.com^
 ||famore.shop^
@@ -6724,6 +6728,8 @@
 ||jean-weis.com^
 ||jeansniedrigerpreis.com^
 ||jeansrabatt.de^
+||jedermarkt.store^
+||jedermart.store^
 ||jefercopellets.com^
 ||jefferycooper.com^
 ||jeffkelleher.shop^
@@ -7405,6 +7411,8 @@
 ||ro10.landunk.com^
 ||ro9.landunk.com^
 ||de1.landurm.com^
+||landwirtschaftlicheegbr.com^
+||landwirtschftlicheegbr.com^
 ||lane-properties.com^
 ||laneberg.de^
 ||lanetech.de^
@@ -8467,6 +8475,7 @@
 ||miloujewelrys.com^
 ||mimty.de^
 ||minamuller.de^
+||minansecapital.com^
 ||minasautopecas.com^
 ||minceex.com^
 ||mindaro.de^
@@ -10248,6 +10257,7 @@
 ||primehouse.store^
 ||primelogisticllc.com^
 ||primesupply.shop^
+||primevermoegen1.com^
 ||primo-invest.com^
 ||primonial-group.com^
 ||primuselektro.de^
@@ -10377,7 +10387,6 @@
 ||purrkit.shop^
 ||pushup.at^
 ||putonit.com^
-||apothekerezeptfrei-1.puzl.com^
 ||gartenmuster.pvnlvp.ink^
 ||pvqkcuin.shop^
 ||pyro-effects.com^
@@ -12781,6 +12790,7 @@
 ||topjobs.wiki^
 ||topledlightstore.com^
 ||toplivingfurniture.com^
+||toplomarket.com^
 ||toplomarketxsh.com^
 ||topmarket-shop.com^
 ||topmodeltoys.com^
@@ -13006,6 +13016,7 @@
 ||tsptheshop.com^
 ||tsv-erste.de^
 ||ttgun.com^
+||ttkarriere.com^
 ||ttl-logistik.de^
 ||tttrilliant-fx.net^
 ||tucnea.com^

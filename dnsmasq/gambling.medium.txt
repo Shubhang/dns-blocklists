@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 10:27 UTC
-# Version: 2025.1111.1027.51
+# Last modified: 11 Nov 2025 18:29 UTC
+# Version: 2025.1111.1829.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 90189
+# Number of entries: 90195
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -21413,8 +21413,6 @@ local=/casino4.fun/
 local=/casino402.com/
 local=/casino402.xyz/
 local=/casino41.ch/
-local=/casino49042.online/
-local=/casino493.online/
 local=/casino4money.com/
 local=/casino4tuns.com/
 local=/casino4u.io/
@@ -28375,6 +28373,13 @@ local=/cloudbets.org/
 local=/cloudcasino.xyz/
 local=/cloudcasinob.com/
 local=/uywe88soa.cloudcdnetw.com/
+local=/betmgm.com.cdn.cloudflare.net/
+local=/bwin.com.cdn.cloudflare.net/
+local=/foxybingo.com.cdn.cloudflare.net/
+local=/itsfogo.com.cdn.cloudflare.net/
+local=/ladbrokes.com.cdn.cloudflare.net/
+local=/partypoker.com.cdn.cloudflare.net/
+local=/coral.co.uk.cdn.cloudflare.net/
 local=/d1i1wfn7hj3mva.cloudfront.net/
 local=/d29my8eu7x251e.cloudfront.net/
 local=/dlmxz0etq5yy6.cloudfront.net/
@@ -28720,6 +28725,7 @@ local=/betblinkcasino.co.uk/
 local=/betbus.co.za/
 local=/betcakecasino.co.uk/
 local=/betcavecasino.co.uk/
+local=/betcha.co.nz/
 local=/betenjoycasino.co.uk/
 local=/betflipcasino.co.uk/
 local=/betfoxcasino.co.uk/
@@ -37207,6 +37213,7 @@ local=/finlandcasino.shop/
 local=/finlandcasino1.com/
 local=/finlandsocialcasinos.com/
 local=/finlandsocialcasinos.fi/
+local=/finnplay.com/
 local=/finnslots.com/
 local=/finowlly.info/
 local=/finugor.com/
@@ -49860,6 +49867,7 @@ local=/ladang88.co/
 local=/ladbrokes.be/
 local=/ladbrokes.com/
 local=/ladbrokes.de/
+local=/ladbrokesbelgium.be/
 local=/ladbrokescasino.mx/
 local=/lady-aida-casino-uk.com/
 local=/lady-casino.org/
@@ -54252,7 +54260,6 @@ local=/martin-slotszone.info/
 local=/martin-zerkalocasino.fun/
 local=/martin-zerkalocasino.info/
 local=/martin031.casino/
-local=/martin077.casino/
 local=/martin10.casino/
 local=/martin11.casino/
 local=/martin11casino.buzz/
@@ -57194,7 +57201,6 @@ local=/mobilecasinorank.ro/
 local=/mobilecasinos.xyz/
 local=/mobilecasinosg.xyz/
 local=/mobilecasinosireland.com/
-local=/mobiledeposit.casino/
 local=/mobilefotosapp.com/
 local=/mobilemeteor.com/
 local=/mobilepaycasino.xyz/

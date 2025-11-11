@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762856880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762885800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 10:28 UTC
-; Version: 2025.1111.1028.24
+; Last modified: 11 Nov 2025 18:30 UTC
+; Version: 2025.1111.1830.02
 ; Syntax: RPZ
-; Number of entries: 95544
+; Number of entries: 95554
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -1042,6 +1042,8 @@ icasino.be CNAME .
 *.icasino.be CNAME .
 ladbrokes.be CNAME .
 *.ladbrokes.be CNAME .
+ladbrokesbelgium.be CNAME .
+*.ladbrokesbelgium.be CNAME .
 loterie-nationale.be CNAME .
 *.loterie-nationale.be CNAME .
 luckygames.be CNAME .
@@ -6192,8 +6194,6 @@ martin-am.casino CNAME .
 *.martin-am.casino CNAME .
 martin031.casino CNAME .
 *.martin031.casino CNAME .
-martin077.casino CNAME .
-*.martin077.casino CNAME .
 martin10.casino CNAME .
 *.martin10.casino CNAME .
 martin357.casino CNAME .
@@ -6480,8 +6480,6 @@ mjolnir.casino CNAME .
 *.mjolnir.casino CNAME .
 mnl168.casino CNAME .
 *.mnl168.casino CNAME .
-mobiledeposit.casino CNAME .
-*.mobiledeposit.casino CNAME .
 money-train.casino CNAME .
 *.money-train.casino CNAME .
 money-x14.casino CNAME .
@@ -29356,6 +29354,8 @@ findcasinoreviews.com CNAME .
 *.findcasinoreviews.com CNAME .
 findmycasino.com CNAME .
 *.findmycasino.com CNAME .
+finnplay.com CNAME .
+*.finnplay.com CNAME .
 finnslots.com CNAME .
 *.finnslots.com CNAME .
 finugor.com CNAME .
@@ -64580,6 +64580,18 @@ cleopatra-casinos.net CNAME .
 *.cleopatra-casinos.net CNAME .
 cleopatracasino.net CNAME .
 *.cleopatracasino.net CNAME .
+betmgm.com.cdn.cloudflare.net CNAME .
+*.betmgm.com.cdn.cloudflare.net CNAME .
+bwin.com.cdn.cloudflare.net CNAME .
+*.bwin.com.cdn.cloudflare.net CNAME .
+itsfogo.com.cdn.cloudflare.net CNAME .
+*.itsfogo.com.cdn.cloudflare.net CNAME .
+ladbrokes.com.cdn.cloudflare.net CNAME .
+*.ladbrokes.com.cdn.cloudflare.net CNAME .
+partypoker.com.cdn.cloudflare.net CNAME .
+*.partypoker.com.cdn.cloudflare.net CNAME .
+coral.co.uk.cdn.cloudflare.net CNAME .
+*.coral.co.uk.cdn.cloudflare.net CNAME .
 d1i1wfn7hj3mva.cloudfront.net CNAME .
 *.d1i1wfn7hj3mva.cloudfront.net CNAME .
 d29my8eu7x251e.cloudfront.net CNAME .
@@ -67380,6 +67392,8 @@ casinoslotornado.nz CNAME .
 *.casinoslotornado.nz CNAME .
 1xbet.co.nz CNAME .
 *.1xbet.co.nz CNAME .
+betcha.co.nz CNAME .
+*.betcha.co.nz CNAME .
 betsia.co.nz CNAME .
 *.betsia.co.nz CNAME .
 casinodeps.co.nz CNAME .
@@ -67854,10 +67868,6 @@ casino-zonder-nederlandse-vergunning.online CNAME .
 *.casino-zonder-nederlandse-vergunning.online CNAME .
 casino33.online CNAME .
 *.casino33.online CNAME .
-casino49042.online CNAME .
-*.casino49042.online CNAME .
-casino493.online CNAME .
-*.casino493.online CNAME .
 casino555plus.online CNAME .
 *.casino555plus.online CNAME .
 casino666.online CNAME .

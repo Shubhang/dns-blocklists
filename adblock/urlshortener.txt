@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 05:28 UTC
-! Version: 2025.1111.0528.53
+! Last modified: 11 Nov 2025 17:28 UTC
+! Version: 2025.1111.1728.48
 ! Syntax: AdBlock
-! Number of entries: 9494
+! Number of entries: 9493
 !
 ||0.gp^
 ||00m.in^
@@ -8446,7 +8446,6 @@
 ||urlpoints.com^
 ||urlq.com^
 ||urlr.me^
-||urlra.com^
 ||urlro.com^
 ||urlroot.com^
 ||urlroxx.com^

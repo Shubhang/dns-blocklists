@@ -52,6 +52,8 @@ voilatile-pa.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/6959
 # Prevents Android devices from automatically updating their timezone when roaming/travelling.
 # Needed for Google Timeline
+# https://github.com/hagezi/dns-blocklists/issues/7981
+# In some configurations or regions, blocking causes Google Maps to not provide current GPS data. Not reproducible on mass scale.
 userlocation.googleapis.com
 
 # Perplexity model selection on Android. The problem does not occur under iOS.

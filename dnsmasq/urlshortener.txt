@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 05:28 UTC
-# Version: 2025.1111.0528.53
+# Last modified: 11 Nov 2025 17:28 UTC
+# Version: 2025.1111.1728.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9494
+# Number of entries: 9493
 #
 local=/0.gp/
 local=/00m.in/
@@ -8445,7 +8445,6 @@ local=/urlplus.net/
 local=/urlpoints.com/
 local=/urlq.com/
 local=/urlr.me/
-local=/urlra.com/
 local=/urlro.com/
 local=/urlroot.com/
 local=/urlroxx.com/

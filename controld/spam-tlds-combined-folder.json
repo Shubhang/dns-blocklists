@@ -4515,6 +4515,13 @@
       }
     },
     {
+      "PK": "oldskool.vip",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "oldweb.today",
       "action": {
         "do": 1,
