@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762943700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762958100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 10:35 UTC
-; Version: 2025.1112.1035.25
+; Last modified: 12 Nov 2025 14:35 UTC
+; Version: 2025.1112.1435.18
 ; Syntax: RPZ
-; Number of entries: 13808
+; Number of entries: 13838
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1717,6 +1717,12 @@ doh.controld.com CNAME .
 *.doh.controld.com CNAME .
 freedns.controld.com CNAME .
 *.freedns.controld.com CNAME .
+bright-mind-274.conwordable.com CNAME .
+*.bright-mind-274.conwordable.com CNAME .
+large-sun-614.conwordable.com CNAME .
+*.large-sun-614.conwordable.com CNAME .
+wise-wind-366.conwordable.com CNAME .
+*.wise-wind-366.conwordable.com CNAME .
 dns.cooluc.com CNAME .
 *.dns.cooluc.com CNAME .
 copvpn.com CNAME .
@@ -2749,10 +2755,14 @@ ad.justincounts.com CNAME .
 *.ad.justincounts.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
 *.dns.justinnetworkingsolutions.com CNAME .
+calm-spirit-618.k12biography.com CNAME .
+*.calm-spirit-618.k12biography.com CNAME .
 great-spirit-267.k12biography.com CNAME .
 *.great-spirit-267.k12biography.com CNAME .
 large-wind-274.k12biography.com CNAME .
 *.large-wind-274.k12biography.com CNAME .
+philosophy.k12biography.com CNAME .
+*.philosophy.k12biography.com CNAME .
 first-air-246.k12biology.com CNAME .
 *.first-air-246.k12biology.com CNAME .
 kind-fox-975.k12biology.com CNAME .
@@ -3801,8 +3811,14 @@ fair-hawk-609.shuttlemath.com CNAME .
 *.fair-hawk-609.shuttlemath.com CNAME .
 fair-lake-387.shuttlemath.com CNAME .
 *.fair-lake-387.shuttlemath.com CNAME .
+h.shuttlemath.com CNAME .
+*.h.shuttlemath.com CNAME .
+small-dark-121.shuttlemath.com CNAME .
+*.small-dark-121.shuttlemath.com CNAME .
 deep-hawk-892.shuttleproxy.com CNAME .
 *.deep-hawk-892.shuttleproxy.com CNAME .
+kind-magic-164.shuttleproxy.com CNAME .
+*.kind-magic-164.shuttleproxy.com CNAME .
 kind-tiger-205.shuttleproxy.com CNAME .
 *.kind-tiger-205.shuttleproxy.com CNAME .
 old-soul-492.shuttleproxy.com CNAME .
@@ -8309,6 +8325,8 @@ proxyduke.lol CNAME .
 *.proxyduke.lol CNAME .
 quic.lol CNAME .
 *.quic.lol CNAME .
+bright-bear-630.shuttle.lol CNAME .
+*.bright-bear-630.shuttle.lol CNAME .
 kind-wolf-912.shuttle.lol CNAME .
 *.kind-wolf-912.shuttle.lol CNAME .
 siteunblocked.lol CNAME .
@@ -10655,6 +10673,8 @@ bestvpn.org CNAME .
 *.bestvpn.org CNAME .
 bigma.org CNAME .
 *.bigma.org CNAME .
+kind-rain-691.biologyscholar.org CNAME .
+*.kind-rain-691.biologyscholar.org CNAME .
 sunny-wolf-734.biologyscholar.org CNAME .
 *.sunny-wolf-734.biologyscholar.org CNAME .
 goga7777777.bissnes.org CNAME .
@@ -11085,10 +11105,14 @@ deep-lake-819.nstabiology.org CNAME .
 *.deep-lake-819.nstabiology.org CNAME .
 fair-bear-832.nstabiology.org CNAME .
 *.fair-bear-832.nstabiology.org CNAME .
+happy-rain.nstabiology.org CNAME .
+*.happy-rain.nstabiology.org CNAME .
 kind-bear-286.nstabiology.org CNAME .
 *.kind-bear-286.nstabiology.org CNAME .
 quick-tiger-997.nstabiology.org CNAME .
 *.quick-tiger-997.nstabiology.org CNAME .
+tall-heart-319.nstabiology.org CNAME .
+*.tall-heart-319.nstabiology.org CNAME .
 adguard.ohmhv57.org CNAME .
 *.adguard.ohmhv57.org CNAME .
 onestreaming.org CNAME .
@@ -11197,6 +11221,8 @@ brave-moon-374.scientificsense.org CNAME .
 *.brave-moon-374.scientificsense.org CNAME .
 bright-storm-707.scientificsense.org CNAME .
 *.bright-storm-707.scientificsense.org CNAME .
+trigonometry.scientificsense.org CNAME .
+*.trigonometry.scientificsense.org CNAME .
 dns.scuola.org CNAME .
 *.dns.scuola.org CNAME .
 secretproxy.org CNAME .
@@ -12815,6 +12841,10 @@ kr.tomgirl.top CNAME .
 *.kr.tomgirl.top CNAME .
 uproxy.top CNAME .
 *.uproxy.top CNAME .
+first-star-612.upsidedowntext.top CNAME .
+*.first-star-612.upsidedowntext.top CNAME .
+wild-fire.upsidedowntext.top CNAME .
+*.wild-fire.upsidedowntext.top CNAME .
 us44nas.top CNAME .
 *.us44nas.top CNAME .
 vpnmaster.top CNAME .

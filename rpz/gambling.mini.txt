@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762943280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762957680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 10:28 UTC
-; Version: 2025.1112.1028.29
+; Last modified: 12 Nov 2025 14:28 UTC
+; Version: 2025.1112.1428.29
 ; Syntax: RPZ
-; Number of entries: 96024
+; Number of entries: 96026
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -212,8 +212,6 @@ premierbet.co.ao CNAME .
 *.1075.app CNAME .
 15win.app CNAME .
 *.15win.app CNAME .
-1wincasino.app CNAME .
-*.1wincasino.app CNAME .
 2288bet.app CNAME .
 *.2288bet.app CNAME .
 333123.app CNAME .
@@ -8254,6 +8252,8 @@ zooma95.casino CNAME .
 *.zooma95.casino CNAME .
 zoome.casino CNAME .
 *.zoome.casino CNAME .
+zoome16.casino CNAME .
+*.zoome16.casino CNAME .
 zoome3.casino CNAME .
 *.zoome3.casino CNAME .
 zoome6.casino CNAME .
@@ -13726,6 +13726,8 @@ images.484930494.com CNAME .
 *.5gbetsg.com CNAME .
 5gringos.com CNAME .
 *.5gringos.com CNAME .
+5gringos-0463.com CNAME .
+*.5gringos-0463.com CNAME .
 5gringos-casino-it.com CNAME .
 *.5gringos-casino-it.com CNAME .
 5gringos789799.com CNAME .
@@ -21764,6 +21766,8 @@ cashback-casino-online.com CNAME .
 *.cashback-casino-online.com CNAME .
 cashed.com CNAME .
 *.cashed.com CNAME .
+cashed-3141.com CNAME .
+*.cashed-3141.com CNAME .
 cashed2.com CNAME .
 *.cashed2.com CNAME .
 cashed4.com CNAME .
@@ -24336,6 +24340,8 @@ casinorobots.com CNAME .
 *.casinorobots.com CNAME .
 casinorocket.com CNAME .
 *.casinorocket.com CNAME .
+casinorocket4.com CNAME .
+*.casinorocket4.com CNAME .
 casinoroo1.com CNAME .
 *.casinoroo1.com CNAME .
 casinoroom.com CNAME .
@@ -28772,6 +28778,8 @@ fair-to-go-casino.com CNAME .
 *.fair-to-go-casino.com CNAME .
 fairergambling.com CNAME .
 *.fairergambling.com CNAME .
+fairgo.com CNAME .
+*.fairgo.com CNAME .
 fairgo-casino-77.com CNAME .
 *.fairgo-casino-77.com CNAME .
 fairgo-pokies.com CNAME .
@@ -33348,8 +33356,6 @@ intensecasinofrance.com CNAME .
 *.intensecasinofrance.com CNAME .
 intensity-casinoaustralia.com CNAME .
 *.intensity-casinoaustralia.com CNAME .
-interactm.com CNAME .
-*.interactm.com CNAME .
 intercasino.com CNAME .
 *.intercasino.com CNAME .
 international-casino-reviews.com CNAME .
@@ -35876,8 +35882,6 @@ konseycasino20.com CNAME .
 *.konseycasino20.com CNAME .
 konseycasino22.com CNAME .
 *.konseycasino22.com CNAME .
-konsortiumbumi.com CNAME .
-*.konsortiumbumi.com CNAME .
 kontes4d.com CNAME .
 *.kontes4d.com CNAME .
 kontras4d.com CNAME .
@@ -38474,8 +38478,6 @@ medcompsciences.com CNAME .
 *.medcompsciences.com CNAME .
 medfielddiagnostics.com CNAME .
 *.medfielddiagnostics.com CNAME .
-mediasafes.com CNAME .
-*.mediasafes.com CNAME .
 mediatoolsnet.com CNAME .
 *.mediatoolsnet.com CNAME .
 medicoright.com CNAME .
@@ -38682,8 +38684,6 @@ melindaruckerhaynes.com CNAME .
 *.melindaruckerhaynes.com CNAME .
 mellstroy.com CNAME .
 *.mellstroy.com CNAME .
-mellstroy-casino92.com CNAME .
-*.mellstroy-casino92.com CNAME .
 mellstroy-casinoo.com CNAME .
 *.mellstroy-casinoo.com CNAME .
 mellstroycasino.com CNAME .
@@ -46062,6 +46062,8 @@ rollxo-casino-77.com CNAME .
 *.rollxo-casino-77.com CNAME .
 rollxo3.com CNAME .
 *.rollxo3.com CNAME .
+rollxo5.com CNAME .
+*.rollxo5.com CNAME .
 rollysreelsgrandscasino.com CNAME .
 *.rollysreelsgrandscasino.com CNAME .
 roman-casino-fr.com CNAME .
@@ -48362,8 +48364,6 @@ socialcasinozone.com CNAME .
 *.socialcasinozone.com CNAME .
 socialestrategia.com CNAME .
 *.socialestrategia.com CNAME .
-socialpokerholdem.com CNAME .
-*.socialpokerholdem.com CNAME .
 socialslotsreview.com CNAME .
 *.socialslotsreview.com CNAME .
 societycelebration.com CNAME .
@@ -50866,6 +50866,8 @@ topfrbets.com CNAME .
 *.topfrbets.com CNAME .
 topgamblingpros.com CNAME .
 *.topgamblingpros.com CNAME .
+topionetworks.com CNAME .
+*.topionetworks.com CNAME .
 topirelandcasinoonline.com CNAME .
 *.topirelandcasinoonline.com CNAME .
 topirelandcasinosites.com CNAME .
@@ -51694,8 +51696,6 @@ uniquetrustex.com CNAME .
 *.uniquetrustex.com CNAME .
 unitedbetszone.com CNAME .
 *.unitedbetszone.com CNAME .
-universalproperties-uae.com CNAME .
-*.universalproperties-uae.com CNAME .
 unlimcasino.com CNAME .
 *.unlimcasino.com CNAME .
 unlimitcasino.com CNAME .
@@ -66160,8 +66160,12 @@ thepokies108.net CNAME .
 *.thepokies108.net CNAME .
 thepokies114.net CNAME .
 *.thepokies114.net CNAME .
+thepokies115.net CNAME .
+*.thepokies115.net CNAME .
 thepokiesonlinecasino.net CNAME .
 *.thepokiesonlinecasino.net CNAME .
+thepokiesreviews.net CNAME .
+*.thepokiesreviews.net CNAME .
 therelatives.net CNAME .
 *.therelatives.net CNAME .
 thomo888.net CNAME .
@@ -72184,8 +72188,6 @@ casinomania.pro CNAME .
 *.casinomania.pro CNAME .
 casinoonlinenonaams.pro CNAME .
 *.casinoonlinenonaams.pro CNAME .
-casinoreviews.pro CNAME .
-*.casinoreviews.pro CNAME .
 casinovax.pro CNAME .
 *.casinovax.pro CNAME .
 casinowonerisimi.pro CNAME .

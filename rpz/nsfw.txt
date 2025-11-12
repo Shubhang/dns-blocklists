@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762943460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762957860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 10:31 UTC
-; Version: 2025.1112.1031.25
+; Last modified: 12 Nov 2025 14:31 UTC
+; Version: 2025.1112.1431.06
 ; Syntax: RPZ
-; Number of entries: 156006
+; Number of entries: 155992
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -36754,8 +36754,6 @@ giantsextube.com CNAME .
 *.giantsextube.com CNAME .
 giaothao.com CNAME .
 *.giaothao.com CNAME .
-gibangayrimenkul.com CNAME .
-*.gibangayrimenkul.com CNAME .
 giecolisexpress.com CNAME .
 *.giecolisexpress.com CNAME .
 gif-sexe.com CNAME .
@@ -57594,8 +57592,6 @@ plage-octopussy.com CNAME .
 *.plage-octopussy.com CNAME .
 plagesexy.com CNAME .
 *.plagesexy.com CNAME .
-plainporn.com CNAME .
-*.plainporn.com CNAME .
 plainpost.com CNAME .
 *.plainpost.com CNAME .
 plan-cul-direct.com CNAME .
@@ -64780,8 +64776,6 @@ sandpointgays.com CNAME .
 *.sandpointgays.com CNAME .
 sandrahomesexpert.com CNAME .
 *.sandrahomesexpert.com CNAME .
-sandsexcavation.com CNAME .
-*.sandsexcavation.com CNAME .
 sandypawsexpress.com CNAME .
 *.sandypawsexpress.com CNAME .
 sanedistram.com CNAME .
@@ -73836,8 +73830,6 @@ theanimalsex.com CNAME .
 *.theanimalsex.com CNAME .
 thearticlesreview.com CNAME .
 *.thearticlesreview.com CNAME .
-theartofrosin.com CNAME .
-*.theartofrosin.com CNAME .
 theartporn.com CNAME .
 *.theartporn.com CNAME .
 theasbestosexperts.com CNAME .
@@ -83558,8 +83550,6 @@ xxxymovies.com CNAME .
 *.xxxymovies.com CNAME .
 xxxyy4.com CNAME .
 *.xxxyy4.com CNAME .
-xxxyyyccc.com CNAME .
-*.xxxyyyccc.com CNAME .
 xxxzeed.com CNAME .
 *.xxxzeed.com CNAME .
 xxxzex.com CNAME .
@@ -97708,6 +97698,8 @@ barragames.itch.io CNAME .
 *.barragames.itch.io CNAME .
 belgerum.itch.io CNAME .
 *.belgerum.itch.io CNAME .
+bokundev.itch.io CNAME .
+*.bokundev.itch.io CNAME .
 boundbynight.itch.io CNAME .
 *.boundbynight.itch.io CNAME .
 burst-out-games.itch.io CNAME .
@@ -102758,8 +102750,6 @@ sexalarab.mom CNAME .
 *.sexalarab.mom CNAME .
 sexme.mom CNAME .
 *.sexme.mom CNAME .
-sexparty.mom CNAME .
-*.sexparty.mom CNAME .
 sexpornxxx.mom CNAME .
 *.sexpornxxx.mom CNAME .
 sextop1.mom CNAME .
@@ -107568,8 +107558,6 @@ masterup.net CNAME .
 *.masterup.net CNAME .
 masturba.net CNAME .
 *.masturba.net CNAME .
-masturbation-porn.net CNAME .
-*.masturbation-porn.net CNAME .
 masturmate.net CNAME .
 *.masturmate.net CNAME .
 mature4.net CNAME .
@@ -123590,8 +123578,6 @@ gayane-english.ru CNAME .
 *.gayane-english.ru CNAME .
 gayaweb.ru CNAME .
 *.gayaweb.ru CNAME .
-gayazovblog.ru CNAME .
-*.gayazovblog.ru CNAME .
 gaydomik.ru CNAME .
 *.gaydomik.ru CNAME .
 gayishater.ru CNAME .
@@ -123784,6 +123770,8 @@ janeza.ru CNAME .
 *.janeza.ru CNAME .
 jazz-jazz.ru CNAME .
 *.jazz-jazz.ru CNAME .
+junior-football.ru CNAME .
+*.junior-football.ru CNAME .
 k1no.ru CNAME .
 *.k1no.ru CNAME .
 ka4nem.ru CNAME .
@@ -124068,8 +124056,6 @@ myloveland.ru CNAME .
 *.myloveland.ru CNAME .
 mympa.ru CNAME .
 *.mympa.ru CNAME .
-myowndom.ru CNAME .
-*.myowndom.ru CNAME .
 mysnoiportal.ru CNAME .
 *.mysnoiportal.ru CNAME .
 myxxxadult.ru CNAME .

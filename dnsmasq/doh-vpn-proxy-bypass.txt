@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 10:35 UTC
-# Version: 2025.1112.1035.25
+# Last modified: 12 Nov 2025 14:35 UTC
+# Version: 2025.1112.1435.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6904
+# Number of entries: 6919
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -631,6 +631,7 @@ local=/bigma.org/
 local=/httpdns.bilivideo.com/
 local=/carverd.bine.me/
 local=/proxyduke.bingle.pw/
+local=/kind-rain-691.biologyscholar.org/
 local=/sunny-wolf-734.biologyscholar.org/
 local=/goga7777777.bissnes.org/
 local=/ns3.bit-trail.nl/
@@ -1216,6 +1217,9 @@ local=/contentabc.com/
 local=/dns.controld.com/
 local=/doh.controld.com/
 local=/freedns.controld.com/
+local=/bright-mind-274.conwordable.com/
+local=/large-sun-614.conwordable.com/
+local=/wise-wind-366.conwordable.com/
 local=/coolproxy.org/
 local=/dns.cooluc.com/
 local=/coproxy.io/
@@ -3028,8 +3032,10 @@ local=/solgorknh.justlearning.net/
 local=/yanglini.justlearning.net/
 local=/uto1.k.vu/
 local=/adguard.k-likhachev.ru/
+local=/calm-spirit-618.k12biography.com/
 local=/great-spirit-267.k12biography.com/
 local=/large-wind-274.k12biography.com/
+local=/philosophy.k12biography.com/
 local=/first-air-246.k12biology.com/
 local=/kind-fox-975.k12biology.com/
 local=/proteomics.k12biology.com/
@@ -3840,8 +3846,10 @@ local=/nsocks.net/
 local=/bright-storm-767.nstabiology.org/
 local=/deep-lake-819.nstabiology.org/
 local=/fair-bear-832.nstabiology.org/
+local=/happy-rain.nstabiology.org/
 local=/kind-bear-286.nstabiology.org/
 local=/quick-tiger-997.nstabiology.org/
+local=/tall-heart-319.nstabiology.org/
 local=/nsv4w.com/
 local=/dns.ntr.lol/
 local=/ntwrkh.pro/
@@ -4736,6 +4744,7 @@ local=/sciencesimplified.pro/
 local=/gravity.sciencevictory.org/
 local=/brave-moon-374.scientificsense.org/
 local=/bright-storm-707.scientificsense.org/
+local=/trigonometry.scientificsense.org/
 local=/dns.scott.ovh/
 local=/dns.scott-smith.us/
 local=/scottdylewski.com/
@@ -4838,11 +4847,15 @@ local=/shopsocks5.com/
 local=/adguard.shoupperuser.com/
 local=/dns.shrike.ru/
 local=/adguard.shutgaming.net/
+local=/bright-bear-630.shuttle.lol/
 local=/kind-wolf-912.shuttle.lol/
 local=/calm-wolf-401.shuttlemath.com/
 local=/fair-hawk-609.shuttlemath.com/
 local=/fair-lake-387.shuttlemath.com/
+local=/h.shuttlemath.com/
+local=/small-dark-121.shuttlemath.com/
 local=/deep-hawk-892.shuttleproxy.com/
+local=/kind-magic-164.shuttleproxy.com/
 local=/kind-tiger-205.shuttleproxy.com/
 local=/old-soul-492.shuttleproxy.com/
 local=/nl.dns.shx.su/
@@ -6357,6 +6370,8 @@ local=/uproxy2.info/
 local=/uproxy2.net/
 local=/uproxy2.org/
 local=/uproxy2.xyz/
+local=/first-star-612.upsidedowntext.top/
+local=/wild-fire.upsidedowntext.top/
 local=/ur.io/
 local=/ur-browser.com/
 local=/urban-vpn.com/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Nov 2025 10:28 UTC
-! Version: 2025.1112.1028.29
+! Last modified: 12 Nov 2025 14:28 UTC
+! Version: 2025.1112.1428.29
 ! Syntax: AdBlock
-! Number of entries: 48012
+! Number of entries: 48013
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -688,7 +688,6 @@
 ||1winbd.com^
 ||1winbet.ng^
 ||1winca9278.casino^
-||1wincasino.app^
 ||1wincasino.art^
 ||1wincasino.bj^
 ||1wincasino.cc^
@@ -2636,6 +2635,7 @@
 ||5gbet5.com^
 ||5gbetsg.com^
 ||5gringos.com^
+||5gringos-0463.com^
 ||5gringos-casino-it.com^
 ||5gringos789799.com^
 ||5hbet.com^
@@ -10343,6 +10343,7 @@
 ||cashbet90.casino^
 ||cashcasino.co^
 ||cashed.com^
+||cashed-3141.com^
 ||cashed2.com^
 ||cashed4.com^
 ||cashedcasino.online^
@@ -12866,7 +12867,6 @@
 ||casinoreviews.com^
 ||casinoreviews.net^
 ||casinoreviews.nl^
-||casinoreviews.pro^
 ||casinoreviews.xyz^
 ||casinoreviewsandbonuses.com^
 ||casinoreviewshub.com^
@@ -12891,6 +12891,7 @@
 ||casinorobots.com^
 ||casinorocket.bet^
 ||casinorocket.com^
+||casinorocket4.com^
 ||casinoroo.io^
 ||casinoroo1.com^
 ||casinoroom.com^
@@ -18988,6 +18989,7 @@
 ||faircasinos.es^
 ||fairergambling.com^
 ||fairgo.casino^
+||fairgo.com^
 ||fairgo-casino-77.com^
 ||fairgo-casino-australia.net^
 ||fairgo-casinos.net^
@@ -23374,7 +23376,6 @@
 ||intensity-casino.net^
 ||intensity-casinoaustralia.com^
 ||intensitycasinoaustralia.net^
-||interactm.com^
 ||intercasino.com^
 ||international-casino-reviews.com^
 ||international-casinos.net^
@@ -26126,7 +26127,6 @@
 ||konradfun.com^
 ||konseycasino20.com^
 ||konseycasino22.com^
-||konsortiumbumi.com^
 ||konstanzacasino.website^
 ||kontes4d.com^
 ||kontras4d.com^
@@ -29136,7 +29136,6 @@
 ||medfielddiagnostics.com^
 ||media77.live^
 ||mediabet.it^
-||mediasafes.com^
 ||mediatoolsnet.com^
 ||medicoright.com^
 ||medienstrukturen.net^
@@ -29355,7 +29354,6 @@
 ||mellstroy-casino100.site^
 ||mellstroy-casino55.store^
 ||mellstroy-casino67.fun^
-||mellstroy-casino92.com^
 ||mellstroy-casinoo.com^
 ||mellstroy-online.casino^
 ||mellstroy01.casino^
@@ -38520,6 +38518,7 @@
 ||rollxo-casino.app^
 ||rollxo-casino-77.com^
 ||rollxo3.com^
+||rollxo5.com^
 ||rollysreelsgrandscasino.com^
 ||rolsbt-851396.top^
 ||romabet.casino^
@@ -40838,7 +40837,6 @@
 ||socialcasinosbeset.com^
 ||socialcasinozone.com^
 ||socialestrategia.com^
-||socialpokerholdem.com^
 ||socialslotsreview.com^
 ||societycelebration.com^
 ||societyent.com^
@@ -42774,7 +42772,9 @@
 ||thepokerlovers.com^
 ||thepokies108.net^
 ||thepokies114.net^
+||thepokies115.net^
 ||thepokiesonlinecasino.net^
+||thepokiesreviews.net^
 ||thepretendbaker.com^
 ||thepunterspage.com^
 ||thepurpleteacup.com^
@@ -43272,6 +43272,7 @@
 ||topgaming777.org^
 ||topgg.lol^
 ||tophoki368.xyz^
+||topionetworks.com^
 ||topirelandcasinoonline.com^
 ||topirelandcasinosites.com^
 ||topitalia-casino-it.com^
@@ -44009,7 +44010,6 @@
 ||uniquetrustex.com^
 ||unitedbetszone.com^
 ||universalpoker.xyz^
-||universalproperties-uae.com^
 ||universalslots.net^
 ||universe.casino^
 ||universityquestions.in^
@@ -47955,6 +47955,7 @@
 ||zoome-casino-de.com^
 ||zoome-casino-nz.com^
 ||zoome-casinono.com^
+||zoome16.casino^
 ||zoome3.casino^
 ||zoome6.casino^
 ||zoome9.casino^
