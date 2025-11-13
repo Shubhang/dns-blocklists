@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 14:30 UTC
-# Version: 2025.1113.1430.53
+# Last modified: 13 Nov 2025 18:31 UTC
+# Version: 2025.1113.1831.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 77656
+# Number of entries: 77659
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001218.xyz/
@@ -1891,7 +1891,6 @@ local=/adaptedsex.xyz/
 local=/adaptporn.xyz/
 local=/adaptsex.xyz/
 local=/adar-net.com/
-local=/adaxh.world/
 local=/adayinasexylife.com/
 local=/adblockerelite.pro/
 local=/add-porn.com/
@@ -4614,7 +4613,6 @@ local=/anifap.pro/
 local=/anifap.xyz/
 local=/anifaper.com/
 local=/anihentai.com/
-local=/anihideck.org/
 local=/anikaarora.com/
 local=/anikagarg.com/
 local=/anilgayrimenkul.tr/
@@ -6344,6 +6342,7 @@ local=/av19.live/
 local=/av19.org/
 local=/av19a.com/
 local=/av28.com/
+local=/av365.co/
 local=/av4us.sbs/
 local=/av69.pro/
 local=/av69.tv/
@@ -23884,6 +23883,7 @@ local=/flashsalesexclusive.com/
 local=/flashtop.me/
 local=/flashtranny.com/
 local=/flashxgirls.com/
+local=/flashxxx.space/
 local=/flashxxx.xyz/
 local=/flashybabes.com/
 local=/flashymodels.com/
@@ -34529,6 +34529,7 @@ local=/profdegenerate.itch.io/
 local=/punchingdonut.itch.io/
 local=/purple-bear.itch.io/
 local=/qui3tdog.itch.io/
+local=/quiquersson.itch.io/
 local=/raspberrysoft.itch.io/
 local=/realmscrossmyths.itch.io/
 local=/realpookie.itch.io/
@@ -34545,6 +34546,7 @@ local=/scissorsisters.itch.io/
 local=/scottycomics.itch.io/
 local=/scribbles.itch.io/
 local=/scrufflesdev.itch.io/
+local=/shadycornergames.itch.io/
 local=/sharkfurryman.itch.io/
 local=/shinlalala.itch.io/
 local=/short-hair-simp.itch.io/
@@ -39140,6 +39142,7 @@ local=/lovemethoda.com/
 local=/lovenestxxx.com/
 local=/lovenovels.net/
 local=/lovense.com/
+local=/pics.loveplanet.ru/
 local=/loveporn.ai/
 local=/loveporn.club/
 local=/loveporn.link/
@@ -46778,7 +46781,6 @@ local=/passionshop.com/
 local=/passive.gay/
 local=/passport.gay/
 local=/passwordslive.com/
-local=/passwordsz.com/
 local=/pastabate.com/
 local=/pastbrides.org/
 local=/pasteme.cn/
@@ -54355,6 +54357,7 @@ local=/rent.men/
 local=/rentabeauties.com/
 local=/rentadoll.in/
 local=/rentadolls.com/
+local=/rentadolls.in/
 local=/rentadolls.net/
 local=/rentescortdolls.com/
 local=/rentmasseur.com/

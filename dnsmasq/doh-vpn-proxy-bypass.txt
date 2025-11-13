@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 14:34 UTC
-# Version: 2025.1113.1434.45
+# Last modified: 13 Nov 2025 18:35 UTC
+# Version: 2025.1113.1835.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6927
+# Number of entries: 6925
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2928,7 +2928,6 @@ local=/iwebproxy.com/
 local=/ixl.plus/
 local=/ag.iyn.one/
 local=/dns.izyserv.site/
-local=/thecia.j2e.nl/
 local=/jabber-germany.de/
 local=/jabber-server.de/
 local=/adg.jabertechnologies.ch/
@@ -3796,7 +3795,6 @@ local=/pi1.node15.com/
 local=/nodemaven.com/
 local=/nodepay.ai/
 local=/dns.nodoa.me/
-local=/citybabyboy.noen.cx/
 local=/nfnvr.noiselink.com/
 local=/nolagvpn.com/
 local=/sink.nolo.ltd/

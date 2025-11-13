@@ -785,6 +785,13 @@
       }
     },
     {
+      "PK": "clashofmagic.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "claude.site",
       "action": {
         "do": 1,
@@ -4839,6 +4846,13 @@
     },
     {
       "PK": "tokelau-info.tk",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "toxicland.cc",
       "action": {
         "do": 1,
         "status": 1

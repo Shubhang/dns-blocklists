@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763044200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763058660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Nov 2025 14:30 UTC
-; Version: 2025.1113.1430.53
+; Last modified: 13 Nov 2025 18:31 UTC
+; Version: 2025.1113.1831.25
 ; Syntax: RPZ
-; Number of entries: 155312
+; Number of entries: 155318
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -10654,6 +10654,8 @@ araby.co CNAME .
 *.araby.co CNAME .
 asianteenporn.co CNAME .
 *.asianteenporn.co CNAME .
+av365.co CNAME .
+*.av365.co CNAME .
 avcindy.co CNAME .
 *.avcindy.co CNAME .
 azuki.co CNAME .
@@ -56426,8 +56428,6 @@ passionshop.com CNAME .
 *.passionshop.com CNAME .
 passwordslive.com CNAME .
 *.passwordslive.com CNAME .
-passwordsz.com CNAME .
-*.passwordsz.com CNAME .
 pastabate.com CNAME .
 *.pastabate.com CNAME .
 pat.com CNAME .
@@ -94966,6 +94966,8 @@ rency.in CNAME .
 *.rency.in CNAME .
 rentadoll.in CNAME .
 *.rentadoll.in CNAME .
+rentadolls.in CNAME .
+*.rentadolls.in CNAME .
 rentmen.in CNAME .
 *.rentmen.in CNAME .
 renubansal.in CNAME .
@@ -97826,6 +97828,8 @@ purple-bear.itch.io CNAME .
 *.purple-bear.itch.io CNAME .
 qui3tdog.itch.io CNAME .
 *.qui3tdog.itch.io CNAME .
+quiquersson.itch.io CNAME .
+*.quiquersson.itch.io CNAME .
 raspberrysoft.itch.io CNAME .
 *.raspberrysoft.itch.io CNAME .
 realmscrossmyths.itch.io CNAME .
@@ -97858,6 +97862,8 @@ scribbles.itch.io CNAME .
 *.scribbles.itch.io CNAME .
 scrufflesdev.itch.io CNAME .
 *.scrufflesdev.itch.io CNAME .
+shadycornergames.itch.io CNAME .
+*.shadycornergames.itch.io CNAME .
 sharkfurryman.itch.io CNAME .
 *.sharkfurryman.itch.io CNAME .
 shinlalala.itch.io CNAME .
@@ -114928,8 +114934,6 @@ analpornovideos.org CNAME .
 *.analpornovideos.org CNAME .
 analtime.org CNAME .
 *.analtime.org CNAME .
-anihideck.org CNAME .
-*.anihideck.org CNAME .
 anime-studio.org CNAME .
 *.anime-studio.org CNAME .
 animepornhub.org CNAME .
@@ -123664,6 +123668,8 @@ lovehelp.ru CNAME .
 *.lovehelp.ru CNAME .
 lovelama.ru CNAME .
 *.lovelama.ru CNAME .
+pics.loveplanet.ru CNAME .
+*.pics.loveplanet.ru CNAME .
 loverex.ru CNAME .
 *.loverex.ru CNAME .
 loveroza.ru CNAME .
@@ -131766,6 +131772,8 @@ fapello.space CNAME .
 *.fapello.space CNAME .
 fetishma.space CNAME .
 *.fetishma.space CNAME .
+flashxxx.space CNAME .
+*.flashxxx.space CNAME .
 free-porn.space CNAME .
 *.free-porn.space CNAME .
 gabongay.space CNAME .
@@ -142502,8 +142510,6 @@ scriptbin.works CNAME .
 *.scriptbin.works CNAME .
 sex-studentki.works CNAME .
 *.sex-studentki.works CNAME .
-adaxh.world CNAME .
-*.adaxh.world CNAME .
 adulting.world CNAME .
 *.adulting.world CNAME .
 adultx.world CNAME .

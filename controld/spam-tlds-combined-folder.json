@@ -1113,6 +1113,13 @@
       }
     },
     {
+      "PK": "clashofmagic.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "claude.site",
       "action": {
         "do": 1,
@@ -6597,6 +6604,13 @@
       "PK": "*.town",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "toxicland.cc",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
