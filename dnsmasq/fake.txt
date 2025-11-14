@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:06 UTC
-# Version: 2025.1114.1806.09
+# Last modified: 14 Nov 2025 21:27 UTC
+# Version: 2025.1114.2127.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14361
+# Number of entries: 14356
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -66,7 +66,6 @@ local=/7econds.com/
 local=/85-bktrade.com/
 local=/8lots.com/
 local=/99rabats.shop/
-local=/a-advisors.com/
 local=/a-baustofflager.com/
 local=/a-markt.de/
 local=/a2j-baumarkt.com/
@@ -87,7 +86,6 @@ local=/abelia-tech.de/
 local=/abercrombierabatt.de/
 local=/abfluss-frei24.de/
 local=/abfluss-profi.at/
-local=/abformmaterialiensales.com/
 local=/abigailholman.shop/
 local=/abigfishing.com/
 local=/abilityne.com/
@@ -124,7 +122,6 @@ local=/accessoriesforgirl.com/
 local=/accessoriessnow.com/
 local=/acc.accgn.com/
 local=/acc.accgn.net/
-local=/accgnmine.top/
 local=/accidentalw.com/
 local=/accomplishk.com/
 local=/accsmarket.net/
@@ -210,7 +207,6 @@ local=/aekcapital.ltd/
 local=/store.aeotec.com/
 local=/aerialpics.de/
 local=/aeromed-hamburg.de/
-local=/aest-stores.shop/
 local=/aeydeschuhe.de/
 local=/af-anlagenpartner.com/
 local=/afara.de/
@@ -332,7 +328,6 @@ local=/alianey-hair.com/
 local=/alice-outlet.com/
 local=/alicevintage.com/
 local=/alidropnuig.com/
-local=/alimhomeoutlet.shop/
 local=/alinatonce.com/
 local=/alingis-finanzen.de/
 local=/alioth.club/

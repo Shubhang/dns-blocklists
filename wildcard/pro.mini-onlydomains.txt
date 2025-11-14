@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:50 UTC
-# Version: 2025.1114.1850.23
+# Last modified: 14 Nov 2025 22:12 UTC
+# Version: 2025.1114.2212.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 52497
+# Number of entries: 52467
 #
 00055edc1917.com
 000free.us
@@ -1896,7 +1896,6 @@ t.881903.com
 8fdf5a6e828fe081.com
 8fju4hc6v65eohunzg.cfd
 8h97orjri4hy56r79nkbmwv1u7.cfd
-8hsvss.icu
 8jfbt5va3r.com
 8jk35km0r3.com
 8le8le.com
@@ -1917,14 +1916,12 @@ analytics-fe-np01-iad.8x8.com
 analytics-fe-p01-iad.8x8.com
 bugsnag.8x8.com
 90003cfd.cfd
-9038464.xyz
 9047a34d0b.icu
 905b7c637c79ed645113f7c2c75fae4c8c95a98f12b66c3299093ff4f78a218.link
 905trk.com
 908df012d9bb72e6d26b41054588d758.com
 909190.xyz
 90c645c3c9970ea6e603f5cada979cd0db9455de65a8df519ded9b9a.xyz
-9104157823389dd55d98146d81595639b04f37a3cea2018355965871ab3babd.link
 914trk.com
 91548aee74.com
 91842100df.com
@@ -1948,16 +1945,13 @@ track.91app.io
 934558d09515be.click
 9365be9c72.ru
 93716470ecbc6e1b9ee08fce50a8bfc92359de6c73202331a708f09e.xyz
-937674863.xyz
 9377.cn
 9377.com
 937af91d741ac3.click
 9385b44eef82e4b1ce998.site
-93874847.xyz
 939-google.com
 9390ea45ea2066.click
 93b1068284cd2b3ff8506ca8448a7eaa.com
-93d07f5b98921ba536c753b124a92849.site
 93mobiles.com
 941348951b.cfd
 941a6cfd74cab52b1d17a3e092756e86.me
@@ -2087,7 +2081,6 @@ bundle.9gtb.com
 update.9mod.com
 9ndayareceberseunome.shop
 9pgreceberseunome.shop
-l.9pi2q3cipu1fj3h.cfd
 9pub.io
 9qjbah.ru
 9r0v0go0el.com
@@ -2136,7 +2129,6 @@ a2d620590850.com
 a2de6c7dbd66d88585e89c6404b71d27.com
 a2dfp.net
 a2e5b82fea.com
-a2n1uh.cfd
 advertising.a2z.com
 bugsnag-event.monitor.core.app.alexa.a2z.com
 bugsnag-session.monitor.core.app.alexa.a2z.com
@@ -2198,7 +2190,6 @@ pub.a8.net
 statics.a8.net
 a82ea9afd23fdea5.com
 a86a7541fcc1.ru
-a8721de149283de4aac2b8f73508bf2faa9166b54082ebde86d1af7b2cd9b77.link
 a8723.com
 a87d30e4b3bd0f.click
 a910268668.com
@@ -2285,7 +2276,6 @@ aba.ae
 clarity.abacast.com
 abacaygiesel.qpon
 abackdamstubborn.com
-abadche.digital
 abadit5rckb.com
 abadit5rckd.com
 abakus-internet-marketing.de
@@ -2437,7 +2427,6 @@ access-codelib.net
 access-the-website.com
 analytics.accessacloud.com
 telemetry.accessacloud.com
-accesscase-apple.com
 accessibleweb.com
 accessintel.com
 static.accesstrade.vn
@@ -2493,7 +2482,6 @@ acint.net
 aciparis.com
 ackets-desist.icu
 ackng.com
-browser-intake-datadoghq.com.libpubwifi.aclibrary.org
 aclomxokn.com
 sentry3.acloset.net
 esifi.acmetools.com
@@ -3172,7 +3160,6 @@ telemetry-dev-va7.adobe.io
 telemetry-nld2.adobe.io
 telemetry-stage.adobe.io
 telemetry-va7.adobe.io
-adobe-tools.com
 0gc6y58nkk.data.adobedc.net
 0m1hix10po.data.adobedc.net
 0m217fplbh.data.adobedc.net
@@ -4092,7 +4079,6 @@ aemediatraffic.com
 aemetblog.es
 aemmfiu.cc
 analytics.aeon.co
-aeorluevpxe.com
 stats.aeries.com
 aerkcgklfvqqu.space
 ckrmi.aeropostale.com
@@ -4103,7 +4089,6 @@ aervanuialise.cfd
 aervfntalise.cfd
 metrics.adherent.aesio.fr
 metrics.aesio.fr
-aesodcnrbwreeq.com
 aether-axisai.com
 aetherappai-app.com
 aetherintelli.net
@@ -4227,11 +4212,9 @@ aftership-pixel.com
 aftrk1.com
 aftrk3.com
 tag.aftvnews.com
-afwwjyedmfmyw.site
 ag-usa.info
 agacelebir.com
 agaenteitor.com
-agafurretor.com
 againandagain.biz
 againstmascaraordinal.com
 agalarovinvest-system.com
@@ -4321,7 +4304,6 @@ webcollector-rtm.agora.io
 agorahtag.tech
 agorapuclse.com
 agozarnyc.com
-agpkpuobjq.com
 agqoshfujku.com
 agrant.cn
 agrantsem.com
@@ -4364,13 +4346,10 @@ ahmktufipp.com
 ahmybid.net
 ahnlabad.com
 ahongbityite.com
-ahoravideo-blog.com
 ahoravideo-blog.xyz
-ahoravideo-cdn.com
 ahoravideo-chat.com
 ahoravideo-chat.xyz
 ahoravideo-endpoint.com
-ahoravideo-schnellvpn.com
 ahoravideo-schnellvpn.xyz
 a.ahort.xyz
 ahov1.top
@@ -4400,7 +4379,6 @@ analytics.aidaforparents.com
 aidata.io
 aidata.me
 piwik.pentaho.aidcvt.com
-aide-fr-domicile.com
 aidemsrv.com
 aidentified.com
 aidindiafreehousing.com
@@ -4440,9 +4418,7 @@ aiml-google.cloud
 analytics.aimroas.com
 aimtell.com
 aimukreegee.net
-aimxduels.com
 aimzxmj.com
-aingipopsaiw.net
 ainokotoba1515.com
 ainouzaudre.net
 ainrrojwogdkv.store
@@ -4521,10 +4497,7 @@ api.us-west-2.aiv-delivery.net
 aivalabs.com
 aiwealthnewlevel.net
 analytics.aiwebpush.com
-aiwooleegnou.net
 aixcdn.com
-aixmqgygvui.com
-aizewomsipsid.com
 aizhantj.com
 aj0761.info
 aj0957.info
@@ -4597,10 +4570,8 @@ ajfnee.com
 ajgnivaxka.com
 ajiang.net
 ajirkxs.cc
-ajjdagokxajb.com
 analytics.ajla.net
 ajmalperfume.com
-ajmixbpcqolf.com
 ajrkm3.com
 ajscdn.com
 ajump2.com
@@ -4726,7 +4697,6 @@ aklmjylamvbbj.top
 akohub.com
 akoora-live.com
 akpsxcf.com
-akqsxpfnxxmvr.com
 akro.io
 aksfkedagaz.com
 aksow.xyz
@@ -4861,8 +4831,6 @@ aemetrics.aliexpress.ru
 fourier.aliexpress.com
 moduleanalysis.aliexpress.com
 pcookie.aliexpress.com
-aliexpress-na.shop
-aliexpress-sp.shop
 alifsemi.com
 cddp-track.aligames.com
 alightsclate.help
@@ -4916,9 +4884,7 @@ j2c03hoppk-default-cn.rum.aliyuncs.com
 josvduvuiu-default-cn.rum.aliyuncs.com
 vpp-license-proxy.aliyuncs.com
 aljamareuses.rest
-aljaopdfbmjd.com
 dsportal.aljazeera.net
-alkazfholgdjj.website
 alkimi-onboarding.com
 alkoora.live
 all-audio.pro
@@ -5795,7 +5761,6 @@ anahtars.com
 anakembok.de
 analaxadulatory.com
 analights.com
-analisenu.com
 analisis.io
 analitits.com
 analitycs.net
@@ -6723,6 +6688,7 @@ asleepcockpitborne.com
 combine.asnapieu.com
 device-api.asnapieu.com
 metered.asnapieu.com
+asng54ogsaf.lat
 aso1.net
 asocks.com
 asog4mbds.lat
@@ -8286,6 +8252,7 @@ berinseosmetic.com
 analytics.berkadia.com
 w7.berlin.de
 s3-bm-adtech.berlingskemedia.net
+berly.lat
 bermudaprimero.com
 adserver.bernews.com
 bero-webspace.de
@@ -12191,6 +12158,7 @@ media.cntraveler.com
 cntxcdm.com
 cnvlink.com
 cnvr.net
+cnwucnf.top
 cnzh-wps-office.com
 cnzz.cn
 cnzz.net
@@ -13550,6 +13518,7 @@ connect-social-live.com
 connectad.io
 connected-stories.com
 analytics.connectedcooking.com
+cdn.connectif.cloud
 sdata.connection.com
 connectionassist.com
 connectionhearddock.com
@@ -13961,6 +13930,7 @@ cpc.com
 cpclnad.biz
 cpcmart.com
 cpcstar.com
+cpellet.store
 cdn.cpex.cz
 cpf-th.com
 cpfltjhw.com
@@ -15023,6 +14993,7 @@ xoruf.ddns.net
 ddnslive.com
 dbm-metrics-intake.ddog-gov.com
 ddrdotdzgzsjz.space
+ddsgh34iufn.lat
 ddsrubz.com
 ddtvskish.com
 trackercollect.ddxq.mobi
@@ -18759,6 +18730,7 @@ fd8599677ad2c274de8d0683d8d4c17e4dee38a83446504762.com
 fdatajsext.com
 analytics.fddb.info
 fdhichfmfqteb.com
+fdiohny35fsa.lat
 deut1.fdj.fr
 fdqjkxhhwfgjk.website
 fdrc-gov.org
@@ -18815,7 +18787,6 @@ fefced5e0370eaa85ab54da32c0501c3631af29bac5c60cae8ff3524ef8bb5a.link
 feftafegnausa.net
 fegent.xyz
 feidiedeng.com
-feji.in
 felinesonefold.com
 felixads.com
 felllilyforegoing.com
@@ -25428,6 +25399,7 @@ jsecoin.com
 jsfiz.com
 jsfuz.com
 jshosting.nl
+jsiebfgry38dbis.lat
 jsiivedebstvu.online
 jsinfo.net
 jslogo.cn
@@ -25618,6 +25590,7 @@ k929.info
 k9b9q.top
 k9e1dm.sbs
 log.kaayun.com
+kacipaso.today
 kadam.net
 kaderfogt.pro
 smetrics.kaercher.com
@@ -26373,7 +26346,6 @@ kujsc5.ru
 kukrosti.com
 kullandelnb.click
 kullanicaickle.shop
-kullansalfa.click
 p.kulp.in
 kulroakonsu.net
 kuluji.xyz
@@ -26795,6 +26767,8 @@ sponsor-v2.lebtown.com
 lebuxe.xyz
 ezzdk.lectricebikes.com
 lectureolympics.com
+ledger-car-rental.com
+ledger-support-mail.com
 ledger-wallet.pro
 leedsneurite.com
 tracking.leeep.jp
@@ -27009,6 +26983,7 @@ li9jiy.net
 liablezonelet.rest
 liadm.com
 dig.lianjia.com
+lianjie.bond
 lianwangtech.com
 liasingmyxopod.com
 lib1.biz
@@ -27887,7 +27862,6 @@ luckypush.pro
 luckytidy.info
 luckytiger-promo.com
 lucrandonacop30.online
-lucrecomashopee.com
 lucreneluxe.com
 ludashi.com
 ludashisafe.com
@@ -37063,6 +37037,7 @@ predominantbrutallyscissors.com
 predu.sk
 telemetry.prefab.cloud
 prefecturesuggestions.com
+consent.preference-center.com
 preferencenail.com
 preflect.com
 pregetic.com
@@ -38282,6 +38257,7 @@ qbiapxkofrlix.online
 c2.qbk1.com
 dn-growing.qbox.me
 uplog.qbox.me
+qbqdrr.icu
 qbspjpfzdykgt.site
 qbttocotovvwv.online
 qcbtygylmnfez.fun
@@ -40541,6 +40517,7 @@ rzedmincpjcam.website
 rzeszowiak.pl
 rzfhn8trk.com
 c.rzk-m.com
+rzo9cve3huetc733x.cfd
 rzvcdclxehmnd.global
 s-adzone.com
 bannersimages.s-bol.com
@@ -41754,6 +41731,7 @@ trk.shelly.cloud
 creative.shemale.show
 ads.shemedia.com
 shempaurdou.net
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -44928,7 +44906,6 @@ teamappadvertising.com
 teamorsq.com
 teams-download.icu
 teams-p.ru
-teams-support-software.icu
 posthog.connect.teamteach.com
 metrics.teamviewer.com
 teapotloquat.com
@@ -44942,7 +44919,6 @@ eyestore.tebex.io
 tebrand.asia
 tebrand.vn
 log.tec73.com
-tech-institute.org
 tech-script.ru
 tech-unions.com
 analytics.tech4learning.com
@@ -45885,6 +45861,7 @@ tjgehgdwetwjpf.com
 tjjhpybbcc.com
 tjk-njk.com
 tjme.io
+tjnzzy583.lat
 tjp56x.ru
 ad.tjserv.media
 tjsptech.com
@@ -45902,18 +45879,10 @@ tki-bsvrlr.xyz
 creative.tklivechat.com
 tkrconnector.com
 tkshopedc.top
-tkshopefj.top
 tkshopijn.top
-tkshopiop.top
-tkshopqaz.top
 tkshopryi.top
 tkshoptgb.top
-tkshopuio.top
-tkshopukm.top
-tkshopwdn.top
 tkshopwsn.top
-tkshopwsx.top
-tkshopxch.top
 tkshopyhb.top
 tksua4.ru
 tl-res.com
@@ -47861,7 +47830,6 @@ urt83.com
 urtyert.com
 track.us.org
 us-cdnbo.org
-us-encontrar-support.com
 us-live.us
 us-live.xyz
 us-live-kaiyun.com
@@ -48185,6 +48153,7 @@ vdx.tv
 vdyjhikwomhkk.space
 ve1vet0rchid.ru
 vealbkvlvrjry.top
+vealbkvvormey.top
 vectaury.io
 vector.co
 vectoranalytics.ru
@@ -49250,6 +49219,7 @@ vuzismoothie.net
 vvbox.cz
 ub-xjp.vvbrd.com
 vvdrhe.win
+vvn8nfgtt8kc6g.rest
 piwik.vvo-online.de
 vvsjyapbsm.com
 vvxgwsrfsefx.com
@@ -50116,6 +50086,7 @@ whouphesaussums.net
 whoursie.com
 whoushex.top
 whservidor.com
+whtasapp-nb.com
 whulsaux.com
 analytics.whymedia.com
 whymoneyathome.com
@@ -50230,6 +50201,7 @@ windows-display-service.com
 fpt.windowsazure.com
 windowssearch.com
 windowylarvule.com
+windpisang123.com
 stats.windscribe.com
 ygopvz.windsorstore.com
 windsplay.com
@@ -50984,7 +50956,6 @@ mistat.intl.xiaomi.com
 globalvideo.cdn.pandora.intl.xiaomi.com
 in-miuilog.sms.intl.xiaomi.com
 sys.intl.xiaomi.com
-video.intl.xiaomi.com
 a.market.xiaomi.com
 t1.market.xiaomi.com
 t2.market.xiaomi.com
@@ -51820,7 +51791,6 @@ yudvl.org
 adv.yuetnc.com
 yufxt.top
 yuga.ru
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

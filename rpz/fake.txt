@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763143560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763155620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 18:06 UTC
-; Version: 2025.1114.1806.09
+; Last modified: 14 Nov 2025 21:27 UTC
+; Version: 2025.1114.2127.56
 ; Syntax: RPZ
-; Number of entries: 28722
+; Number of entries: 28712
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1706,8 +1706,6 @@ eoutlet.2023shoponline.com CNAME .
 *.85-bktrade.com CNAME .
 8lots.com CNAME .
 *.8lots.com CNAME .
-a-advisors.com CNAME .
-*.a-advisors.com CNAME .
 a-baustofflager.com CNAME .
 *.a-baustofflager.com CNAME .
 a2j-baumarkt.com CNAME .
@@ -1728,8 +1726,6 @@ abdeckplanenmotor.com CNAME .
 *.abdeckplanenmotor.com CNAME .
 abeautybuffet.com CNAME .
 *.abeautybuffet.com CNAME .
-abformmaterialiensales.com CNAME .
-*.abformmaterialiensales.com CNAME .
 abigfishing.com CNAME .
 *.abigfishing.com CNAME .
 abilityne.com CNAME .
@@ -26332,8 +26328,6 @@ abigailholman.shop CNAME .
 *.abigailholman.shop CNAME .
 aedes.shop CNAME .
 *.aedes.shop CNAME .
-aest-stores.shop CNAME .
-*.aest-stores.shop CNAME .
 affenzahn-exclusive.shop CNAME .
 *.affenzahn-exclusive.shop CNAME .
 affenzahn-promo.shop CNAME .
@@ -26354,8 +26348,6 @@ al-nassr.shop CNAME .
 *.al-nassr.shop CNAME .
 albadistribucionava.shop CNAME .
 *.albadistribucionava.shop CNAME .
-alimhomeoutlet.shop CNAME .
-*.alimhomeoutlet.shop CNAME .
 alldiamondpaintingdeeu.shop CNAME .
 *.alldiamondpaintingdeeu.shop CNAME .
 allkitchen.shop CNAME .
@@ -28290,8 +28282,6 @@ mfboutiquestore.tools CNAME .
 *.mfboutiquestore.tools CNAME .
 aaronallen.top CNAME .
 *.aaronallen.top CNAME .
-accgnmine.top CNAME .
-*.accgnmine.top CNAME .
 adrienne.top CNAME .
 *.adrienne.top CNAME .
 hausgartenshop.ahpgqd.top CNAME .

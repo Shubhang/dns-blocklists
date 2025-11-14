@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Nov 2025 18:06 UTC
-! Version: 2025.1114.1806.09
+! Last modified: 14 Nov 2025 21:27 UTC
+! Version: 2025.1114.2127.56
 ! Syntax: AdBlock
-! Number of entries: 14361
+! Number of entries: 14356
 !
 ||01broker.com^
 ||01crypto.com^
@@ -67,7 +67,6 @@
 ||85-bktrade.com^
 ||8lots.com^
 ||99rabats.shop^
-||a-advisors.com^
 ||a-baustofflager.com^
 ||a-markt.de^
 ||a2j-baumarkt.com^
@@ -88,7 +87,6 @@
 ||abercrombierabatt.de^
 ||abfluss-frei24.de^
 ||abfluss-profi.at^
-||abformmaterialiensales.com^
 ||abigailholman.shop^
 ||abigfishing.com^
 ||abilityne.com^
@@ -125,7 +123,6 @@
 ||accessoriessnow.com^
 ||acc.accgn.com^
 ||acc.accgn.net^
-||accgnmine.top^
 ||accidentalw.com^
 ||accomplishk.com^
 ||accsmarket.net^
@@ -211,7 +208,6 @@
 ||store.aeotec.com^
 ||aerialpics.de^
 ||aeromed-hamburg.de^
-||aest-stores.shop^
 ||aeydeschuhe.de^
 ||af-anlagenpartner.com^
 ||afara.de^
@@ -333,7 +329,6 @@
 ||alice-outlet.com^
 ||alicevintage.com^
 ||alidropnuig.com^
-||alimhomeoutlet.shop^
 ||alinatonce.com^
 ||alingis-finanzen.de^
 ||alioth.club^

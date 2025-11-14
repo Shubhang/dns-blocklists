@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 17:51 UTC
-# Version: 2025.1114.1751.50
+# Last modified: 14 Nov 2025 22:31 UTC
+# Version: 2025.1114.2231.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 11612
+# Number of entries: 11610
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -478,7 +478,6 @@ aiowares.com
 airplanechefsmodapk.com
 aiw.bz
 retracker.akado-ural.ru
-akiba-online.com
 aklivetv.com
 alabout.com
 alagoz.beer
@@ -494,7 +493,6 @@ alice.al
 alienflix.net
 aliez.me
 aliez.tv
-aliezstream.pro
 alifanet.com
 iptv.aliflailabd.com
 alivedownload.com
