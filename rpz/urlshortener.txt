@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763256540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763285340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 01:29 UTC
-; Version: 2025.1116.0129.30
+; Last modified: 16 Nov 2025 09:29 UTC
+; Version: 2025.1116.0929.12
 ; Syntax: RPZ
-; Number of entries: 19074
+; Number of entries: 19066
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4567,8 +4567,6 @@ jalanpintas4d.com CNAME .
 *.jalanpintas4d.com CNAME .
 jannikafabian.com CNAME .
 *.jannikafabian.com CNAME .
-jasafoll.com CNAME .
-*.jasafoll.com CNAME .
 jellylink.com CNAME .
 *.jellylink.com CNAME .
 jellyurl.com CNAME .
@@ -10215,8 +10213,6 @@ jmeet.io CNAME .
 *.jmeet.io CNAME .
 jmpz.io CNAME .
 *.jmpz.io CNAME .
-jpjp.io CNAME .
-*.jpjp.io CNAME .
 jurl.io CNAME .
 *.jurl.io CNAME .
 justcut.io CNAME .
@@ -10985,10 +10981,6 @@ itrk.it CNAME .
 *.itrk.it CNAME .
 short.iuav.it CNAME .
 *.short.iuav.it CNAME .
-jshr.it CNAME .
-*.jshr.it CNAME .
-justshrink.it CNAME .
-*.justshrink.it CNAME .
 kurly.it CNAME .
 *.kurly.it CNAME .
 kutt.it CNAME .

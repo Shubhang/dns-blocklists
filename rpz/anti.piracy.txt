@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763260200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763289000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 02:30 UTC
-; Version: 2025.1116.0230.19
+; Last modified: 16 Nov 2025 10:30 UTC
+; Version: 2025.1116.1030.10
 ; Syntax: RPZ
-; Number of entries: 23170
+; Number of entries: 23160
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1474,8 +1474,6 @@ limetorrentx.cc CNAME .
 *.limetorrentx.cc CNAME .
 smart.lionsmart.cc CNAME .
 *.smart.lionsmart.cc CNAME .
-livestreamlinks.cc CNAME .
-*.livestreamlinks.cc CNAME .
 lk21official.cc CNAME .
 *.lk21official.cc CNAME .
 tp.m-team.cc CNAME .
@@ -2312,8 +2310,6 @@ kickassto.co CNAME .
 *.kickassto.co CNAME .
 kinoz.co CNAME .
 *.kinoz.co CNAME .
-kuiken.co CNAME .
-*.kuiken.co CNAME .
 kuroiru.co CNAME .
 *.kuroiru.co CNAME .
 letsupload.co CNAME .
@@ -10838,8 +10834,6 @@ kinox.io CNAME .
 *.kinox.io CNAME .
 koora-live.io CNAME .
 *.koora-live.io CNAME .
-koora365.io CNAME .
-*.koora365.io CNAME .
 letsupload.io CNAME .
 *.letsupload.io CNAME .
 boards.libre.io CNAME .
@@ -16186,8 +16180,6 @@ tracker.leniter.org CNAME .
 *.tracker.leniter.org CNAME .
 leopard-raws.org CNAME .
 *.leopard-raws.org CNAME .
-lepiratebay.org CNAME .
-*.lepiratebay.org CNAME .
 leporno.org CNAME .
 *.leporno.org CNAME .
 lesbians4u.org CNAME .
@@ -20818,8 +20810,6 @@ kkiste-io.top CNAME .
 *.kkiste-io.top CNAME .
 tracker.kmzs123.top CNAME .
 *.tracker.kmzs123.top CNAME .
-lhbooks.top CNAME .
-*.lhbooks.top CNAME .
 linkr.top CNAME .
 *.linkr.top CNAME .
 mathanosto.top CNAME .

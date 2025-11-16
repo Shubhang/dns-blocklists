@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 02:36 UTC
-# Version: 2025.1116.0236.06
+# Last modified: 16 Nov 2025 10:35 UTC
+# Version: 2025.1116.1035.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3856
+# Number of entries: 3851
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1950,7 +1950,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 ilinhy.com
-0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
 0.0.0.0 dns1.imkvq.com
@@ -2076,7 +2075,6 @@
 0.0.0.0 samsung.dns.joey01245.nl
 0.0.0.0 adguard.johanliebert.top
 0.0.0.0 dns.johndave.me
-0.0.0.0 johneldenring.lol
 0.0.0.0 adguard.johnnypatras.org
 0.0.0.0 child.joindns4.eu
 0.0.0.0 child-noads.joindns4.eu
@@ -2108,10 +2106,8 @@
 0.0.0.0 ad.justincounts.com
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 adguard.k-likhachev.ru
-0.0.0.0 dns.k1vzx.com
 0.0.0.0 k3n.pw
 0.0.0.0 dns.k3nny.fr
-0.0.0.0 k3rnel-pan1c.online
 0.0.0.0 kaandikec.com
 0.0.0.0 kaiwu.xyz
 0.0.0.0 adguard.kalyanmudumby.com
@@ -2350,7 +2346,6 @@
 0.0.0.0 adguard.manmademagic.com
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 adguard.mapor.co
-0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net
 0.0.0.0 multi.dns.marbledfennec.net

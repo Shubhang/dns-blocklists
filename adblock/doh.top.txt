@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Nov 2025 10:38 UTC
-! Version: 2025.1114.1038.33
+! Last modified: 16 Nov 2025 10:36 UTC
+! Version: 2025.1116.1036.22
 ! Syntax: AdBlock
-! Number of entries: 740
+! Number of entries: 779
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -40,6 +40,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -80,6 +81,8 @@
 ||dns.ashleyjackson.net^
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
+||adguardhome.atakorah.com^
+||dohtrial.att.net^
 ||dns.azsopro.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -103,6 +106,7 @@
 ||nvi-dns.bitdefender.net^
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
+||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
@@ -156,6 +160,7 @@
 ||sbdns.co.in^
 ||jpdns.cola16.app^
 ||dns.7sec.com.br^
+||adguard.gbrossi.com.br^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^
 ||commons.host^
@@ -179,6 +184,7 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
 ||mainframe.dewed.de^
@@ -255,9 +261,11 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
 ||doh.buzz^
@@ -282,12 +290,15 @@
 ||dukun.de^
 ||dupatruwi22.fun^
 ||dns.dynx.pro^
+||adguard.easez.net^
 ||easyhandshake.com^
 ||dns.edgeburnmedia.com^
 ||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
+||adguard.ef67daisuki.club^
 ||dns.elemental.software^
 ||dns.eliv.kr^
+||adguard.ender.fr^
 ||eth.link^
 ||opennic1.eth-services.de^
 ||dns.fullaccesstointernet.jp.eu.org^
@@ -353,7 +364,10 @@
 ||dns.gutwe.in^
 ||gztech.me^
 ||dns.hanahira.dev^
+||adguard.haneulo.com^
 ||dns.hanmey.de^
+||adguard.hartley.cloud^
+||ordns.he.net^
 ||dns.hellozhao.com^
 ||httpdns.ocloud.heytapmobi.com^
 ||dns.hinet.net^
@@ -368,6 +382,7 @@
 ||httpdns.pro^
 ||dns.huas.me^
 ||httpdns.huaweicloud.com^
+||ads.hunga1k47.com^
 ||dns.huseynov.work^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
@@ -396,6 +411,7 @@
 ||jackyes.ovh^
 ||jcdns.fun^
 ||dns.jd.com^
+||adguard.jfchenier.ca^
 ||dns.jinwoo.dev^
 ||dns.joey01245.nl^
 ||child.joindns4.eu^
@@ -405,14 +421,19 @@
 ||unfiltered.joindns4.eu^
 ||opencdn.jomodns.com^
 ||joouddo.ru^
+||adguard1.jsanagustin.net^
+||adguard1.njy.jsanagustin.net^
 ||dns.jundev.org^
 ||dns.jupitrdns.com^
+||adguard.kantinyoyok.xyz^
 ||dns.kapite.in^
 ||dns.karadag.me^
+||adguard.kasbot.net^
 ||dns.kastner-online.de^
 ||kavkaz.monster^
 ||dns.kawa.tf^
 ||dns.keweon.center^
+||adguard.kiboko.it^
 ||dns1.klcd.eu^
 ||ko-18948-tr.xyz^
 ||korzhov.dev^
@@ -430,6 +451,7 @@
 ||dot.libredns.gr^
 ||lifeisa.live^
 ||loadlow.me^
+||adguard.londonwebnerd.cloud^
 ||doh.phdns2.lonet.org^
 ||doh.phdns3.lonet.org^
 ||doh.phdns4.lonet.org^
@@ -448,8 +470,10 @@
 ||mabuktogel.ltd^
 ||mabuktogel.solutions^
 ||multi.dns.marbledfennec.net^
+||adguard.marto.si^
 ||masters-of-cloud.de^
 ||mc-sft.cn^
+||adguard.meddy94.de^
 ||testguard.meexx.de^
 ||meganerd.nl^
 ||httpdns.meituan.com^
@@ -473,6 +497,7 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
+||adblock.mydns.network^
 ||dns.n23.io^
 ||najiakeji.top^
 ||chungocoai.name.vn^
@@ -486,11 +511,13 @@
 ||us-kan-w-f-1.nashkan.net^
 ||dns.neeb.it^
 ||dns.aa.net.uk^
+||doh.max.net.id^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||cube.neubsi.at^
 ||dns.neutopia.org^
+||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
@@ -546,7 +573,9 @@
 ||dns.pernika.net^
 ||darya.persiannit.net^
 ||dns.petqa.ru^
+||adguard.pggns.de^
 ||dns.phillipjberry.net^
+||adguard.piekacz.pl^
 ||dns.pierzchlewicz.pl^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
@@ -569,6 +598,7 @@
 ||dns.pumpkinvrar.com^
 ||puredns.org^
 ||dns-privacy.puregeni.us^
+||doh.pyry.me^
 ||dns.qq.com^
 ||httpdns.kg.qq.com^
 ||dns.weixin.qq.com^
@@ -610,6 +640,7 @@
 ||dns.roedel.cloud^
 ||dns.ronc.ru^
 ||dns.rotunneling.net^
+||adguard.ruby.ci^
 ||dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
@@ -628,14 +659,17 @@
 ||dns.scott-smith.us^
 ||dns.scuola.org^
 ||2.dnscrypt-cert.dns.seby.io^
+||doh.seby.io^
 ||doh-2.seby.io^
 ||dot.seby.io^
 ||dns.seia.io^
+||adguard.senthil.us^
 ||dns1.serdcebolit.ru^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shalenkov.dev^
 ||do.shimul.me^
+||adguard.shoupperuser.com^
 ||sitdns.com^
 ||clientdns3.softcom.net^
 ||solaxy.live^
@@ -644,16 +678,20 @@
 ||doh-02.spectrum.com^
 ||squidmall.vip^
 ||sriedmueadguard.casa^
+||adguard.sscw.win^
 ||doh.ntu.ssooss.win^
 ||strassmair.org^
 ||doh.sublime9.xyz^
+||doh.suche.org^
 ||sunnygyl.com^
+||doh.sunoaki.net^
 ||dns.surfsharkdns.com^
 ||surt.ovh^
 ||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
+||dns.t53.de^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^
@@ -716,6 +754,7 @@
 ||dns.warpnine.de^
 ||dns.engineer.web.id^
 ||h4g3z1-doh.top.web.app^
+||doh.webnmail.de^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||dns.weibo.cn^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 13:57 UTC
-# Version: 2025.1115.1357.30
+# Last modified: 16 Nov 2025 09:57 UTC
+# Version: 2025.1116.0957.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1330
+# Number of entries: 1328
 #
 local=/000a.de/
 local=/000space.com/
@@ -787,7 +787,6 @@ local=/job.ec/
 local=/joomla.com/
 local=/jouwweb.nl/
 local=/jp.gp/
-local=/jtposts.cc/
 local=/jugem.cc/
 local=/jugem.jp/
 local=/justns.ru/
@@ -796,7 +795,6 @@ local=/k1.cx/
 local=/kanka.space/
 local=/kann-helfen.de/
 local=/keepfree.de/
-local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/
 local=/kilu.de/

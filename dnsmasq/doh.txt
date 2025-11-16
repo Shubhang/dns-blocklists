@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 02:36 UTC
-# Version: 2025.1116.0236.06
+# Last modified: 16 Nov 2025 10:35 UTC
+# Version: 2025.1116.1035.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3380
+# Number of entries: 3375
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1647,7 +1647,6 @@ local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/ilinhy.com/
-local=/dns.imaicool.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
 local=/dns1.imkvq.com/
@@ -1763,7 +1762,6 @@ local=/home.jobytan.com/
 local=/dns.joey01245.nl/
 local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
-local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
@@ -1795,10 +1793,8 @@ local=/sgs03.just-a-web.com/
 local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
 local=/adguard.k-likhachev.ru/
-local=/dns.k1vzx.com/
 local=/k3n.pw/
 local=/dns.k3nny.fr/
-local=/k3rnel-pan1c.online/
 local=/kaandikec.com/
 local=/kaiwu.xyz/
 local=/adguard.kalyanmudumby.com/
@@ -2027,7 +2023,6 @@ local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
-local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
 local=/dns.marcbond.uk/

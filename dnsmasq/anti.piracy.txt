@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 02:30 UTC
-# Version: 2025.1116.0230.19
+# Last modified: 16 Nov 2025 10:30 UTC
+# Version: 2025.1116.1030.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11585
+# Number of entries: 11580
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5645,7 +5645,6 @@ local=/komiksin.net/
 local=/komikstation.org/
 local=/komodoisland.net/
 local=/koora-live.io/
-local=/koora365.io/
 local=/kooralivs.com/
 local=/kopedafotor75.shop/
 local=/kora4live.net/
@@ -5658,7 +5657,6 @@ local=/kualda.com/
 local=/kubalibre.com/
 local=/kubanmedia.org/
 local=/kubhd.com/
-local=/kuiken.co/
 local=/kukaj.me/
 local=/kukaj.si/
 local=/kukaj.sk/
@@ -5732,7 +5730,6 @@ local=/tracker.lemonhd.com/
 local=/leninist.online/
 local=/tracker.leniter.org/
 local=/leopard-raws.org/
-local=/lepiratebay.org/
 local=/leporno.de/
 local=/leporno.org/
 local=/lermangasonline.info/
@@ -5757,7 +5754,6 @@ local=/levidia.ch/
 local=/levidia.to/
 local=/movies.levrx.de/
 local=/movies.levrx.lol/
-local=/lhbooks.top/
 local=/libble.com/
 local=/liberty-land.net/
 local=/libertyland.al/
@@ -5842,7 +5838,6 @@ local=/liveschauen.com/
 local=/livescorehunter.com/
 local=/livesoccer.sx/
 local=/livesoccertv.com/
-local=/livestreamlinks.cc/
 local=/livesx.eu/
 local=/livetorrents.com/
 local=/livetv.sx/

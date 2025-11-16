@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 01:29 UTC
-! Version: 2025.1116.0129.30
+! Last modified: 16 Nov 2025 09:29 UTC
+! Version: 2025.1116.0929.12
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3569,7 +3569,6 @@
 @@||jannikafabian.com^
 @@||japha.co^
 @@||jar.ro^
-@@||jasafoll.com^
 @@||jasj.us^
 @@||jasn.ca^
 @@||javadocs.org^
@@ -3640,14 +3639,12 @@
 @@||joyoflanguages.online^
 @@||jp22.net^
 @@||jpeg.ly^
-@@||jpjp.io^
 @@||jppt.cc^
 @@||jprod.dev^
 @@||jq.lv^
 @@||jqw.de^
 @@||jrnybzn.com^
 @@||js.sa^
-@@||jshr.it^
 @@||jsl1.in^
 @@||jtagent.com^
 @@||jttfan.net^
@@ -3660,7 +3657,6 @@
 @@||justcut.io^
 @@||justreleased.site^
 @@||justshortit.com^
-@@||justshrink.it^
 @@||jut.li^
 @@||jv.mp^
 @@||jwl.events^

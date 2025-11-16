@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 01:29 UTC
-# Version: 2025.1116.0129.30
+# Last modified: 16 Nov 2025 09:29 UTC
+# Version: 2025.1116.0929.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9537
+# Number of entries: 9533
 #
 local=/0.gp/
 local=/00m.in/
@@ -3662,7 +3662,6 @@ local=/janjikita.me/
 local=/jannikafabian.com/
 local=/japha.co/
 local=/jar.ro/
-local=/jasafoll.com/
 local=/jasj.us/
 local=/jasn.ca/
 local=/javadocs.org/
@@ -3736,14 +3735,12 @@ local=/joy8.bond/
 local=/joyoflanguages.online/
 local=/jp22.net/
 local=/jpeg.ly/
-local=/jpjp.io/
 local=/jppt.cc/
 local=/jprod.dev/
 local=/jq.lv/
 local=/jqw.de/
 local=/jrnybzn.com/
 local=/js.sa/
-local=/jshr.it/
 local=/jsl1.in/
 local=/jtagent.com/
 local=/jttfan.net/
@@ -3757,7 +3754,6 @@ local=/just.as/
 local=/justcut.io/
 local=/justreleased.site/
 local=/justshortit.com/
-local=/justshrink.it/
 local=/jut.li/
 local=/jv.mp/
 local=/jwl.events/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 02:30 UTC
-# Version: 2025.1116.0230.19
+# Last modified: 16 Nov 2025 10:30 UTC
+# Version: 2025.1116.1030.10
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11585
+# Number of entries: 11580
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -5645,7 +5645,6 @@
 *.komikstation.org
 *.komodoisland.net
 *.koora-live.io
-*.koora365.io
 *.kooralivs.com
 *.kopedafotor75.shop
 *.kora4live.net
@@ -5658,7 +5657,6 @@
 *.kubalibre.com
 *.kubanmedia.org
 *.kubhd.com
-*.kuiken.co
 *.kukaj.me
 *.kukaj.si
 *.kukaj.sk
@@ -5732,7 +5730,6 @@
 *.leninist.online
 *.tracker.leniter.org
 *.leopard-raws.org
-*.lepiratebay.org
 *.leporno.de
 *.leporno.org
 *.lermangasonline.info
@@ -5757,7 +5754,6 @@
 *.levidia.to
 *.movies.levrx.de
 *.movies.levrx.lol
-*.lhbooks.top
 *.libble.com
 *.liberty-land.net
 *.libertyland.al
@@ -5842,7 +5838,6 @@
 *.livescorehunter.com
 *.livesoccer.sx
 *.livesoccertv.com
-*.livestreamlinks.cc
 *.livesx.eu
 *.livetorrents.com
 *.livetv.sx

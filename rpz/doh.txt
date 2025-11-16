@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763260560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763289300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 02:36 UTC
-; Version: 2025.1116.0236.06
+; Last modified: 16 Nov 2025 10:35 UTC
+; Version: 2025.1116.1035.47
 ; Syntax: RPZ
-; Number of entries: 6760
+; Number of entries: 6750
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1249,8 +1249,6 @@ dns.ikataruto.com CNAME .
 *.dns.ikataruto.com CNAME .
 ilinhy.com CNAME .
 *.ilinhy.com CNAME .
-dns.imaicool.com CNAME .
-*.dns.imaicool.com CNAME .
 noads.imbuffering.com CNAME .
 *.noads.imbuffering.com CNAME .
 dns1.imkvq.com CNAME .
@@ -1327,8 +1325,6 @@ ad.justincounts.com CNAME .
 *.ad.justincounts.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
 *.dns.justinnetworkingsolutions.com CNAME .
-dns.k1vzx.com CNAME .
-*.dns.k1vzx.com CNAME .
 kaandikec.com CNAME .
 *.kaandikec.com CNAME .
 adguard.kalyanmudumby.com CNAME .
@@ -3361,8 +3357,6 @@ d.bod.lol CNAME .
 *.d.bod.lol CNAME .
 dns.green-ping.lol CNAME .
 *.dns.green-ping.lol CNAME .
-johneldenring.lol CNAME .
-*.johneldenring.lol CNAME .
 adguard.konnkors.lol CNAME .
 *.adguard.konnkors.lol CNAME .
 lewsha.lol CNAME .
@@ -4603,8 +4597,6 @@ ingenmannsland.online CNAME .
 *.ingenmannsland.online CNAME .
 inpssh.online CNAME .
 *.inpssh.online CNAME .
-k3rnel-pan1c.online CNAME .
-*.k3rnel-pan1c.online CNAME .
 externalmobiel.lekdijk.online CNAME .
 *.externalmobiel.lekdijk.online CNAME .
 pure.lunetra.online CNAME .
@@ -6677,8 +6669,6 @@ lukscasino-929-tr.xyz CNAME .
 *.lukscasino-929-tr.xyz CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
-maqgie.xyz CNAME .
-*.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 mikezhang.xyz CNAME .

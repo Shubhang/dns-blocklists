@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 02:36 UTC
-# Version: 2025.1116.0236.06
+# Last modified: 16 Nov 2025 10:35 UTC
+# Version: 2025.1116.1035.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3380
+# Number of entries: 3375
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1647,7 +1647,6 @@
 *.ikarosalpha.xyz
 *.dns.ikataruto.com
 *.ilinhy.com
-*.dns.imaicool.com
 *.noads.imbuffering.com
 *.dns.imchristian.de
 *.dns1.imkvq.com
@@ -1763,7 +1762,6 @@
 *.dns.joey01245.nl
 *.adguard.johanliebert.top
 *.dns.johndave.me
-*.johneldenring.lol
 *.adguard.johnnypatras.org
 *.child.joindns4.eu
 *.child-noads.joindns4.eu
@@ -1795,10 +1793,8 @@
 *.ad.justincounts.com
 *.dns.justinnetworkingsolutions.com
 *.adguard.k-likhachev.ru
-*.dns.k1vzx.com
 *.k3n.pw
 *.dns.k3nny.fr
-*.k3rnel-pan1c.online
 *.kaandikec.com
 *.kaiwu.xyz
 *.adguard.kalyanmudumby.com
@@ -2027,7 +2023,6 @@
 *.adguard.manmademagic.com
 *.dns.maolaohei.xyz
 *.adguard.mapor.co
-*.maqgie.xyz
 *.dns.marasov.id
 *.dns.marbledfennec.net
 *.dns.marcbond.uk
