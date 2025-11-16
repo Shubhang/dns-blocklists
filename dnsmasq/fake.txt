@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 13:28 UTC
-# Version: 2025.1116.1328.05
+# Last modified: 16 Nov 2025 17:28 UTC
+# Version: 2025.1116.1728.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14254
+# Number of entries: 14241
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7782,6 +7782,7 @@ local=/luckmia.de/
 local=/luckyledge.com/
 local=/luckyyise.com/
 local=/lucrabot-gpt.net/
+local=/lucya-ag.com/
 local=/luffglasses.com/
 local=/luiliebeeu.shop/
 local=/lukamode.de/
@@ -9181,7 +9182,6 @@ local=/npbshop.com/
 local=/npipinellas.com/
 local=/nrc-clutches.com/
 local=/nrlrqk.shop/
-local=/nse-logistics.com/
 local=/nsp-enterprises.com/
 local=/nsrarlou.shop/
 local=/nsw-handel.de/
@@ -9235,8 +9235,6 @@ local=/mkt.oeamtc.at/
 local=/oel-direkt.de/
 local=/oelflix.de/
 local=/oelgo.de/
-local=/oelheizprofi.de/
-local=/oelheizpunkt.de/
 local=/oelheizung24.de/
 local=/oelino.de/
 local=/oelit.de/
@@ -9273,7 +9271,6 @@ local=/offerstylehome.com/
 local=/offhomedecor.com/
 local=/officeboxonline.com/
 local=/officesuppliedirect.com/
-local=/officesuppliesmaster.com/
 local=/officeway.net/
 local=/slimvitaxdietgummies.officialdealsite.com/
 local=/officialdubaichocolate.shop/
@@ -9332,7 +9329,6 @@ local=/olukaiosterreich.at/
 local=/olympis.de/
 local=/omecyer.com/
 local=/omega-technik.de/
-local=/omegadgets.com/
 local=/omegafxoptions.com/
 local=/omegainvestment.de/
 local=/omrontechils.com/
@@ -9369,7 +9365,6 @@ local=/onex-trade.com/
 local=/onfinery.com/
 local=/ongrowth.de/
 local=/onitech.de/
-local=/onitsuka-tiger.de/
 local=/onitsukatiger.at/
 local=/onitsukatigerschuhe.de/
 local=/onitsukatigerschweiz.com/
@@ -9385,7 +9380,6 @@ local=/online-ph.com/
 local=/online-pharmacy365.com/
 local=/online-pillen-rezeptfrei.de/
 local=/online-pills.com/
-local=/online-rezeptfrei.de/
 local=/online-tonies.shop/
 local=/online-versand-rezeptfrei.de/
 local=/onlineairpurifier.com/
@@ -9463,14 +9457,12 @@ local=/opongo.shop/
 local=/opos-handel.de/
 local=/oppermann-versand.de/
 local=/oppositen.com/
-local=/opt-toysbase.com/
 local=/optessentialoils.com/
 local=/optimalattire.com/
 local=/optimarkets.com/
 local=/optimgmbh.com/
 local=/option-bank.com/
 local=/optionbanking.com/
-local=/optionbinaireamf.com/
 local=/optionet.com/
 local=/optionsmarter.com/
 local=/optionsxo.com/
@@ -9570,7 +9562,6 @@ local=/ouistiprixeur.shop/
 local=/ount.de/
 local=/our-deals.de/
 local=/ouraltis.de/
-local=/outdoor-bekleidung.com/
 local=/outdoor-camping-discounts.com/
 local=/outdoor-heinz.com/
 local=/outdoor-mall.de/
@@ -9615,7 +9606,6 @@ local=/outletjoma.com/
 local=/outletladywear.com/
 local=/outletlivingstore.com/
 local=/outletmilitarymodel.com/
-local=/outletnewhome.com/
 local=/outletnewin.com/
 local=/outletpickleball.com/
 local=/outletrevel.com/
@@ -9671,7 +9661,6 @@ local=/pajardeutschland.de/
 local=/paletten-pellets-dienstleistung.de/
 local=/paliodisiena.net/
 local=/palladiumargentina.com/
-local=/palladiumfi.com/
 local=/palladiumsuomishop.com/
 local=/palletssale.com/
 local=/palmarkt.de/
@@ -9869,7 +9858,6 @@ local=/pharmacieenlignefrance.com/
 local=/pharmacy-xl.org/
 local=/pharmagenerique.com/
 local=/pharmagut24.com/
-local=/pharmahaus24.de/
 local=/pharmaplax.com/
 local=/pharmaris.net/
 local=/pharmatheke-europe.com/
@@ -9935,7 +9923,6 @@ local=/pitviperosterreich.com/
 local=/pitvipersunglassesnz.com/
 local=/piufashionlook.com/
 local=/pixelkatze.de/
-local=/pixelsale.shop/
 local=/pk.toys/
 local=/placement-action.com/
 local=/placementstrategique.com/

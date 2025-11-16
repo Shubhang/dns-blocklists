@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:30 UTC
-# Version: 2025.1116.1430.17
+# Last modified: 16 Nov 2025 18:31 UTC
+# Version: 2025.1116.1831.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 11570
+# Number of entries: 11569
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -7311,7 +7311,6 @@ panoric.com
 pantherabits.com
 nyaa.pantsu.cat
 sukebei.pantsu.cat
-papadustream.co
 papflix.com
 papystreaming.com
 papystreaming.stream

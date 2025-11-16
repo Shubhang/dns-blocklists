@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763303400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763317860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 14:30 UTC
-; Version: 2025.1116.1430.17
+; Last modified: 16 Nov 2025 18:31 UTC
+; Version: 2025.1116.1831.47
 ; Syntax: RPZ
-; Number of entries: 23140
+; Number of entries: 23138
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2360,8 +2360,6 @@ openload.co CNAME .
 *.openload.co CNAME .
 oxtorrent.co CNAME .
 *.oxtorrent.co CNAME .
-papadustream.co CNAME .
-*.papadustream.co CNAME .
 thepiratebay-org.pbproxy2.co CNAME .
 *.thepiratebay-org.pbproxy2.co CNAME .
 pelis-plus.co CNAME .

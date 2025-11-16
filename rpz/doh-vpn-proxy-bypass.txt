@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763303760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763318280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 14:36 UTC
-; Version: 2025.1116.1436.17
+; Last modified: 16 Nov 2025 18:38 UTC
+; Version: 2025.1116.1838.12
 ; Syntax: RPZ
-; Number of entries: 13978
+; Number of entries: 13966
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -3293,8 +3293,6 @@ pawxy.com CNAME .
 *.pawxy.com CNAME .
 dns.paxavemedia.com CNAME .
 *.dns.paxavemedia.com CNAME .
-pc-streaming.com CNAME .
-*.pc-streaming.com CNAME .
 peekproxy.com CNAME .
 *.peekproxy.com CNAME .
 peoplesproxy.com CNAME .
@@ -6621,8 +6619,6 @@ dns.nick-slowinski.de CNAME .
 *.dns.nick-slowinski.de CNAME .
 doh.niyawe.de CNAME .
 *.doh.niyawe.de CNAME .
-dns.odirf.de CNAME .
-*.dns.odirf.de CNAME .
 dns.oliverweinhold.de CNAME .
 *.dns.oliverweinhold.de CNAME .
 oowo.de CNAME .
@@ -6635,8 +6631,6 @@ fuchur.pentament.de CNAME .
 *.fuchur.pentament.de CNAME .
 adguard.pggns.de CNAME .
 *.adguard.pggns.de CNAME .
-adg.pidns.de CNAME .
-*.adg.pidns.de CNAME .
 dns.pine-home.de CNAME .
 *.dns.pine-home.de CNAME .
 pkw-aufladen.de CNAME .
@@ -7369,8 +7363,6 @@ coursera.gq CNAME .
 *.coursera.gq CNAME .
 freehiddenvpn.gq CNAME .
 *.freehiddenvpn.gq CNAME .
-onion.gq CNAME .
-*.onion.gq CNAME .
 pluralsight.gq CNAME .
 *.pluralsight.gq CNAME .
 r.soraapp.gq CNAME .
@@ -7573,8 +7565,6 @@ dns.ningkelle.id CNAME .
 *.dns.ningkelle.id CNAME .
 jacksunblocked.malam.or.id CNAME .
 *.jacksunblocked.malam.or.id CNAME .
-sciencehelp6thgrade.malam.or.id CNAME .
-*.sciencehelp6thgrade.malam.or.id CNAME .
 proxygratis.id CNAME .
 *.proxygratis.id CNAME .
 doh.runsel.id CNAME .
@@ -12069,8 +12059,6 @@ gdns.end.pub CNAME .
 *.gdns.end.pub CNAME .
 hk.end.pub CNAME .
 *.hk.end.pub CNAME .
-exploitedproxy.nya.pub CNAME .
-*.exploitedproxy.nya.pub CNAME .
 alidns.session.pub CNAME .
 *.alidns.session.pub CNAME .
 doh.totoro.pub CNAME .

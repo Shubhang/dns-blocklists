@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 13:29 UTC
-# Version: 2025.1116.1329.47
+# Last modified: 16 Nov 2025 17:30 UTC
+# Version: 2025.1116.1730.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9532
+# Number of entries: 9531
 #
 *.0.gp
 *.00m.in
@@ -5380,7 +5380,6 @@
 *.nxm.us
 *.nxsg.us
 *.nxss.link
-*.nxturl.com
 *.nxy.in
 *.on.ny.gov
 *.on.nyc.gov

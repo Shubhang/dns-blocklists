@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763299680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763314080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 13:28 UTC
-; Version: 2025.1116.1328.05
+; Last modified: 16 Nov 2025 17:28 UTC
+; Version: 2025.1116.1728.23
 ; Syntax: RPZ
-; Number of entries: 28508
+; Number of entries: 28482
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -10236,6 +10236,8 @@ luckyledge.com CNAME .
 *.luckyledge.com CNAME .
 luckyyise.com CNAME .
 *.luckyyise.com CNAME .
+lucya-ag.com CNAME .
+*.lucya-ag.com CNAME .
 luffglasses.com CNAME .
 *.luffglasses.com CNAME .
 lukasenergie.com CNAME .
@@ -11828,8 +11830,6 @@ npipinellas.com CNAME .
 *.npipinellas.com CNAME .
 nrc-clutches.com CNAME .
 *.nrc-clutches.com CNAME .
-nse-logistics.com CNAME .
-*.nse-logistics.com CNAME .
 nsp-enterprises.com CNAME .
 *.nsp-enterprises.com CNAME .
 nsxcapital.com CNAME .
@@ -11912,8 +11912,6 @@ officeboxonline.com CNAME .
 *.officeboxonline.com CNAME .
 officesuppliedirect.com CNAME .
 *.officesuppliedirect.com CNAME .
-officesuppliesmaster.com CNAME .
-*.officesuppliesmaster.com CNAME .
 slimvitaxdietgummies.officialdealsite.com CNAME .
 *.slimvitaxdietgummies.officialdealsite.com CNAME .
 officialnursery.com CNAME .
@@ -11958,8 +11956,6 @@ oliviachic.com CNAME .
 *.oliviachic.com CNAME .
 omecyer.com CNAME .
 *.omecyer.com CNAME .
-omegadgets.com CNAME .
-*.omegadgets.com CNAME .
 omegafxoptions.com CNAME .
 *.omegafxoptions.com CNAME .
 omrontechils.com CNAME .
@@ -12116,8 +12112,6 @@ opholzimpexgmbh.com CNAME .
 *.opholzimpexgmbh.com CNAME .
 oppositen.com CNAME .
 *.oppositen.com CNAME .
-opt-toysbase.com CNAME .
-*.opt-toysbase.com CNAME .
 optessentialoils.com CNAME .
 *.optessentialoils.com CNAME .
 optimalattire.com CNAME .
@@ -12130,8 +12124,6 @@ option-bank.com CNAME .
 *.option-bank.com CNAME .
 optionbanking.com CNAME .
 *.optionbanking.com CNAME .
-optionbinaireamf.com CNAME .
-*.optionbinaireamf.com CNAME .
 optionet.com CNAME .
 *.optionet.com CNAME .
 optionsmarter.com CNAME .
@@ -12234,8 +12226,6 @@ ottowhale.com CNAME .
 *.ottowhale.com CNAME .
 oudoor-camping-sale.com CNAME .
 *.oudoor-camping-sale.com CNAME .
-outdoor-bekleidung.com CNAME .
-*.outdoor-bekleidung.com CNAME .
 outdoor-camping-discounts.com CNAME .
 *.outdoor-camping-discounts.com CNAME .
 outdoor-heinz.com CNAME .
@@ -12312,8 +12302,6 @@ outletlivingstore.com CNAME .
 *.outletlivingstore.com CNAME .
 outletmilitarymodel.com CNAME .
 *.outletmilitarymodel.com CNAME .
-outletnewhome.com CNAME .
-*.outletnewhome.com CNAME .
 outletnewin.com CNAME .
 *.outletnewin.com CNAME .
 outletpickleball.com CNAME .
@@ -12388,8 +12376,6 @@ painthotsale.com CNAME .
 *.painthotsale.com CNAME .
 palladiumargentina.com CNAME .
 *.palladiumargentina.com CNAME .
-palladiumfi.com CNAME .
-*.palladiumfi.com CNAME .
 palladiumsuomishop.com CNAME .
 *.palladiumsuomishop.com CNAME .
 palletssale.com CNAME .
@@ -22066,10 +22052,6 @@ oelflix.de CNAME .
 *.oelflix.de CNAME .
 oelgo.de CNAME .
 *.oelgo.de CNAME .
-oelheizprofi.de CNAME .
-*.oelheizprofi.de CNAME .
-oelheizpunkt.de CNAME .
-*.oelheizpunkt.de CNAME .
 oelheizung24.de CNAME .
 *.oelheizung24.de CNAME .
 oelino.de CNAME .
@@ -22160,16 +22142,12 @@ ongrowth.de CNAME .
 *.ongrowth.de CNAME .
 onitech.de CNAME .
 *.onitech.de CNAME .
-onitsuka-tiger.de CNAME .
-*.onitsuka-tiger.de CNAME .
 onitsukatigerschuhe.de CNAME .
 *.onitsukatigerschuhe.de CNAME .
 onkel-nolte.de CNAME .
 *.onkel-nolte.de CNAME .
 online-pillen-rezeptfrei.de CNAME .
 *.online-pillen-rezeptfrei.de CNAME .
-online-rezeptfrei.de CNAME .
-*.online-rezeptfrei.de CNAME .
 online-versand-rezeptfrei.de CNAME .
 *.online-versand-rezeptfrei.de CNAME .
 onlinedamen.de CNAME .
@@ -22328,8 +22306,6 @@ petersimrecht.de CNAME .
 *.petersimrecht.de CNAME .
 pharma-versandhandel.de CNAME .
 *.pharma-versandhandel.de CNAME .
-pharmahaus24.de CNAME .
-*.pharmahaus24.de CNAME .
 pharmedio.de CNAME .
 *.pharmedio.de CNAME .
 photo-schmiede24.de CNAME .
@@ -27168,8 +27144,6 @@ phaidon-eu-online.shop CNAME .
 *.phaidon-eu-online.shop CNAME .
 phaidon-online.shop CNAME .
 *.phaidon-online.shop CNAME .
-pixelsale.shop CNAME .
-*.pixelsale.shop CNAME .
 playstationstore.shop CNAME .
 *.playstationstore.shop CNAME .
 pocofficial.shop CNAME .

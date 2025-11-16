@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:36 UTC
-# Version: 2025.1116.1436.17
+# Last modified: 16 Nov 2025 18:38 UTC
+# Version: 2025.1116.1838.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 6989
+# Number of entries: 6983
 #
 ss.0001.xyz
 003153.xyz
@@ -3832,7 +3832,6 @@ nvpn.net
 nvpn.to
 ns.nwps.fi
 dns.nxsyspro.com
-exploitedproxy.nya.pub
 nym.com
 nym.dev
 nym.network
@@ -3851,7 +3850,6 @@ dns.octoworld.fr
 oculta.me
 vpn.odeccit.com
 dns.odinpl.com
-dns.odirf.de
 adguard.odysseusnetwork.com
 oeck.com
 dns.ofdoom.net
@@ -3883,7 +3881,6 @@ onion.casa
 onion.city
 onion.direct
 onion.dog
-onion.gq
 onion.link
 onion.lt
 onion.lu
@@ -3942,7 +3939,6 @@ openvpn-ssh.com
 httpdns.ocloud.oppomobile.com
 httpdns.push.oppomobile.com
 jacksunblocked.malam.or.id
-sciencehelp6thgrade.malam.or.id
 vercel.or-g.net
 dns.eu-frankfurt-1.oraclecloud.com
 dns.uk-london-1.oraclecloud.com
@@ -4034,7 +4030,6 @@ vps-ovh.pb2004.pl
 securly.com.pbdjarum.info
 pbproxy.red
 pbproxy2.co
-pc-streaming.com
 dns.pccoach.nl
 pcgo.fun
 rpz-public-resolver1.rrdns.pch.net
@@ -4073,7 +4068,6 @@ phpbido.com
 phproxysite.com
 piaproxy.com
 piaproxy.net
-adg.pidns.de
 adguard.piekacz.pl
 dns.pierzchlewicz.pl
 dns.pieterdherde.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763303700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763318220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 14:35 UTC
-; Version: 2025.1116.1435.45
+; Last modified: 16 Nov 2025 18:37 UTC
+; Version: 2025.1116.1837.37
 ; Syntax: RPZ
-; Number of entries: 6746
+; Number of entries: 6742
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2199,8 +2199,6 @@ dns.nick-slowinski.de CNAME .
 *.dns.nick-slowinski.de CNAME .
 doh.niyawe.de CNAME .
 *.doh.niyawe.de CNAME .
-dns.odirf.de CNAME .
-*.dns.odirf.de CNAME .
 dns.oliverweinhold.de CNAME .
 *.dns.oliverweinhold.de CNAME .
 oowo.de CNAME .
@@ -2211,8 +2209,6 @@ fuchur.pentament.de CNAME .
 *.fuchur.pentament.de CNAME .
 adguard.pggns.de CNAME .
 *.adguard.pggns.de CNAME .
-adg.pidns.de CNAME .
-*.adg.pidns.de CNAME .
 dns.pine-home.de CNAME .
 *.dns.pine-home.de CNAME .
 adguard.ppfeufer.de CNAME .

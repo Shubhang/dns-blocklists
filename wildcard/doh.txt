@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:35 UTC
-# Version: 2025.1116.1435.45
+# Last modified: 16 Nov 2025 18:37 UTC
+# Version: 2025.1116.1837.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3373
+# Number of entries: 3371
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2378,7 +2378,6 @@
 *.oculta.me
 *.vpn.odeccit.com
 *.dns.odinpl.com
-*.dns.odirf.de
 *.adguard.odysseusnetwork.com
 *.dns.ofdoom.net
 *.adguard.ohmhv57.org
@@ -2490,7 +2489,6 @@
 *.phantom3c.net
 *.dns.phillipjberry.net
 *.philqoo.com
-*.adg.pidns.de
 *.adguard.piekacz.pl
 *.dns.pierzchlewicz.pl
 *.dns.pieterdherde.com

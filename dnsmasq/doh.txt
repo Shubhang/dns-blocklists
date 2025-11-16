@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:35 UTC
-# Version: 2025.1116.1435.45
+# Last modified: 16 Nov 2025 18:37 UTC
+# Version: 2025.1116.1837.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3373
+# Number of entries: 3371
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2378,7 +2378,6 @@ local=/dns.octoworld.fr/
 local=/oculta.me/
 local=/vpn.odeccit.com/
 local=/dns.odinpl.com/
-local=/dns.odirf.de/
 local=/adguard.odysseusnetwork.com/
 local=/dns.ofdoom.net/
 local=/adguard.ohmhv57.org/
@@ -2490,7 +2489,6 @@ local=/dns.pgnhatrang.com/
 local=/phantom3c.net/
 local=/dns.phillipjberry.net/
 local=/philqoo.com/
-local=/adg.pidns.de/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/

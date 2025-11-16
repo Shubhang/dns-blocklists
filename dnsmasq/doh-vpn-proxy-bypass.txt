@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:36 UTC
-# Version: 2025.1116.1436.17
+# Last modified: 16 Nov 2025 18:38 UTC
+# Version: 2025.1116.1838.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6989
+# Number of entries: 6983
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3832,7 +3832,6 @@ local=/nvpn.net/
 local=/nvpn.to/
 local=/ns.nwps.fi/
 local=/dns.nxsyspro.com/
-local=/exploitedproxy.nya.pub/
 local=/nym.com/
 local=/nym.dev/
 local=/nym.network/
@@ -3851,7 +3850,6 @@ local=/dns.octoworld.fr/
 local=/oculta.me/
 local=/vpn.odeccit.com/
 local=/dns.odinpl.com/
-local=/dns.odirf.de/
 local=/adguard.odysseusnetwork.com/
 local=/oeck.com/
 local=/dns.ofdoom.net/
@@ -3883,7 +3881,6 @@ local=/onion.casa/
 local=/onion.city/
 local=/onion.direct/
 local=/onion.dog/
-local=/onion.gq/
 local=/onion.link/
 local=/onion.lt/
 local=/onion.lu/
@@ -3942,7 +3939,6 @@ local=/openvpn-ssh.com/
 local=/httpdns.ocloud.oppomobile.com/
 local=/httpdns.push.oppomobile.com/
 local=/jacksunblocked.malam.or.id/
-local=/sciencehelp6thgrade.malam.or.id/
 local=/vercel.or-g.net/
 local=/dns.eu-frankfurt-1.oraclecloud.com/
 local=/dns.uk-london-1.oraclecloud.com/
@@ -4034,7 +4030,6 @@ local=/vps-ovh.pb2004.pl/
 local=/securly.com.pbdjarum.info/
 local=/pbproxy.red/
 local=/pbproxy2.co/
-local=/pc-streaming.com/
 local=/dns.pccoach.nl/
 local=/pcgo.fun/
 local=/rpz-public-resolver1.rrdns.pch.net/
@@ -4073,7 +4068,6 @@ local=/phpbido.com/
 local=/phproxysite.com/
 local=/piaproxy.com/
 local=/piaproxy.net/
-local=/adg.pidns.de/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/
