@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 10:36 UTC
-! Version: 2025.1116.1036.29
+! Last modified: 16 Nov 2025 14:36 UTC
+! Version: 2025.1116.1436.17
 ! Syntax: AdBlock
-! Number of entries: 6992
+! Number of entries: 6989
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3385,7 +3385,6 @@
 ||v2202405224322270920.megasrv.de^
 ||mehide.asia^
 ||mehide.org^
-||mehmetarikan.tech^
 ||www-admin.mehtionthebeat.com^
 ||peepod.meicosoft.com^
 ||httpdns.meituan.com^
@@ -3396,7 +3395,6 @@
 ||membean.cf^
 ||mendozasdelivery.com^
 ||meowless.club^
-||researchedu.mesaayuda.net^
 ||testaghome.meshkov.info^
 ||dns.mestdag.fr^
 ||metal-masters.us^
@@ -3515,7 +3513,6 @@
 ||math.netlab.my.id^
 ||dns.pnh.my.id^
 ||dns.ramsky.my.id^
-||dns.repinger.my.id^
 ||agh-jkt.santainetwork.my.id^
 ||agh1.server.my.id^
 ||agh2.server.my.id^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763289000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763303400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 10:30 UTC
-; Version: 2025.1116.1030.10
+; Last modified: 16 Nov 2025 14:30 UTC
+; Version: 2025.1116.1430.17
 ; Syntax: RPZ
-; Number of entries: 23160
+; Number of entries: 23140
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -516,8 +516,6 @@ eurostreaming.bar CNAME .
 *.eurostreaming.bar CNAME .
 hdmovie2.bar CNAME .
 *.hdmovie2.bar CNAME .
-megakino.bar CNAME .
-*.megakino.bar CNAME .
 ettv.mrunblock.bar CNAME .
 *.ettv.mrunblock.bar CNAME .
 putlockers.bar CNAME .
@@ -594,8 +592,6 @@ plus.net.bd CNAME .
 *.plus.net.bd CNAME .
 rapid.net.bd CNAME .
 *.rapid.net.bd CNAME .
-speedo.net.bd CNAME .
-*.speedo.net.bd CNAME .
 tetraplex.net.bd CNAME .
 *.tetraplex.net.bd CNAME .
 touchonline.net.bd CNAME .
@@ -1484,8 +1480,6 @@ mmastreams.cc CNAME .
 *.mmastreams.cc CNAME .
 modradar.cc CNAME .
 *.modradar.cc CNAME .
-movcr.cc CNAME .
-*.movcr.cc CNAME .
 movie4u.cc CNAME .
 *.movie4u.cc CNAME .
 moviebite.cc CNAME .
@@ -8526,8 +8520,6 @@ altadefinizione.date CNAME .
 *.altadefinizione.date CNAME .
 fmovies.date CNAME .
 *.fmovies.date CNAME .
-mkvcinemas.date CNAME .
-*.mkvcinemas.date CNAME .
 streamingcommunityz.date CNAME .
 *.streamingcommunityz.date CNAME .
 tantifilm.date CNAME .
@@ -9776,8 +9768,6 @@ tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
 yesmovies.gg CNAME .
 *.yesmovies.gg CNAME .
-mkvcinemas.gift CNAME .
-*.mkvcinemas.gift CNAME .
 vegamovies.gift CNAME .
 *.vegamovies.gift CNAME .
 hdhub4u.gifts CNAME .
@@ -11112,8 +11102,6 @@ hdmovie2.ist CNAME .
 *.hdmovie2.ist CNAME .
 megakino.ist CNAME .
 *.megakino.ist CNAME .
-mkvcinemas.ist CNAME .
-*.mkvcinemas.ist CNAME .
 streamingcommunity.ist CNAME .
 *.streamingcommunity.ist CNAME .
 yifytv.unblckd.ist CNAME .
@@ -11246,8 +11234,6 @@ hdmovie2.kim CNAME .
 *.hdmovie2.kim CNAME .
 megakino.kim CNAME .
 *.megakino.kim CNAME .
-mkvcinemas.kim CNAME .
-*.mkvcinemas.kim CNAME .
 newalbumreleases.unblockit.kim CNAME .
 *.newalbumreleases.unblockit.kim CNAME .
 cineblog01.kitchen CNAME .
@@ -12510,8 +12496,6 @@ ilgeniodellostreaming.men CNAME .
 *.ilgeniodellostreaming.men CNAME .
 megakino.men CNAME .
 *.megakino.men CNAME .
-mkvcinemas.men CNAME .
-*.mkvcinemas.men CNAME .
 hdhub4u.menu CNAME .
 *.hdhub4u.menu CNAME .
 hdmovie2.menu CNAME .
@@ -15084,8 +15068,6 @@ egydead.onl CNAME .
 *.egydead.onl CNAME .
 guardaserie.onl CNAME .
 *.guardaserie.onl CNAME .
-megakino.onl CNAME .
-*.megakino.onl CNAME .
 mkvcinemas.onl CNAME .
 *.mkvcinemas.onl CNAME .
 moviesjoy.onl CNAME .
@@ -18018,8 +18000,6 @@ interviewfor.red CNAME .
 *.interviewfor.red CNAME .
 megakino.red CNAME .
 *.megakino.red CNAME .
-mkvcinemas.red CNAME .
-*.mkvcinemas.red CNAME .
 thepiratebay-org.pbproxy.red CNAME .
 *.thepiratebay-org.pbproxy.red CNAME .
 piratebay.red CNAME .
@@ -20268,6 +20248,8 @@ hdfilme.to CNAME .
 *.hdfilme.to CNAME .
 hdm.to CNAME .
 *.hdm.to CNAME .
+hdmovie2.to CNAME .
+*.hdmovie2.to CNAME .
 hdo.to CNAME .
 *.hdo.to CNAME .
 hdonline.to CNAME .
@@ -20816,8 +20798,6 @@ mathanosto.top CNAME .
 *.mathanosto.top CNAME .
 megakinox.top CNAME .
 *.megakinox.top CNAME .
-megrez.top CNAME .
-*.megrez.top CNAME .
 mip2p.top CNAME .
 *.mip2p.top CNAME .
 motv.top CNAME .

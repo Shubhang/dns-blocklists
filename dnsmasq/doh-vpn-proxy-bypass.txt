@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 10:36 UTC
-# Version: 2025.1116.1036.29
+# Last modified: 16 Nov 2025 14:36 UTC
+# Version: 2025.1116.1436.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6992
+# Number of entries: 6989
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3384,7 +3384,6 @@ local=/megaproxylist.net/
 local=/v2202405224322270920.megasrv.de/
 local=/mehide.asia/
 local=/mehide.org/
-local=/mehmetarikan.tech/
 local=/www-admin.mehtionthebeat.com/
 local=/peepod.meicosoft.com/
 local=/httpdns.meituan.com/
@@ -3395,7 +3394,6 @@ local=/dns.melvin2204.nl/
 local=/membean.cf/
 local=/mendozasdelivery.com/
 local=/meowless.club/
-local=/researchedu.mesaayuda.net/
 local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/
 local=/metal-masters.us/
@@ -3514,7 +3512,6 @@ local=/c1.msocportal.my.id/
 local=/math.netlab.my.id/
 local=/dns.pnh.my.id/
 local=/dns.ramsky.my.id/
-local=/dns.repinger.my.id/
 local=/agh-jkt.santainetwork.my.id/
 local=/agh1.server.my.id/
 local=/agh2.server.my.id/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763285220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763299680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 09:27 UTC
-; Version: 2025.1116.0927.31
+; Last modified: 16 Nov 2025 13:28 UTC
+; Version: 2025.1116.1328.05
 ; Syntax: RPZ
-; Number of entries: 28554
+; Number of entries: 28508
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -10662,8 +10662,6 @@ mehsam-transport.com CNAME .
 *.mehsam-transport.com CNAME .
 meierfeld.com CNAME .
 *.meierfeld.com CNAME .
-mein-brennholz24.com CNAME .
-*.mein-brennholz24.com CNAME .
 mein-kleinerhuhnerstall.com CNAME .
 *.mein-kleinerhuhnerstall.com CNAME .
 meindl--schuhe.com CNAME .
@@ -10790,8 +10788,6 @@ mezzaninfinanz.com CNAME .
 *.mezzaninfinanz.com CNAME .
 mezzaninfintech.com CNAME .
 *.mezzaninfintech.com CNAME .
-acces.mfwgroupe.com CNAME .
-*.acces.mfwgroupe.com CNAME .
 mgmglobal.com CNAME .
 *.mgmglobal.com CNAME .
 michaelis-technik.com CNAME .
@@ -11722,8 +11718,6 @@ njordoutdoors.com CNAME .
 *.njordoutdoors.com CNAME .
 nlynelly.com CNAME .
 *.nlynelly.com CNAME .
-noahepshop.com CNAME .
-*.noahepshop.com CNAME .
 noblepawz.com CNAME .
 *.noblepawz.com CNAME .
 utlcm.noborn.com CNAME .
@@ -11748,8 +11742,6 @@ nomorereactions.com CNAME .
 *.nomorereactions.com CNAME .
 getclairu.nomshopper.com CNAME .
 *.getclairu.nomshopper.com CNAME .
-getwavetune.nomshopper.com CNAME .
-*.getwavetune.nomshopper.com CNAME .
 nora-bergen.com CNAME .
 *.nora-bergen.com CNAME .
 norazurich.com CNAME .
@@ -11768,8 +11760,6 @@ nordvian.com CNAME .
 *.nordvian.com CNAME .
 nordyen-de.com CNAME .
 *.nordyen-de.com CNAME .
-norethelabel.com CNAME .
-*.norethelabel.com CNAME .
 norfolkhotels24.com CNAME .
 *.norfolkhotels24.com CNAME .
 norge-apt.com CNAME .
@@ -11814,8 +11804,6 @@ nouwd.com CNAME .
 *.nouwd.com CNAME .
 nova-zurich.com CNAME .
 *.nova-zurich.com CNAME .
-web.novacryptmax.com CNAME .
-*.web.novacryptmax.com CNAME .
 novelbuys.com CNAME .
 *.novelbuys.com CNAME .
 noveltiestoy.com CNAME .
@@ -21774,8 +21762,6 @@ modioza.de CNAME .
 *.modioza.de CNAME .
 modovia.de CNAME .
 *.modovia.de CNAME .
-mohrmode.de CNAME .
-*.mohrmode.de CNAME .
 molaro.de CNAME .
 *.molaro.de CNAME .
 molveschuhe.de CNAME .
@@ -21852,8 +21838,6 @@ munster-mode.de CNAME .
 *.munster-mode.de CNAME .
 music-musik.de CNAME .
 *.music-musik.de CNAME .
-musikhaus-hoffmann.de CNAME .
-*.musikhaus-hoffmann.de CNAME .
 musikhaus-neumann.de CNAME .
 *.musikhaus-neumann.de CNAME .
 musikhaus-schumacher.de CNAME .
@@ -21894,8 +21878,6 @@ mysolution24.de CNAME .
 *.mysolution24.de CNAME .
 mytierhimmel.de CNAME .
 *.mytierhimmel.de CNAME .
-naba-24.de CNAME .
-*.naba-24.de CNAME .
 nachtmannprada.de CNAME .
 *.nachtmannprada.de CNAME .
 nanila.de CNAME .
@@ -21906,8 +21888,6 @@ narlia.de CNAME .
 *.narlia.de CNAME .
 narnos.de CNAME .
 *.narnos.de CNAME .
-natur-held.de CNAME .
-*.natur-held.de CNAME .
 naturalzuda.de CNAME .
 *.naturalzuda.de CNAME .
 naturcontact.de CNAME .
@@ -21960,8 +21940,6 @@ neumann-mobel.de CNAME .
 *.neumann-mobel.de CNAME .
 neunagel.de CNAME .
 *.neunagel.de CNAME .
-neveda-berlin.de CNAME .
-*.neveda-berlin.de CNAME .
 newberlin-mode.de CNAME .
 *.newberlin-mode.de CNAME .
 nexsource.de CNAME .
@@ -21976,8 +21954,6 @@ niaboutique.de CNAME .
 *.niaboutique.de CNAME .
 nicole-mahler.de CNAME .
 *.nicole-mahler.de CNAME .
-nicovermoegensberatung.de CNAME .
-*.nicovermoegensberatung.de CNAME .
 niederlandeshop.de CNAME .
 *.niederlandeshop.de CNAME .
 niekewu-tech.de CNAME .
@@ -25814,8 +25790,6 @@ megagear.online CNAME .
 *.megagear.online CNAME .
 menspower.online CNAME .
 *.menspower.online CNAME .
-mytheresaeu.online CNAME .
-*.mytheresaeu.online CNAME .
 nextcareerflow.online CNAME .
 *.nextcareerflow.online CNAME .
 nextproconnect.online CNAME .
@@ -27038,8 +27012,6 @@ megarabat.shop CNAME .
 *.megarabat.shop CNAME .
 megasauger.shop CNAME .
 *.megasauger.shop CNAME .
-melvinham.shop CNAME .
-*.melvinham.shop CNAME .
 mensheaven.shop CNAME .
 *.mensheaven.shop CNAME .
 mentech.shop CNAME .
@@ -27056,10 +27028,6 @@ milopuzzle.shop CNAME .
 *.milopuzzle.shop CNAME .
 mistyantoon.shop CNAME .
 *.mistyantoon.shop CNAME .
-mkaisha.shop CNAME .
-*.mkaisha.shop CNAME .
-mlbaushopdeeu.shop CNAME .
-*.mlbaushopdeeu.shop CNAME .
 mlcodwhz.shop CNAME .
 *.mlcodwhz.shop CNAME .
 mmzzokssa.shop CNAME .
@@ -27068,8 +27036,6 @@ moanaforyoudiscount.shop CNAME .
 *.moanaforyoudiscount.shop CNAME .
 moancd.shop CNAME .
 *.moancd.shop CNAME .
-mode-erlebenoutlet.shop CNAME .
-*.mode-erlebenoutlet.shop CNAME .
 modernnestliving.shop CNAME .
 *.modernnestliving.shop CNAME .
 moderwear.shop CNAME .
@@ -27078,12 +27044,8 @@ momentokuecheneu.shop CNAME .
 *.momentokuecheneu.shop CNAME .
 momentoss.shop CNAME .
 *.momentoss.shop CNAME .
-momentosssale.shop CNAME .
-*.momentosssale.shop CNAME .
 mondversand.shop CNAME .
 *.mondversand.shop CNAME .
-monstabellaeu.shop CNAME .
-*.monstabellaeu.shop CNAME .
 mosinteriorart.shop CNAME .
 *.mosinteriorart.shop CNAME .
 mosshammer.shop CNAME .
@@ -27098,24 +27060,16 @@ mymissionariess.shop CNAME .
 *.mymissionariess.shop CNAME .
 mytoys-eu.shop CNAME .
 *.mytoys-eu.shop CNAME .
-naaknaak.shop CNAME .
-*.naaknaak.shop CNAME .
-nature-loveoutlet.shop CNAME .
-*.nature-loveoutlet.shop CNAME .
 naturelovedeava.shop CNAME .
 *.naturelovedeava.shop CNAME .
 naturkindershopdeeur.shop CNAME .
 *.naturkindershopdeeur.shop CNAME .
-naturkosmetik-werkstattcheap.shop CNAME .
-*.naturkosmetik-werkstattcheap.shop CNAME .
 nealinastore.shop CNAME .
 *.nealinastore.shop CNAME .
 neowatt.shop CNAME .
 *.neowatt.shop CNAME .
 nestrack.shop CNAME .
 *.nestrack.shop CNAME .
-neulanddeeu.shop CNAME .
-*.neulanddeeu.shop CNAME .
 nicechmk.shop CNAME .
 *.nicechmk.shop CNAME .
 niceokno.shop CNAME .

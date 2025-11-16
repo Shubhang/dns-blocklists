@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 10:35 UTC
-# Version: 2025.1116.1035.47
+# Last modified: 16 Nov 2025 14:35 UTC
+# Version: 2025.1116.1435.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 3375
+# Number of entries: 3373
 #
 ss.0001.xyz
 003153.xyz
@@ -2064,7 +2064,6 @@ testguard.meexx.de
 meganerd.nl
 dns.megaong.com
 v2202405224322270920.megasrv.de
-ovhcloud.mehmetarikan.tech
 httpdns.meituan.com
 httpdnsmultiapi.meituan.com
 httpdnsmultiapivip.meituan.com
@@ -2160,7 +2159,6 @@ c1.msocportal.my.id
 math.netlab.my.id
 dns.pnh.my.id
 dns.ramsky.my.id
-dns.repinger.my.id
 agh-jkt.santainetwork.my.id
 agh1.server.my.id
 agh2.server.my.id

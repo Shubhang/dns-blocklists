@@ -3844,6 +3844,13 @@
       }
     },
     {
+      "PK": "pttweb.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "push.delivery",
       "action": {
         "do": 1,

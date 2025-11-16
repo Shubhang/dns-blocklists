@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763289300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763303700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 10:35 UTC
-; Version: 2025.1116.1035.47
+; Last modified: 16 Nov 2025 14:35 UTC
+; Version: 2025.1116.1435.45
 ; Syntax: RPZ
-; Number of entries: 6750
+; Number of entries: 6746
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2895,8 +2895,6 @@ dns.pnh.my.id CNAME .
 *.dns.pnh.my.id CNAME .
 dns.ramsky.my.id CNAME .
 *.dns.ramsky.my.id CNAME .
-dns.repinger.my.id CNAME .
-*.dns.repinger.my.id CNAME .
 agh-jkt.santainetwork.my.id CNAME .
 *.agh-jkt.santainetwork.my.id CNAME .
 agh1.server.my.id CNAME .
@@ -5981,8 +5979,6 @@ dns.everdns.tech CNAME .
 *.dns.everdns.tech CNAME .
 makatla.tech CNAME .
 *.makatla.tech CNAME .
-ovhcloud.mehmetarikan.tech CNAME .
-*.ovhcloud.mehmetarikan.tech CNAME .
 qqmcfw.tech CNAME .
 *.qqmcfw.tech CNAME .
 dns.romain.tech CNAME .

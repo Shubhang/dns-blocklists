@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 09:27 UTC
-! Version: 2025.1116.0927.31
+! Last modified: 16 Nov 2025 13:28 UTC
+! Version: 2025.1116.1328.05
 ! Syntax: AdBlock
-! Number of entries: 14277
+! Number of entries: 14254
 !
 ||01broker.com^
 ||01crypto.com^
@@ -8193,7 +8193,6 @@
 ||mein.consulting^
 ||mein-anhanger.de^
 ||mein-bauhof.de^
-||mein-brennholz24.com^
 ||mein-buch24.de^
 ||mein-gartenhaus-shop.de^
 ||mein-gartenmarkt.de^
@@ -8248,7 +8247,6 @@
 ||melroseangebote.de^
 ||melrosede.com^
 ||melvillestylee.com^
-||melvinham.shop^
 ||member-federation.com^
 ||membershipy.com^
 ||memberxxl.de^
@@ -8323,7 +8321,6 @@
 ||mezzaninfinanz.com^
 ||mezzaninfintech.com^
 ||mfboutiquestore.tools^
-||acces.mfwgroupe.com^
 ||mg-management.de^
 ||mgmglobal.com^
 ||mh63trans.de^
@@ -8428,13 +8425,11 @@
 ||mizunos.de^
 ||mizunosaleportugal.com^
 ||mjonessb.com^
-||mkaisha.shop^
 ||mkbaudesign.de^
 ||mkc-invest.com^
 ||mkentertainment.nl^
 ||mkleid.de^
 ||mknen.com^
-||mlbaushopdeeu.shop^
 ||mlbhungary.com^
 ||mlcodwhz.shop^
 ||mmzzokssa.shop^
@@ -8467,7 +8462,6 @@
 ||mode-becker.com^
 ||mode-boutiek.com^
 ||mode-engel.de^
-||mode-erlebenoutlet.shop^
 ||mode-fuerdich.de^
 ||mode-lizzy.com^
 ||mode-lizzy.de^
@@ -8529,7 +8523,6 @@
 ||moebelonline24.com^
 ||moebelundzubehoer.com^
 ||moensale.com^
-||mohrmode.de^
 ||molaro.de^
 ||molilulu.com^
 ||mollmarzipangmbh.com^
@@ -8539,7 +8532,6 @@
 ||momentarye.com^
 ||momentokuecheneu.shop^
 ||momentoss.shop^
-||momentosssale.shop^
 ||momentsofharmony.de^
 ||momoftrenton.com^
 ||mon-accesprive.com^
@@ -8567,7 +8559,6 @@
 ||monsieur-pharmacien.com^
 ||monsoonosterreich.at^
 ||monsroyales.com^
-||monstabellaeu.shop^
 ||monsterboxofficial.com^
 ||montanahudson.com^
 ||monteconsale.at^
@@ -8706,7 +8697,6 @@
 ||musikgearhub.com^
 ||musikgermany.com^
 ||musikgeschaft.com^
-||musikhaus-hoffmann.de^
 ||musikhaus-neumann.de^
 ||musikhaus-schumacher.de^
 ||musikhaus-vogel.de^
@@ -8858,7 +8848,6 @@
 ||price.mytestopay.com^
 ||sportlife.mytestopay.com^
 ||mytheresa-de.top^
-||mytheresaeu.online^
 ||mytheresamall.top^
 ||mytheresashop.top^
 ||mytheresavip.com^
@@ -8869,8 +8858,6 @@
 ||mytruegadgets.com^
 ||myvillaz.com^
 ||mywhomeofficial.com^
-||naaknaak.shop^
-||naba-24.de^
 ||nabenprada.com^
 ||nachhaltigeherrenmode.com^
 ||nachtmannprada.de^
@@ -8896,21 +8883,18 @@
 ||natexiss-conseil.com^
 ||nationalstemcellbank.org^
 ||nativediscount.com^
-||natur-held.de^
 ||naturaevo.com^
 ||naturalcosmeticssales.com^
 ||naturallyh.com^
 ||naturallyk.com^
 ||naturalzuda.de^
 ||naturcontact.de^
-||nature-loveoutlet.shop^
 ||naturebeautyhealth.com^
 ||naturelovedeava.shop^
 ||naturerlebnisde.com^
 ||naturheiz.com^
 ||naturinowien.at^
 ||naturkindershopdeeur.shop^
-||naturkosmetik-werkstattcheap.shop^
 ||naturkraft-express.de^
 ||naturtechgarten.com^
 ||naturwaerme-karow.de^
@@ -8991,7 +8975,6 @@
 ||neufahrrad-prada.com^
 ||neufahrradladende.com^
 ||neufahrradprada.com^
-||neulanddeeu.shop^
 ||neuleben.co^
 ||musikhaus.neumann.de^
 ||neumann-handel.de^
@@ -9001,7 +8984,6 @@
 ||neunagel.de^
 ||neurath.net^
 ||neutrino-energy-coin.com^
-||neveda-berlin.de^
 ||nevermindshoes.com^
 ||nevrtheles.com^
 ||new-outdoors.com^
@@ -9058,7 +9040,6 @@
 ||nicispielzeug.com^
 ||nicolasdelattre.com^
 ||nicole-mahler.de^
-||nicovermoegensberatung.de^
 ||de3.nicozerv.com^
 ||nidworkers.com^
 ||niebowgebie.com^
@@ -9102,7 +9083,6 @@
 ||nnomerch.store^
 ||nnormal.at^
 ||no-bull-deutschland.de^
-||noahepshop.com^
 ||nobalte.de^
 ||noblepawz.com^
 ||utlcm.noborn.com^
@@ -9126,7 +9106,6 @@
 ||nomoya.de^
 ||nomra.de^
 ||getclairu.nomshopper.com^
-||getwavetune.nomshopper.com^
 ||nonoi-studio.shop^
 ||nora-bergen.com^
 ||noral.xyz^
@@ -9144,7 +9123,6 @@
 ||nordstolz.com^
 ||nordvian.com^
 ||nordyen-de.com^
-||norethelabel.com^
 ||norfolkhotels24.com^
 ||norge-apt.com^
 ||norge-ed.com^
@@ -9181,7 +9159,6 @@
 ||nova-finance.net^
 ||nova-mia.de^
 ||nova-zurich.com^
-||web.novacryptmax.com^
 ||novadeal.de^
 ||novafinanz.de^
 ||novamoda.de^

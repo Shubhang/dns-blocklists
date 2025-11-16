@@ -57,6 +57,13 @@
       }
     },
     {
+      "PK": "device-api.asnapieu.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu.find.api.micloud.xiaomi.net",
       "action": {
         "do": 1,

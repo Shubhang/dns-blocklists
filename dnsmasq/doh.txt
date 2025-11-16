@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 10:35 UTC
-# Version: 2025.1116.1035.47
+# Last modified: 16 Nov 2025 14:35 UTC
+# Version: 2025.1116.1435.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3375
+# Number of entries: 3373
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2064,7 +2064,6 @@ local=/testguard.meexx.de/
 local=/meganerd.nl/
 local=/dns.megaong.com/
 local=/v2202405224322270920.megasrv.de/
-local=/ovhcloud.mehmetarikan.tech/
 local=/httpdns.meituan.com/
 local=/httpdnsmultiapi.meituan.com/
 local=/httpdnsmultiapivip.meituan.com/
@@ -2160,7 +2159,6 @@ local=/c1.msocportal.my.id/
 local=/math.netlab.my.id/
 local=/dns.pnh.my.id/
 local=/dns.ramsky.my.id/
-local=/dns.repinger.my.id/
 local=/agh-jkt.santainetwork.my.id/
 local=/agh1.server.my.id/
 local=/agh2.server.my.id/

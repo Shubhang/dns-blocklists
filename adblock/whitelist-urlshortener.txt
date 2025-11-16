@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 09:29 UTC
-! Version: 2025.1116.0929.12
+! Last modified: 16 Nov 2025 13:29 UTC
+! Version: 2025.1116.1329.47
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -4831,7 +4831,6 @@
 @@||moderncampus.com^
 @@||modurl.com^
 @@||moj.jo^
-@@||mojidul24.info^
 @@||molok.link^
 @@||go-admin.momen.app^
 @@||momo.dm^

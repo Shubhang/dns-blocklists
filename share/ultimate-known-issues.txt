@@ -86,3 +86,7 @@ www.googletagmanager.com
 
 # Videos on various sites (CNN, Time, ...)
 c.amazon-adsystem.com
+
+# Various Apps on Android (TomTom, …)
+# Not reproducible
+device-api.asnapieu.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763289360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763303760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 10:36 UTC
-; Version: 2025.1116.1036.29
+; Last modified: 16 Nov 2025 14:36 UTC
+; Version: 2025.1116.1436.17
 ; Syntax: RPZ
-; Number of entries: 13984
+; Number of entries: 13978
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -7541,8 +7541,6 @@ dns.pnh.my.id CNAME .
 *.dns.pnh.my.id CNAME .
 dns.ramsky.my.id CNAME .
 *.dns.ramsky.my.id CNAME .
-dns.repinger.my.id CNAME .
-*.dns.repinger.my.id CNAME .
 agh-jkt.santainetwork.my.id CNAME .
 *.agh-jkt.santainetwork.my.id CNAME .
 agh1.server.my.id CNAME .
@@ -9795,8 +9793,6 @@ dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
 megaproxylist.net CNAME .
 *.megaproxylist.net CNAME .
-researchedu.mesaayuda.net CNAME .
-*.researchedu.mesaayuda.net CNAME .
 dns.mfud.net CNAME .
 *.dns.mfud.net CNAME .
 securenet.mhsystems.net CNAME .
@@ -12803,8 +12799,6 @@ makatla.tech CNAME .
 *.makatla.tech CNAME .
 mathlearning.tech CNAME .
 *.mathlearning.tech CNAME .
-mehmetarikan.tech CNAME .
-*.mehmetarikan.tech CNAME .
 qqmcfw.tech CNAME .
 *.qqmcfw.tech CNAME .
 dns.romain.tech CNAME .

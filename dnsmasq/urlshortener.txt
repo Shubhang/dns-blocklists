@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 09:29 UTC
-# Version: 2025.1116.0929.12
+# Last modified: 16 Nov 2025 13:29 UTC
+# Version: 2025.1116.1329.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9533
+# Number of entries: 9532
 #
 local=/0.gp/
 local=/00m.in/
@@ -4955,7 +4955,6 @@ local=/modash.link/
 local=/moderncampus.com/
 local=/modurl.com/
 local=/moj.jo/
-local=/mojidul24.info/
 local=/molok.link/
 local=/go-admin.momen.app/
 local=/momo.dm/
