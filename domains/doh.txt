@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:37 UTC
-# Version: 2025.1116.1837.37
+# Last modified: 17 Nov 2025 02:34 UTC
+# Version: 2025.1117.0234.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3847
+# Number of entries: 3837
 #
 ss.0001.xyz
 003153.xyz
@@ -2913,7 +2913,6 @@ polisitogel.cruises
 polisitogel.diy
 polisitogel.green
 polisitogel.hair
-polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 polisitogel.show
@@ -2935,18 +2934,12 @@ dns.korzhyk.pp.ua
 lindung.pp.ua
 pad3w.pp.ua
 reskah.pp.ua
-dns01.sdu.pp.ua
 sundalandia.pp.ua
 syre.pp.ua
 virga.pp.ua
 dns.xxxxxxxx.pp.ua
 zxcvb.pp.ua
 adguard.ppfeufer.de
-dns.pragmasec.nl
-mail.pragmasec.nl
-new.pragmasec.nl
-server.pragmasec.nl
-webmeel.pragmasec.nl
 dns2.prima-solusindo.com
 princez.uk
 agh.printk.info
@@ -3148,7 +3141,6 @@ dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
 dns.safko.eu
-ag.sageton.pl
 dns.sainternet.xyz
 safe.dns.sainternet.xyz
 unfiltered.dns.sainternet.xyz
@@ -3157,8 +3149,6 @@ lime.samonte.ovh
 cloud.samutz.com
 dns.saneaki.com
 router.sapib.ca
-adb-dns.sapient.cyou
-hetz.sapient.cyou
 dns.sarak.as
 dns1.sarak.as
 dns2.sarak.as

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:38 UTC
-# Version: 2025.1116.1838.12
+# Last modified: 17 Nov 2025 02:34 UTC
+# Version: 2025.1117.0234.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 6983
+# Number of entries: 6966
 #
 ss.0001.xyz
 003153.xyz
@@ -4123,7 +4123,6 @@ polisitogel.cruises
 polisitogel.diy
 polisitogel.green
 polisitogel.hair
-polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 polisitogel.show
@@ -4151,7 +4150,6 @@ dns.korzhyk.pp.ua
 lindung.pp.ua
 pad3w.pp.ua
 reskah.pp.ua
-dns01.sdu.pp.ua
 sundalandia.pp.ua
 syre.pp.ua
 virga.pp.ua
@@ -4162,11 +4160,6 @@ ppira.com
 pproxy.org
 pq7hdf.com
 pr0xy.com
-dns.pragmasec.nl
-mail.pragmasec.nl
-new.pragmasec.nl
-server.pragmasec.nl
-webmeel.pragmasec.nl
 topic.craft.prazerdiario.com
 a1free-optimal.prcdn.net
 bru-be.prcdn.net
@@ -4226,7 +4219,6 @@ protonvpn.com
 protonvpn.net
 prounlock.org
 provpn.info
-provpnaccounts.com
 prox.pw
 proxandthecity.com
 proxbomb.com
@@ -4295,7 +4287,6 @@ proxy4free.com
 proxy4free.me
 proxy5.net
 proxy62.com
-proxy7.club
 proxyadult.org
 proxyarab.com
 proxybits.com
@@ -4538,7 +4529,6 @@ remotevpn.net
 renardbleu.dev
 dns.renardyre.com
 adblock.renedis.nl
-schoolismid.reno.pe
 dns.reolinks.ru
 dns.repinger.com
 repocket.co
@@ -4564,7 +4554,6 @@ rhys1901.biz
 adguard.richardapplegate.io
 richardo.net
 ricko.is
-rammerhead-by-itrsa.rima.cl
 dns.rin.sh
 ringvpn.com
 dns.rinux.win
@@ -4647,7 +4636,6 @@ safetysurf.net
 safeunblock.com
 safing.io
 dns.safko.eu
-ag.sageton.pl
 dns.sainternet.xyz
 vpn.sakhwow.ru
 samj.codes
@@ -4665,8 +4653,6 @@ tools.development.sanluix.org
 lol.sanluix.org
 saoudiproxy.info
 router.sapib.ca
-adb-dns.sapient.cyou
-hetz.sapient.cyou
 dns.sarak.as
 dns1.sarak.as
 dns2.sarak.as
@@ -4832,7 +4818,6 @@ dns.simplylinux.ch
 dns.sindominio.net
 dns.sineone.icu
 sinesprox.cloud
-gurtyo.sino.tw
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -4930,8 +4915,6 @@ adguard.som-it.net
 somelikeitproxy.com
 bwg.sooda.moe
 r.soraapp.gq
-admin1.sotna.org
-cms.sotna.org
 sourceproxy.com
 spacedns.org
 adguard.spaceindex.net

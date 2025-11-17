@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:38 UTC
-# Version: 2025.1116.1838.12
+# Last modified: 17 Nov 2025 02:34 UTC
+# Version: 2025.1117.0234.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6983
+# Number of entries: 6966
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4123,7 +4123,6 @@ local=/polisitogel.cruises/
 local=/polisitogel.diy/
 local=/polisitogel.green/
 local=/polisitogel.hair/
-local=/polisitogel.limo/
 local=/polisitogel.living/
 local=/polisitogel.luxe/
 local=/polisitogel.show/
@@ -4151,7 +4150,6 @@ local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
 local=/pad3w.pp.ua/
 local=/reskah.pp.ua/
-local=/dns01.sdu.pp.ua/
 local=/sundalandia.pp.ua/
 local=/syre.pp.ua/
 local=/virga.pp.ua/
@@ -4162,11 +4160,6 @@ local=/ppira.com/
 local=/pproxy.org/
 local=/pq7hdf.com/
 local=/pr0xy.com/
-local=/dns.pragmasec.nl/
-local=/mail.pragmasec.nl/
-local=/new.pragmasec.nl/
-local=/server.pragmasec.nl/
-local=/webmeel.pragmasec.nl/
 local=/topic.craft.prazerdiario.com/
 local=/a1free-optimal.prcdn.net/
 local=/bru-be.prcdn.net/
@@ -4226,7 +4219,6 @@ local=/protonvpn.com/
 local=/protonvpn.net/
 local=/prounlock.org/
 local=/provpn.info/
-local=/provpnaccounts.com/
 local=/prox.pw/
 local=/proxandthecity.com/
 local=/proxbomb.com/
@@ -4295,7 +4287,6 @@ local=/proxy4free.com/
 local=/proxy4free.me/
 local=/proxy5.net/
 local=/proxy62.com/
-local=/proxy7.club/
 local=/proxyadult.org/
 local=/proxyarab.com/
 local=/proxybits.com/
@@ -4538,7 +4529,6 @@ local=/remotevpn.net/
 local=/renardbleu.dev/
 local=/dns.renardyre.com/
 local=/adblock.renedis.nl/
-local=/schoolismid.reno.pe/
 local=/dns.reolinks.ru/
 local=/dns.repinger.com/
 local=/repocket.co/
@@ -4564,7 +4554,6 @@ local=/rhys1901.biz/
 local=/adguard.richardapplegate.io/
 local=/richardo.net/
 local=/ricko.is/
-local=/rammerhead-by-itrsa.rima.cl/
 local=/dns.rin.sh/
 local=/ringvpn.com/
 local=/dns.rinux.win/
@@ -4647,7 +4636,6 @@ local=/safetysurf.net/
 local=/safeunblock.com/
 local=/safing.io/
 local=/dns.safko.eu/
-local=/ag.sageton.pl/
 local=/dns.sainternet.xyz/
 local=/vpn.sakhwow.ru/
 local=/samj.codes/
@@ -4665,8 +4653,6 @@ local=/tools.development.sanluix.org/
 local=/lol.sanluix.org/
 local=/saoudiproxy.info/
 local=/router.sapib.ca/
-local=/adb-dns.sapient.cyou/
-local=/hetz.sapient.cyou/
 local=/dns.sarak.as/
 local=/dns1.sarak.as/
 local=/dns2.sarak.as/
@@ -4832,7 +4818,6 @@ local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/dns.sineone.icu/
 local=/sinesprox.cloud/
-local=/gurtyo.sino.tw/
 local=/dnsovertls.sinodun.com/
 local=/dnsovertls1.sinodun.com/
 local=/dnsovertls2.sinodun.com/
@@ -4930,8 +4915,6 @@ local=/adguard.som-it.net/
 local=/somelikeitproxy.com/
 local=/bwg.sooda.moe/
 local=/r.soraapp.gq/
-local=/admin1.sotna.org/
-local=/cms.sotna.org/
 local=/sourceproxy.com/
 local=/spacedns.org/
 local=/adguard.spaceindex.net/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:37 UTC
-# Version: 2025.1116.1837.37
+# Last modified: 17 Nov 2025 02:34 UTC
+# Version: 2025.1117.0234.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3371
+# Number of entries: 3361
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2524,7 +2524,6 @@ local=/polisitogel.cruises/
 local=/polisitogel.diy/
 local=/polisitogel.green/
 local=/polisitogel.hair/
-local=/polisitogel.limo/
 local=/polisitogel.living/
 local=/polisitogel.luxe/
 local=/polisitogel.show/
@@ -2546,18 +2545,12 @@ local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
 local=/pad3w.pp.ua/
 local=/reskah.pp.ua/
-local=/dns01.sdu.pp.ua/
 local=/sundalandia.pp.ua/
 local=/syre.pp.ua/
 local=/virga.pp.ua/
 local=/dns.xxxxxxxx.pp.ua/
 local=/zxcvb.pp.ua/
 local=/adguard.ppfeufer.de/
-local=/dns.pragmasec.nl/
-local=/mail.pragmasec.nl/
-local=/new.pragmasec.nl/
-local=/server.pragmasec.nl/
-local=/webmeel.pragmasec.nl/
 local=/dns2.prima-solusindo.com/
 local=/princez.uk/
 local=/agh.printk.info/
@@ -2738,15 +2731,12 @@ local=/dns2.saferbfc.org/
 local=/safeservedns.com/
 local=/doh.safesurfer.io/
 local=/dns.safko.eu/
-local=/ag.sageton.pl/
 local=/dns.sainternet.xyz/
 local=/vpn.sakhwow.ru/
 local=/lime.samonte.ovh/
 local=/cloud.samutz.com/
 local=/dns.saneaki.com/
 local=/router.sapib.ca/
-local=/adb-dns.sapient.cyou/
-local=/hetz.sapient.cyou/
 local=/dns.sarak.as/
 local=/dns1.sarak.as/
 local=/dns2.sarak.as/

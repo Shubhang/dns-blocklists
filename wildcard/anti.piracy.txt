@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:31 UTC
-# Version: 2025.1116.1831.47
+# Last modified: 17 Nov 2025 02:28 UTC
+# Version: 2025.1117.0228.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11569
+# Number of entries: 11564
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -2556,7 +2556,6 @@
 *.tr-rh-zhuqiy.dgj055.icu
 *.tr-zhuqiy-1.dgj055.icu
 *.tr-zhuqiy-2.dgj055.icu
-*.tracker-zhuqiy.dgj055.icu
 *.trl-zhuqiy.dgj055.icu
 *.tracker.zhuqiy.dgj055.icu
 *.dhakadownload.com
@@ -7672,7 +7671,6 @@
 *.primewirestatus.org
 *.privatebits.org
 *.privatehd.to
-*.privatemoviez.beauty
 *.privatemoviez.help
 *.region.nl1.privex.cc
 *.privtracker.com
@@ -8050,7 +8048,6 @@
 *.revenge-of-usenet.online
 *.reverendmike.org
 *.revolution-world.com
-*.revolutiontt.net
 *.rexagames.com
 *.rexdl.com
 *.rezi.one
@@ -8100,8 +8097,6 @@
 *.rochestergroove.com
 *.rockmods.net
 *.rodelaonlinebd.com
-*.stream.rodrixtv.info
-*.rojacalcio.com
 *.rojadirecta.es
 *.rojadirecta.eu
 *.rojadirecta.it

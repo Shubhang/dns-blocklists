@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763314080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763342820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 17:28 UTC
-; Version: 2025.1116.1728.23
+; Last modified: 17 Nov 2025 01:27 UTC
+; Version: 2025.1117.0127.26
 ; Syntax: RPZ
-; Number of entries: 28482
+; Number of entries: 28418
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -13410,20 +13410,14 @@ remorquesdunords.com CNAME .
 *.remorquesdunords.com CNAME .
 remote-arbeiten.com CNAME .
 *.remote-arbeiten.com CNAME .
-remote-starten.com CNAME .
-*.remote-starten.com CNAME .
 remotearboeitt-work.com CNAME .
 *.remotearboeitt-work.com CNAME .
 remotehomejobs24.com CNAME .
 *.remotehomejobs24.com CNAME .
 remotenow-talent.com CNAME .
 *.remotenow-talent.com CNAME .
-remoteonlinehub.com CNAME .
-*.remoteonlinehub.com CNAME .
 remoteworkpad.com CNAME .
 *.remoteworkpad.com CNAME .
-renatainformatica.com CNAME .
-*.renatainformatica.com CNAME .
 renditeexperte.com CNAME .
 *.renditeexperte.com CNAME .
 rennkurbelde.com CNAME .
@@ -13474,8 +13468,6 @@ retreature.com CNAME .
 *.retreature.com CNAME .
 retrowinegeschaft.com CNAME .
 *.retrowinegeschaft.com CNAME .
-returnpotentialonline.com CNAME .
-*.returnpotentialonline.com CNAME .
 reubenco.com CNAME .
 *.reubenco.com CNAME .
 reveilove.com CNAME .
@@ -13672,8 +13664,6 @@ roulettegem.com CNAME .
 *.roulettegem.com CNAME .
 roumite.com CNAME .
 *.roumite.com CNAME .
-routine-fly.com CNAME .
-*.routine-fly.com CNAME .
 roxyaustria.com CNAME .
 *.roxyaustria.com CNAME .
 roxydubai.com CNAME .
@@ -13832,8 +13822,6 @@ salestoragecabinet.com CNAME .
 *.salestoragecabinet.com CNAME .
 salestrikots.com CNAME .
 *.salestrikots.com CNAME .
-salesupsurf.com CNAME .
-*.salesupsurf.com CNAME .
 salevenum-eu.com CNAME .
 *.salevenum-eu.com CNAME .
 salewabootsnz.com CNAME .
@@ -13910,8 +13898,6 @@ saramaud.com CNAME .
 *.saramaud.com CNAME .
 sarvamits.com CNAME .
 *.sarvamits.com CNAME .
-satorisandeutschland.com CNAME .
-*.satorisandeutschland.com CNAME .
 sauconyshopuk.com CNAME .
 *.sauconyshopuk.com CNAME .
 saugprofis.com CNAME .
@@ -13938,8 +13924,6 @@ sbikeparts.com CNAME .
 *.sbikeparts.com CNAME .
 scalaautopecas.com CNAME .
 *.scalaautopecas.com CNAME .
-scanbuymart.com CNAME .
-*.scanbuymart.com CNAME .
 scandifurn.com CNAME .
 *.scandifurn.com CNAME .
 scarpejoya.com CNAME .
@@ -13962,8 +13946,6 @@ scherenrabatt.com CNAME .
 *.scherenrabatt.com CNAME .
 schickherren.com CNAME .
 *.schickherren.com CNAME .
-schiessert.com CNAME .
-*.schiessert.com CNAME .
 schiffbootsteile.com CNAME .
 *.schiffbootsteile.com CNAME .
 schlafhimmel.com CNAME .
@@ -14408,8 +14390,6 @@ simplycie.com CNAME .
 *.simplycie.com CNAME .
 simunlocks.com CNAME .
 *.simunlocks.com CNAME .
-sinarbrand.com CNAME .
-*.sinarbrand.com CNAME .
 sinbadgift.com CNAME .
 *.sinbadgift.com CNAME .
 siouxshoe.com CNAME .
@@ -22608,8 +22588,6 @@ rezeptfrei-bestellung.de CNAME .
 *.rezeptfrei-bestellung.de CNAME .
 rezeptfrei-guenstiger.de CNAME .
 *.rezeptfrei-guenstiger.de CNAME .
-rezeptfreie-bestellung.de CNAME .
-*.rezeptfreie-bestellung.de CNAME .
 rheimz.de CNAME .
 *.rheimz.de CNAME .
 rhein-trends24.de CNAME .
@@ -22718,8 +22696,6 @@ ruhrmove.de CNAME .
 *.ruhrmove.de CNAME .
 rundfunkportal.de CNAME .
 *.rundfunkportal.de CNAME .
-rundumheizoel.de CNAME .
-*.rundumheizoel.de CNAME .
 rundummobil.de CNAME .
 *.rundummobil.de CNAME .
 russmohl.de CNAME .
@@ -22784,8 +22760,6 @@ sanfte-huegel.de CNAME .
 *.sanfte-huegel.de CNAME .
 sanitaer-meier.de CNAME .
 *.sanitaer-meier.de CNAME .
-santlux.de CNAME .
-*.santlux.de CNAME .
 sanuksandalen.de CNAME .
 *.sanuksandalen.de CNAME .
 sanukschuhe.de CNAME .
@@ -22818,8 +22792,6 @@ sbhbrennholz.de CNAME .
 *.sbhbrennholz.de CNAME .
 scentuelle.de CNAME .
 *.scentuelle.de CNAME .
-schaffelhuberconsulting.de CNAME .
-*.schaffelhuberconsulting.de CNAME .
 schallreiniger.de CNAME .
 *.schallreiniger.de CNAME .
 scharfemesser.de CNAME .
@@ -22968,8 +22940,6 @@ shoesprada.de CNAME .
 *.shoesprada.de CNAME .
 shop-degussa-goldbarren.de CNAME .
 *.shop-degussa-goldbarren.de CNAME .
-shop-luvado.de CNAME .
-*.shop-luvado.de CNAME .
 shopkrone.de CNAME .
 *.shopkrone.de CNAME .
 shopleo.de CNAME .
@@ -23038,12 +23008,8 @@ slu-handel.de CNAME .
 *.slu-handel.de CNAME .
 slu24-handel.de CNAME .
 *.slu24-handel.de CNAME .
-smart-ai-etf.de CNAME .
-*.smart-ai-etf.de CNAME .
 smart-handel.de CNAME .
 *.smart-handel.de CNAME .
-smart-stocks-etf.de CNAME .
-*.smart-stocks-etf.de CNAME .
 smartheizer.de CNAME .
 *.smartheizer.de CNAME .
 smartheizoel.de CNAME .
@@ -24884,8 +24850,6 @@ pacificgroup.ltd CNAME .
 *.pacificgroup.ltd CNAME .
 rosecapital.ltd CNAME .
 *.rosecapital.ltd CNAME .
-sapientfinancial.ltd CNAME .
-*.sapientfinancial.ltd CNAME .
 token-trust.ltd CNAME .
 *.token-trust.ltd CNAME .
 shop.electro-center.lu CNAME .
@@ -25486,8 +25450,6 @@ saycom.net CNAME .
 *.saycom.net CNAME .
 sblt.net CNAME .
 *.sblt.net CNAME .
-segasonic.net CNAME .
-*.segasonic.net CNAME .
 sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .
@@ -27150,10 +27112,6 @@ pocofficial.shop CNAME .
 *.pocofficial.shop CNAME .
 point-x.shop CNAME .
 *.point-x.shop CNAME .
-ponstar.shop CNAME .
-*.ponstar.shop CNAME .
-poolladen.shop CNAME .
-*.poolladen.shop CNAME .
 potfit.shop CNAME .
 *.potfit.shop CNAME .
 praktiker-baumarkt.shop CNAME .
@@ -27174,10 +27132,6 @@ privanaeu.shop CNAME .
 *.privanaeu.shop CNAME .
 proladen.shop CNAME .
 *.proladen.shop CNAME .
-protechnik.shop CNAME .
-*.protechnik.shop CNAME .
-pulsero.shop CNAME .
-*.pulsero.shop CNAME .
 purrkit.shop CNAME .
 *.purrkit.shop CNAME .
 pvqkcuin.shop CNAME .
@@ -27204,20 +27158,14 @@ quozia.shop CNAME .
 *.quozia.shop CNAME .
 raeuberundkomplizeneur.shop CNAME .
 *.raeuberundkomplizeneur.shop CNAME .
-rason.shop CNAME .
-*.rason.shop CNAME .
 rattmmotor.shop CNAME .
 *.rattmmotor.shop CNAME .
-raumausstatter-conrad.shop CNAME .
-*.raumausstatter-conrad.shop CNAME .
 rectcg.shop CNAME .
 *.rectcg.shop CNAME .
 reflectiveonline.shop CNAME .
 *.reflectiveonline.shop CNAME .
 reforger.shop CNAME .
 *.reforger.shop CNAME .
-renzandfriends.shop CNAME .
-*.renzandfriends.shop CNAME .
 retter-de.shop CNAME .
 *.retter-de.shop CNAME .
 rieker-eu.shop CNAME .
@@ -27246,8 +27194,6 @@ rockmysleepeu.shop CNAME .
 *.rockmysleepeu.shop CNAME .
 rohn-shop.shop CNAME .
 *.rohn-shop.shop CNAME .
-rossmann-partnership.shop CNAME .
-*.rossmann-partnership.shop CNAME .
 roudamo.shop CNAME .
 *.roudamo.shop CNAME .
 royalbrands.shop CNAME .
@@ -27276,14 +27222,10 @@ hessnatur.saveeu.shop CNAME .
 *.hessnatur.saveeu.shop CNAME .
 schaumexdeava.shop CNAME .
 *.schaumexdeava.shop CNAME .
-schilderqueen.shop CNAME .
-*.schilderqueen.shop CNAME .
 schniesel-kids.shop CNAME .
 *.schniesel-kids.shop CNAME .
 schockemohleonlinestore.shop CNAME .
 *.schockemohleonlinestore.shop CNAME .
-schreibundstilonline.shop CNAME .
-*.schreibundstilonline.shop CNAME .
 scottsummer.shop CNAME .
 *.scottsummer.shop CNAME .
 scubapro-sale.shop CNAME .
@@ -27292,8 +27234,6 @@ secrettime.shop CNAME .
 *.secrettime.shop CNAME .
 sellercenter.shop CNAME .
 *.sellercenter.shop CNAME .
-semode.shop CNAME .
-*.semode.shop CNAME .
 seriouswatches.shop CNAME .
 *.seriouswatches.shop CNAME .
 seyjoy.shop CNAME .
@@ -27314,8 +27254,6 @@ shop-lamia-mode.shop CNAME .
 *.shop-lamia-mode.shop CNAME .
 shop-raze-cat.shop CNAME .
 *.shop-raze-cat.shop CNAME .
-shop4tesla.shop CNAME .
-*.shop4tesla.shop CNAME .
 shopdestina.shop CNAME .
 *.shopdestina.shop CNAME .
 shopkokoro.shop CNAME .
@@ -27330,8 +27268,6 @@ skatedeluxesale.shop CNAME .
 *.skatedeluxesale.shop CNAME .
 skecheroutlets.shop CNAME .
 *.skecheroutlets.shop CNAME .
-skielka-designschmuck.shop CNAME .
-*.skielka-designschmuck.shop CNAME .
 soapandmore.shop CNAME .
 *.soapandmore.shop CNAME .
 sochutz.shop CNAME .

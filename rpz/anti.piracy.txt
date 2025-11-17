@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763317860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763346480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 18:31 UTC
-; Version: 2025.1116.1831.47
+; Last modified: 17 Nov 2025 02:28 UTC
+; Version: 2025.1117.0228.40
 ; Syntax: RPZ
-; Number of entries: 23138
+; Number of entries: 23128
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -640,8 +640,6 @@ filmapik.beauty CNAME .
 *.filmapik.beauty CNAME .
 hdmovie2.beauty CNAME .
 *.hdmovie2.beauty CNAME .
-privatemoviez.beauty CNAME .
-*.privatemoviez.beauty CNAME .
 abrase.beer CNAME .
 *.abrase.beer CNAME .
 alagoz.beer CNAME .
@@ -6630,8 +6628,6 @@ rochestergroove.com CNAME .
 *.rochestergroove.com CNAME .
 rodelaonlinebd.com CNAME .
 *.rodelaonlinebd.com CNAME .
-rojacalcio.com CNAME .
-*.rojacalcio.com CNAME .
 rojadirectaenvivo.com CNAME .
 *.rojadirectaenvivo.com CNAME .
 rojadirectaorg.com CNAME .
@@ -10038,8 +10034,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -10532,8 +10526,6 @@ rlsbb.info CNAME .
 *.rlsbb.info CNAME .
 roarzone.info CNAME .
 *.roarzone.info CNAME .
-stream.rodrixtv.info CNAME .
-*.stream.rodrixtv.info CNAME .
 rutor.info CNAME .
 *.rutor.info CNAME .
 bt.saiyaman.info CNAME .
@@ -14126,8 +14118,6 @@ revanced.net CNAME .
 *.revanced.net CNAME .
 revdl.net CNAME .
 *.revdl.net CNAME .
-revolutiontt.net CNAME .
-*.revolutiontt.net CNAME .
 store.rg-adguard.net CNAME .
 *.store.rg-adguard.net CNAME .
 rgfootball.net CNAME .

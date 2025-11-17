@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 17:30 UTC
-# Version: 2025.1116.1730.06
+# Last modified: 17 Nov 2025 01:29 UTC
+# Version: 2025.1117.0129.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9531
+# Number of entries: 9516
 #
 local=/0.gp/
 local=/00m.in/
@@ -945,7 +945,6 @@ local=/baixeapk.com/
 local=/baktifranchise.live/
 local=/balls.no/
 local=/it.baltgroup.com/
-local=/bamaccoin.com/
 local=/bamerus.top/
 local=/banaccroblox.com/
 local=/bankua.xyz/
@@ -2526,6 +2525,7 @@ local=/esqr.co/
 local=/esun.co/
 local=/esyurl.com/
 local=/et2.top/
+local=/s.et4.de/
 local=/etinyurl.com/
 local=/etkt.fr/
 local=/etoro.tw/
@@ -5976,7 +5976,6 @@ local=/pxl.to/
 local=/pxlcrv.co/
 local=/pxlfy.me/
 local=/pxlme.me/
-local=/pxs.cl/
 local=/pxu.co/
 local=/pxxbet.promo/
 local=/py.md/
@@ -6126,7 +6125,6 @@ local=/qutt.me/
 local=/qutt.us/
 local=/quurls.com/
 local=/qvc.co/
-local=/qwli.pro/
 local=/qxa.me/
 local=/qxp.cz/
 local=/qxp.sk/
@@ -6605,7 +6603,6 @@ local=/segueae.link/
 local=/seiu.co/
 local=/925.seiu.org/
 local=/sejr.nl/
-local=/seka.li/
 local=/sekb.net/
 local=/link.sekitarkita.id/
 local=/link.sekuritance.com/
@@ -6788,7 +6785,6 @@ local=/shortenerlink.net/
 local=/shortenerlink.xyz/
 local=/shortenerreviews.com/
 local=/shorteners.net/
-local=/shortenerurl.site/
 local=/shortenfor.me/
 local=/shortengine.dev/
 local=/shortenlab.com/
@@ -6809,7 +6805,6 @@ local=/shortenx.com/
 local=/shortenx.eu/
 local=/shorter.gg/
 local=/shorter.me/
-local=/shorterall.com/
 local=/shorterflix.com/
 local=/shorterin.com/
 local=/shorterit.com/
@@ -6939,16 +6934,8 @@ local=/shorturlapp.com/
 local=/shorturlbot.com/
 local=/shorturlhub.com/
 local=/shorturlmagic.link/
-local=/shorturls.asia/
-local=/shorturls.at/
-local=/shorturls.click/
-local=/shorturls.fr/
-local=/shorturls.fyi/
-local=/shorturls.in/
-local=/shorturls.my/
 local=/shorturls.one/
 local=/shorturls.pro/
-local=/shorturls.us/
 local=/shorturlss.com/
 local=/shorturlx.com/
 local=/shortwave.pro/
@@ -6960,7 +6947,6 @@ local=/shortybiolink.com/
 local=/shortyearn.com/
 local=/shortylink.org/
 local=/shortyzone.com/
-local=/shotcut.in/
 local=/shoturl.org/
 local=/shoturl.us/
 local=/shotxy.com/
@@ -7240,7 +7226,6 @@ local=/snapbtg.com/
 local=/snapitqr.com/
 local=/snapiturl.com/
 local=/snappyshort.com/
-local=/snappyurl.com/
 local=/snapt.io/
 local=/snapurl.org/
 local=/snapurl.xyz/

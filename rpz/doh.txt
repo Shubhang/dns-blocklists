@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763318220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763346840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 18:37 UTC
-; Version: 2025.1116.1837.37
+; Last modified: 17 Nov 2025 02:34 UTC
+; Version: 2025.1117.0234.01
 ; Syntax: RPZ
-; Number of entries: 6742
+; Number of entries: 6722
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1941,10 +1941,6 @@ vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
-adb-dns.sapient.cyou CNAME .
-*.adb-dns.sapient.cyou CNAME .
-hetz.sapient.cyou CNAME .
-*.hetz.sapient.cyou CNAME .
 adguard.eischmann.cz CNAME .
 *.adguard.eischmann.cz CNAME .
 srv5.jiripocta.cz CNAME .
@@ -3307,8 +3303,6 @@ solution.w10.life CNAME .
 *.solution.w10.life CNAME .
 mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
-polisitogel.limo CNAME .
-*.polisitogel.limo CNAME .
 atsilva.link CNAME .
 *.atsilva.link CNAME .
 sabine.bruno2000.link CNAME .
@@ -4479,16 +4473,6 @@ rwkdwpwsyv48.mikopono.nl CNAME .
 *.rwkdwpwsyv48.mikopono.nl CNAME .
 dns.pccoach.nl CNAME .
 *.dns.pccoach.nl CNAME .
-dns.pragmasec.nl CNAME .
-*.dns.pragmasec.nl CNAME .
-mail.pragmasec.nl CNAME .
-*.mail.pragmasec.nl CNAME .
-new.pragmasec.nl CNAME .
-*.new.pragmasec.nl CNAME .
-server.pragmasec.nl CNAME .
-*.server.pragmasec.nl CNAME .
-webmeel.pragmasec.nl CNAME .
-*.webmeel.pragmasec.nl CNAME .
 adguard.rdekuyper.nl CNAME .
 *.adguard.rdekuyper.nl CNAME .
 adblock.renedis.nl CNAME .
@@ -5119,8 +5103,6 @@ dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
 ad.r60.pl CNAME .
 *.ad.r60.pl CNAME .
-ag.sageton.pl CNAME .
-*.ag.sageton.pl CNAME .
 dns.skrzypiec.pl CNAME .
 *.dns.skrzypiec.pl CNAME .
 szyrzyk.pl CNAME .
@@ -6219,8 +6201,6 @@ pad3w.pp.ua CNAME .
 *.pad3w.pp.ua CNAME .
 reskah.pp.ua CNAME .
 *.reskah.pp.ua CNAME .
-dns01.sdu.pp.ua CNAME .
-*.dns01.sdu.pp.ua CNAME .
 sundalandia.pp.ua CNAME .
 *.sundalandia.pp.ua CNAME .
 syre.pp.ua CNAME .

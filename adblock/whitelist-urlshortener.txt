@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 17:30 UTC
-! Version: 2025.1116.1730.06
+! Last modified: 17 Nov 2025 01:29 UTC
+! Version: 2025.1117.0129.07
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -915,7 +915,6 @@
 @@||baktifranchise.live^
 @@||balls.no^
 @@||it.baltgroup.com^
-@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankua.xyz^
@@ -2461,6 +2460,7 @@
 @@||esun.co^
 @@||esyurl.com^
 @@||et2.top^
+@@||s.et4.de^
 @@||etinyurl.com^
 @@||etkt.fr^
 @@||etoro.tw^
@@ -5830,7 +5830,6 @@
 @@||pxl.to^
 @@||pxlcrv.co^
 @@||pxlfy.me^
-@@||pxs.cl^
 @@||pxu.co^
 @@||pxxbet.promo^
 @@||py.md^
@@ -5975,7 +5974,6 @@
 @@||qutt.us^
 @@||quurls.com^
 @@||qvc.co^
-@@||qwli.pro^
 @@||qxa.me^
 @@||qxp.cz^
 @@||qxp.sk^
@@ -6441,7 +6439,6 @@
 @@||seiu.co^
 @@||925.seiu.org^
 @@||sejr.nl^
-@@||seka.li^
 @@||sekb.net^
 @@||link.sekitarkita.id^
 @@||link.sekuritance.com^
@@ -6620,7 +6617,6 @@
 @@||shortenerlink.xyz^
 @@||shortenerreviews.com^
 @@||shorteners.net^
-@@||shortenerurl.site^
 @@||shortenfor.me^
 @@||shortengine.dev^
 @@||shortenlab.com^
@@ -6640,7 +6636,6 @@
 @@||shortenx.com^
 @@||shortenx.eu^
 @@||shorter.gg^
-@@||shorterall.com^
 @@||shorterflix.com^
 @@||shorterin.com^
 @@||shorterit.com^
@@ -6766,16 +6761,8 @@
 @@||shorturlbot.com^
 @@||shorturlhub.com^
 @@||shorturlmagic.link^
-@@||shorturls.asia^
-@@||shorturls.at^
-@@||shorturls.click^
-@@||shorturls.fr^
-@@||shorturls.fyi^
-@@||shorturls.in^
-@@||shorturls.my^
 @@||shorturls.one^
 @@||shorturls.pro^
-@@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
 @@||shortwave.pro^
@@ -6787,7 +6774,6 @@
 @@||shortyearn.com^
 @@||shortylink.org^
 @@||shortyzone.com^
-@@||shotcut.in^
 @@||shoturl.org^
 @@||shoturl.us^
 @@||shotxy.com^
@@ -7062,7 +7048,6 @@
 @@||snapitqr.com^
 @@||snapiturl.com^
 @@||snappyshort.com^
-@@||snappyurl.com^
 @@||snapt.io^
 @@||snapurl.org^
 @@||snapurl.xyz^

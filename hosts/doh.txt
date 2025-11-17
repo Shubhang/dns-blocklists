@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:37 UTC
-# Version: 2025.1116.1837.37
+# Last modified: 17 Nov 2025 02:34 UTC
+# Version: 2025.1117.0234.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3847
+# Number of entries: 3837
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2913,7 +2913,6 @@
 0.0.0.0 polisitogel.diy
 0.0.0.0 polisitogel.green
 0.0.0.0 polisitogel.hair
-0.0.0.0 polisitogel.limo
 0.0.0.0 polisitogel.living
 0.0.0.0 polisitogel.luxe
 0.0.0.0 polisitogel.show
@@ -2935,18 +2934,12 @@
 0.0.0.0 lindung.pp.ua
 0.0.0.0 pad3w.pp.ua
 0.0.0.0 reskah.pp.ua
-0.0.0.0 dns01.sdu.pp.ua
 0.0.0.0 sundalandia.pp.ua
 0.0.0.0 syre.pp.ua
 0.0.0.0 virga.pp.ua
 0.0.0.0 dns.xxxxxxxx.pp.ua
 0.0.0.0 zxcvb.pp.ua
 0.0.0.0 adguard.ppfeufer.de
-0.0.0.0 dns.pragmasec.nl
-0.0.0.0 mail.pragmasec.nl
-0.0.0.0 new.pragmasec.nl
-0.0.0.0 server.pragmasec.nl
-0.0.0.0 webmeel.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
@@ -3148,7 +3141,6 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 dns.safko.eu
-0.0.0.0 ag.sageton.pl
 0.0.0.0 dns.sainternet.xyz
 0.0.0.0 safe.dns.sainternet.xyz
 0.0.0.0 unfiltered.dns.sainternet.xyz
@@ -3157,8 +3149,6 @@
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.saneaki.com
 0.0.0.0 router.sapib.ca
-0.0.0.0 adb-dns.sapient.cyou
-0.0.0.0 hetz.sapient.cyou
 0.0.0.0 dns.sarak.as
 0.0.0.0 dns1.sarak.as
 0.0.0.0 dns2.sarak.as

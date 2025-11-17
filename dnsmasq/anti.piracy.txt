@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 18:31 UTC
-# Version: 2025.1116.1831.47
+# Last modified: 17 Nov 2025 02:28 UTC
+# Version: 2025.1117.0228.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11569
+# Number of entries: 11564
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2556,7 +2556,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -7672,7 +7671,6 @@ local=/primewire.vc/
 local=/primewirestatus.org/
 local=/privatebits.org/
 local=/privatehd.to/
-local=/privatemoviez.beauty/
 local=/privatemoviez.help/
 local=/region.nl1.privex.cc/
 local=/privtracker.com/
@@ -8050,7 +8048,6 @@ local=/revdl.net/
 local=/revenge-of-usenet.online/
 local=/reverendmike.org/
 local=/revolution-world.com/
-local=/revolutiontt.net/
 local=/rexagames.com/
 local=/rexdl.com/
 local=/rezi.one/
@@ -8100,8 +8097,6 @@ local=/robinhood.stream/
 local=/rochestergroove.com/
 local=/rockmods.net/
 local=/rodelaonlinebd.com/
-local=/stream.rodrixtv.info/
-local=/rojacalcio.com/
 local=/rojadirecta.es/
 local=/rojadirecta.eu/
 local=/rojadirecta.it/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763314200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763342940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Nov 2025 17:30 UTC
-; Version: 2025.1116.1730.06
+; Last modified: 17 Nov 2025 01:29 UTC
+; Version: 2025.1117.0129.07
 ; Syntax: RPZ
-; Number of entries: 19062
+; Number of entries: 19032
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -705,8 +705,6 @@ shortuel.asia CNAME .
 *.shortuel.asia CNAME .
 shorturl.asia CNAME .
 *.shorturl.asia CNAME .
-shorturls.asia CNAME .
-*.shorturls.asia CNAME .
 u-link.asia CNAME .
 *.u-link.asia CNAME .
 010.at CNAME .
@@ -759,8 +757,6 @@ shortly.at CNAME .
 *.shortly.at CNAME .
 shorturl.at CNAME .
 *.shorturl.at CNAME .
-shorturls.at CNAME .
-*.shorturls.at CNAME .
 smallurl.at CNAME .
 *.smallurl.at CNAME .
 supbgn.at CNAME .
@@ -1911,8 +1907,6 @@ n9.cl CNAME .
 *.n9.cl CNAME .
 social.ora.cl CNAME .
 *.social.ora.cl CNAME .
-pxs.cl CNAME .
-*.pxs.cl CNAME .
 short.cl CNAME .
 *.short.cl CNAME .
 ssff.cl CNAME .
@@ -1973,8 +1967,6 @@ shortly.click CNAME .
 *.shortly.click CNAME .
 shorturl.click CNAME .
 *.shorturl.click CNAME .
-shorturls.click CNAME .
-*.shorturls.click CNAME .
 shrinkme.click CNAME .
 *.shrinkme.click CNAME .
 shrtlk.click CNAME .
@@ -3345,8 +3337,6 @@ baixeapk.com CNAME .
 *.baixeapk.com CNAME .
 it.baltgroup.com CNAME .
 *.it.baltgroup.com CNAME .
-bamaccoin.com CNAME .
-*.bamaccoin.com CNAME .
 banaccroblox.com CNAME .
 *.banaccroblox.com CNAME .
 bannercho.com CNAME .
@@ -5999,8 +5989,6 @@ shortenworld.com CNAME .
 *.shortenworld.com CNAME .
 shortenx.com CNAME .
 *.shortenx.com CNAME .
-shorterall.com CNAME .
-*.shorterall.com CNAME .
 shorterflix.com CNAME .
 *.shorterflix.com CNAME .
 shorterin.com CNAME .
@@ -6217,8 +6205,6 @@ snapiturl.com CNAME .
 *.snapiturl.com CNAME .
 snappyshort.com CNAME .
 *.snappyshort.com CNAME .
-snappyurl.com CNAME .
-*.snappyurl.com CNAME .
 snapylink.com CNAME .
 *.snapylink.com CNAME .
 snipitx.com CNAME .
@@ -7547,6 +7533,8 @@ aka.enoy-it.de CNAME .
 *.aka.enoy-it.de CNAME .
 eqrco.de CNAME .
 *.eqrco.de CNAME .
+s.et4.de CNAME .
+*.s.et4.de CNAME .
 firsturl.de CNAME .
 *.firsturl.de CNAME .
 fluub.de CNAME .
@@ -8349,8 +8337,6 @@ rwz.fr CNAME .
 *.rwz.fr CNAME .
 s-url.fr CNAME .
 *.s-url.fr CNAME .
-shorturls.fr CNAME .
-*.shorturls.fr CNAME .
 shurl.fr CNAME .
 *.shurl.fr CNAME .
 smurl.fr CNAME .
@@ -8437,8 +8423,6 @@ rq.fyi CNAME .
 *.rq.fyi CNAME .
 shorten.fyi CNAME .
 *.shorten.fyi CNAME .
-shorturls.fyi CNAME .
-*.shorturls.fyi CNAME .
 suo.fyi CNAME .
 *.suo.fyi CNAME .
 tam.fyi CNAME .
@@ -9515,10 +9499,6 @@ shortr.in CNAME .
 *.shortr.in CNAME .
 shortu.in CNAME .
 *.shortu.in CNAME .
-shorturls.in CNAME .
-*.shorturls.in CNAME .
-shotcut.in CNAME .
-*.shotcut.in CNAME .
 shrinkforearn.in CNAME .
 *.shrinkforearn.in CNAME .
 shrinkme.in CNAME .
@@ -11545,8 +11525,6 @@ saf.li CNAME .
 *.saf.li CNAME .
 salo.li CNAME .
 *.salo.li CNAME .
-seka.li CNAME .
-*.seka.li CNAME .
 shortcm.li CNAME .
 *.shortcm.li CNAME .
 shr.li CNAME .
@@ -14265,8 +14243,6 @@ link.popthebox.my CNAME .
 *.link.popthebox.my CNAME .
 rls.my CNAME .
 *.rls.my CNAME .
-shorturls.my CNAME .
-*.shorturls.my CNAME .
 sinni.my CNAME .
 *.sinni.my CNAME .
 ss88.my CNAME .
@@ -16053,8 +16029,6 @@ pynva.pro CNAME .
 *.pynva.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
-qwli.pro CNAME .
-*.qwli.pro CNAME .
 rajaolympus.pro CNAME .
 *.rajaolympus.pro CNAME .
 rbxurl.pro CNAME .
@@ -16897,8 +16871,6 @@ secreet.site CNAME .
 *.secreet.site CNAME .
 shoptapkich.site CNAME .
 *.shoptapkich.site CNAME .
-shortenerurl.site CNAME .
-*.shortenerurl.site CNAME .
 shortenn.site CNAME .
 *.shortenn.site CNAME .
 shrinkme.site CNAME .
@@ -18363,8 +18335,6 @@ sdwone.us CNAME .
 *.sdwone.us CNAME .
 shortner.us CNAME .
 *.shortner.us CNAME .
-shorturls.us CNAME .
-*.shorturls.us CNAME .
 shoturl.us CNAME .
 *.shoturl.us CNAME .
 shrinkme.us CNAME .

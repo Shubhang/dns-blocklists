@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Nov 2025 17:28 UTC
-! Version: 2025.1116.1728.23
+! Last modified: 17 Nov 2025 01:27 UTC
+! Version: 2025.1117.0127.26
 ! Syntax: AdBlock
-! Number of entries: 14241
+! Number of entries: 14209
 !
 ||01broker.com^
 ||01crypto.com^
@@ -10008,13 +10008,11 @@
 ||polycondistribution.com^
 ||pompericambi.com^
 ||ponsetionsale.com^
-||ponstar.shop^
 ||pool-best-accessories.com^
 ||pool-shop-de.com^
 ||poolbay.de^
 ||poolchlorrabatt.com^
 ||poolina.de^
-||poolladen.shop^
 ||poolsaunasupply.com^
 ||popbosch.com^
 ||popcartruck.com^
@@ -10208,7 +10206,6 @@
 ||prosperi.io^
 ||prosperousk.com^
 ||prosurfgear.com^
-||protechnik.shop^
 ||protectgreen.de^
 ||protektorenmotorrad.com^
 ||protmina.com^
@@ -10240,7 +10237,6 @@
 ||pullovercardigan.com^
 ||pulloverfurmanner.com^
 ||pulsefinance.de^
-||pulsero.shop^
 ||pumafi.com^
 ||pumaosterreich.at^
 ||pumaton-finanz.com^
@@ -10420,11 +10416,9 @@
 ||rasenroboter-shop.com^
 ||rasenshop24.com^
 ||rasentrak.com^
-||rason.shop^
 ||rastrillo.de^
 ||rattmmotor.shop^
 ||rattzekatz.com^
-||raumausstatter-conrad.shop^
 ||raumdeko-supply.com^
 ||raumgartenwerk.de^
 ||raumzauberde.com^
@@ -10541,16 +10535,13 @@
 ||remorcas.com^
 ||remorquesdunords.com^
 ||remote-arbeiten.com^
-||remote-starten.com^
 ||remotearboeitt-work.com^
 ||remotehomejobs24.com^
 ||remotenow-talent.com^
-||remoteonlinehub.com^
 ||remotewelt.de^
 ||remoteworkpad.com^
 ||remstone.eu^
 ||renado.de^
-||renatainformatica.com^
 ||renditeexperte.com^
 ||rennkurbelde.com^
 ||rennradberater.com^
@@ -10559,7 +10550,6 @@
 ||rennradgeschaft.com^
 ||rentals-flatio.com^
 ||rentin.store^
-||renzandfriends.shop^
 ||repairbase.eu^
 ||reparatur-service.me^
 ||reparaturheld24.at^
@@ -10597,7 +10587,6 @@
 ||retrotrikots.de^
 ||retrowinegeschaft.com^
 ||retter-de.shop^
-||returnpotentialonline.com^
 ||reubenco.com^
 ||reveilove.com^
 ||reviewpunt.nl^
@@ -10619,7 +10608,6 @@
 ||reynolds-gartenhandel.de^
 ||rezeptfrei-bestellung.de^
 ||rezeptfrei-guenstiger.de^
-||rezeptfreie-bestellung.de^
 ||rezeptfreie-potenzmittel-24.eu^
 ||rfshoping.com^
 ||rgoconnell.com^
@@ -10772,7 +10760,6 @@
 ||rosenherzmode.com^
 ||rosesealiy.com^
 ||rosewoo.com^
-||rossmann-partnership.shop^
 ||rostockhaf.de^
 ||rotateepic.com^
 ||rotationmedical.com^
@@ -10783,7 +10770,6 @@
 ||roudamo.shop^
 ||roulettegem.com^
 ||roumite.com^
-||routine-fly.com^
 ||rovikshop.de^
 ||rovux.co^
 ||rowa-versand.de^
@@ -10825,7 +10811,6 @@
 ||runaivete.com^
 ||runcloudshoe.com^
 ||rundfunkportal.de^
-||rundumheizoel.de^
 ||rundummobil.de^
 ||runons.club^
 ||russellnbromleycanada.com^
@@ -10923,7 +10908,6 @@
 ||salesspoint.com^
 ||salestoragecabinet.com^
 ||salestrikots.com^
-||salesupsurf.com^
 ||salevenum-eu.com^
 ||salewabootsnz.com^
 ||salewaoutlet.at^
@@ -10974,7 +10958,6 @@
 ||sanitaer-meier.de^
 ||sanitaerfreude.com^
 ||sanitatsbedarf24.com^
-||santlux.de^
 ||santorinicasa.com^
 ||sanukdublin.com^
 ||sanukfinland.com^
@@ -10987,7 +10970,6 @@
 ||sanuksuomi.net^
 ||saopauloautopeca.com^
 ||saphirvogel.de^
-||sapientfinancial.ltd^
 ||sara-berlin.com^
 ||sarahmo.de^
 ||sarahravengb.com^
@@ -10999,7 +10981,6 @@
 ||saskiabader.de^
 ||satis-beauty-store.de^
 ||satona.de^
-||satorisandeutschland.com^
 ||sators.de^
 ||saturn-de.de^
 ||satzteile.de^
@@ -11023,7 +11004,6 @@
 ||sbikeparts.com^
 ||sblt.net^
 ||scalaautopecas.com^
-||scanbuymart.com^
 ||scandifurn.com^
 ||scarpaschuhewien.at^
 ||scarpejoya.com^
@@ -11031,7 +11011,6 @@
 ||sccottdiscount.com^
 ||scd-invest.com^
 ||scentuelle.de^
-||schaffelhuberconsulting.de^
 ||schafflutzel-motorgerate.com^
 ||schallreiniger.de^
 ||scharfemesser.de^
@@ -11043,9 +11022,7 @@
 ||scherenrabatt.com^
 ||schickherren.com^
 ||schickort.de^
-||schiessert.com^
 ||schiffbootsteile.com^
-||schilderqueen.shop^
 ||schlafhimmel.com^
 ||schlaftabletten-rezeptfrei.org^
 ||schlagschrauberfive.com^
@@ -11101,7 +11078,6 @@
 ||schrankede.com^
 ||schraubheld24.de^
 ||schreibtischecouchtische.com^
-||schreibundstilonline.shop^
 ||schuhegiesswein.com^
 ||schuhegunstignice.de^
 ||schuhehoka.de^
@@ -11162,7 +11138,6 @@
 ||sedtestore.online^
 ||seepalm.de^
 ||seg-holz.com^
-||segasonic.net^
 ||segler-ohligs24.de^
 ||segovianet.com^
 ||segurofx.com^
@@ -11191,7 +11166,6 @@
 ||sem-solar.de^
 ||semahomesale.com^
 ||seminariovirtual.org^
-||semode.shop^
 ||semvio.com^
 ||senade.de^
 ||sendrabootsosterreich.com^
@@ -11303,7 +11277,6 @@
 ||shop-degussa-goldbarren.de^
 ||shop-discounts.com^
 ||shop-lamia-mode.shop^
-||shop-luvado.de^
 ||shop-pecuni.at^
 ||shop-pharmacie-france.net^
 ||shop-raze-cat.shop^
@@ -11313,7 +11286,6 @@
 ||shop-verano.com^
 ||shop-virium.com^
 ||shop-volcom.com^
-||shop4tesla.shop^
 ||shopabernathys.com^
 ||shopalpineski.com^
 ||shopandie.com^
@@ -11430,7 +11402,6 @@
 ||simplicityt.com^
 ||simplycie.com^
 ||simunlocks.com^
-||sinarbrand.com^
 ||sinbadgift.com^
 ||sinhala.de^
 ||oud.sint-janscollege.be^
@@ -11455,7 +11426,6 @@
 ||skecherstoresbest.de^
 ||ski-coaches.com^
 ||ski-outlet.de^
-||skielka-designschmuck.shop^
 ||skiequipmentsneu.com^
 ||skiingskilful.com^
 ||skijersey.de^
@@ -11495,11 +11465,9 @@
 ||slu-handel.de^
 ||slu-handel.net^
 ||slu24-handel.de^
-||smart-ai-etf.de^
 ||cfd.smart-epargne.com^
 ||smart-handel.de^
 ||smart-research.net^
-||smart-stocks-etf.de^
 ||smart0trade.com^
 ||smartbotfx.com^
 ||smartbud.com^
