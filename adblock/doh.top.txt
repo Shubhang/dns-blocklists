@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Nov 2025 10:47 UTC
-! Version: 2025.1118.1047.40
+! Last modified: 19 Nov 2025 10:30 UTC
+! Version: 2025.1119.1030.47
 ! Syntax: AdBlock
-! Number of entries: 799
+! Number of entries: 796
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -41,7 +41,6 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
-||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -266,7 +265,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -710,7 +708,6 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

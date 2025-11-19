@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 02:25 UTC
-# Version: 2025.1119.0225.08
+# Last modified: 19 Nov 2025 10:24 UTC
+# Version: 2025.1119.1024.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11526
+# Number of entries: 11527
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3069,6 +3069,7 @@ local=/elamigos-games.com/
 local=/elbitz.net/
 local=/electro-torrent.pl/
 local=/tracker.elektronik.ro/
+local=/elementsbrowser.com/
 local=/elevensports.com/
 local=/elit-bg.com/
 local=/elite-tracker.net/

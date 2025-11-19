@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 01:26 UTC
-# Version: 2025.1119.0126.42
+# Last modified: 19 Nov 2025 09:26 UTC
+# Version: 2025.1119.0926.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14177
+# Number of entries: 14180
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -278,6 +278,7 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
+local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -1266,7 +1267,6 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
-local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -1666,6 +1666,7 @@ local=/blue-mart.shop/
 local=/bluebananabrandeu.shop/
 local=/bluebellalingerie.com/
 local=/blueblom.com/
+local=/blueboltchargers.com/
 local=/bluecasadecor.com/
 local=/bluehend-land.de/
 local=/bluelock.store/
@@ -2749,6 +2750,7 @@ local=/cozygea.shop/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
+local=/cp24.pl/
 local=/cpket.com/
 local=/cpopnow.com/
 local=/cqqodsports.com/
@@ -4596,6 +4598,7 @@ local=/fokoomall.com/
 local=/fokusfinanz.com/
 local=/foldcase.co/
 local=/foldingboxesstore.com/
+local=/foldingsbikedk.com/
 local=/folger-kollegen.com/
 local=/folioflare.com/
 local=/followintg.com/
@@ -4696,7 +4699,6 @@ local=/fredperryonlineshop.de/
 local=/fredperryoutletosterreich.com/
 local=/free-maket.com/
 local=/freeacnevs.xyz/
-local=/freeacy.com/
 local=/freemobile24.de/
 local=/freeseem.com/
 local=/freesmarttools.com/
@@ -6193,6 +6195,7 @@ local=/houseofcbdeutschland.de/
 local=/housewareschritte.de/
 local=/how2crypto.com/
 local=/hpdcrw.shop/
+local=/hplaptopakku.de/
 local=/hplify.com/
 local=/hqmed.net/
 local=/hr2021.com/
@@ -6220,7 +6223,6 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
-local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -7514,6 +7516,7 @@ local=/lh-crypto.com/
 local=/lhk-group.com/
 local=/lhvw-profis.de/
 local=/li-me.com/
+local=/liabilis.com/
 local=/liaopo.top/
 local=/liberalm.com/
 local=/liberalw.com/

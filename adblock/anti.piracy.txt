@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Nov 2025 02:25 UTC
-! Version: 2025.1119.0225.08
+! Last modified: 19 Nov 2025 10:24 UTC
+! Version: 2025.1119.1024.41
 ! Syntax: AdBlock
-! Number of entries: 11526
+! Number of entries: 11527
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -3070,6 +3070,7 @@
 ||elbitz.net^
 ||electro-torrent.pl^
 ||tracker.elektronik.ro^
+||elementsbrowser.com^
 ||elevensports.com^
 ||elit-bg.com^
 ||elite-tracker.net^

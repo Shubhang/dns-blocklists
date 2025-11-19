@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763515560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763544360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 01:26 UTC
-; Version: 2025.1119.0126.42
+; Last modified: 19 Nov 2025 09:26 UTC
+; Version: 2025.1119.0926.38
 ; Syntax: RPZ
-; Number of entries: 28354
+; Number of entries: 28360
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3104,8 +3104,6 @@ bendoffice.com CNAME .
 *.bendoffice.com CNAME .
 beneathk.com CNAME .
 *.beneathk.com CNAME .
-beneficialx.com CNAME .
-*.beneficialx.com CNAME .
 benefitw.com CNAME .
 *.benefitw.com CNAME .
 benzinkanistertrichter.com CNAME .
@@ -3594,6 +3592,8 @@ bluebellalingerie.com CNAME .
 *.bluebellalingerie.com CNAME .
 blueblom.com CNAME .
 *.blueblom.com CNAME .
+blueboltchargers.com CNAME .
+*.blueboltchargers.com CNAME .
 bluecasadecor.com CNAME .
 *.bluecasadecor.com CNAME .
 bluepeaksfinance.com CNAME .
@@ -6836,6 +6836,8 @@ fokusfinanz.com CNAME .
 *.fokusfinanz.com CNAME .
 foldingboxesstore.com CNAME .
 *.foldingboxesstore.com CNAME .
+foldingsbikedk.com CNAME .
+*.foldingsbikedk.com CNAME .
 folger-kollegen.com CNAME .
 *.folger-kollegen.com CNAME .
 folioflare.com CNAME .
@@ -6958,8 +6960,6 @@ fredperryoutletosterreich.com CNAME .
 *.fredperryoutletosterreich.com CNAME .
 free-maket.com CNAME .
 *.free-maket.com CNAME .
-freeacy.com CNAME .
-*.freeacy.com CNAME .
 freeseem.com CNAME .
 *.freeseem.com CNAME .
 freesmarttools.com CNAME .
@@ -8576,8 +8576,6 @@ hudyrc.com CNAME .
 *.hudyrc.com CNAME .
 huelstamoebelhaus.com CNAME .
 *.huelstamoebelhaus.com CNAME .
-hugetsky.com CNAME .
-*.hugetsky.com CNAME .
 hugfirst.com CNAME .
 *.hugfirst.com CNAME .
 huismeubilair.com CNAME .
@@ -9982,6 +9980,8 @@ lhk-group.com CNAME .
 *.lhk-group.com CNAME .
 li-me.com CNAME .
 *.li-me.com CNAME .
+liabilis.com CNAME .
+*.liabilis.com CNAME .
 liberalm.com CNAME .
 *.liberalm.com CNAME .
 liberalw.com CNAME .
@@ -17730,6 +17730,8 @@ airoil.de CNAME .
 *.airoil.de CNAME .
 akd-verkauf.de CNAME .
 *.akd-verkauf.de CNAME .
+akkusmir.de CNAME .
+*.akkusmir.de CNAME .
 aktionheizung.de CNAME .
 *.aktionheizung.de CNAME .
 aktivabenteuer.de CNAME .
@@ -20528,6 +20530,8 @@ houseofcbdeutschland.de CNAME .
 *.houseofcbdeutschland.de CNAME .
 housewareschritte.de CNAME .
 *.housewareschritte.de CNAME .
+hplaptopakku.de CNAME .
+*.hplaptopakku.de CNAME .
 hsk-bessel.de CNAME .
 *.hsk-bessel.de CNAME .
 hsn-handel.de CNAME .
@@ -25974,6 +25978,8 @@ baseballoutlet.pl CNAME .
 *.baseballoutlet.pl CNAME .
 butyveja.pl CNAME .
 *.butyveja.pl CNAME .
+cp24.pl CNAME .
+*.cp24.pl CNAME .
 ctbike.pl CNAME .
 *.ctbike.pl CNAME .
 eccooutletsklep.pl CNAME .
