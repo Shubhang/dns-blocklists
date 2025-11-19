@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Nov 2025 10:25 UTC
-# Version: 2025.1118.1025.32
+# Last modified: 19 Nov 2025 02:25 UTC
+# Version: 2025.1119.0225.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11528
+# Number of entries: 11526
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2007,7 +2007,6 @@ local=/clipmovie.org/
 local=/clonebits.org/
 local=/clonehub.org/
 local=/cloudatacdn.com/
-local=/tracker.cloudbase.store/
 local=/cloudblink91.xyz/
 local=/cloudboxes.io/
 local=/cloudtorrents.com/
@@ -2060,7 +2059,6 @@ local=/master-torrents-tracker.co.cc/
 local=/mega.co.nz/
 local=/tracker1.bt.moack.co.kr/
 local=/multimovies.co.in/
-local=/bittracker.nekosunevr.co.uk/
 local=/nhltorrents.co.uk/
 local=/nibl.co.uk/
 local=/piratebae.co.uk/
