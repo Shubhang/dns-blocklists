@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 17:57 UTC
-# Version: 2025.1114.1757.59
+# Last modified: 21 Nov 2025 18:02 UTC
+# Version: 2025.1121.1802.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 311
+# Number of entries: 314
 #
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
@@ -138,6 +138,7 @@
 *.bugs.firebat.prime-video.amazon.dev
 *.bugsnag-event.monitor.core.app.alexa.a2z.com
 *.bugsnag-session.monitor.core.app.alexa.a2z.com
+*.bugsnag.appstore.a2z.com
 *.bugsnag.shopbop.amazon.dev
 *.c.amazon-adsystem.com
 *.cdn-a.amazon-adsystem.com
@@ -303,6 +304,8 @@
 *.vfw-us-west.amazon-adsystem.com
 *.vfw-us.amazon-adsystem.com
 *.vfw.amazon-adsystem.com
+*.vfwm.amazon-adsystem.com
+*.vfws.amazon-adsystem.com
 *.video-ads.a2z.com
 *.vq-eu-west-1.amazon-adsystem.com
 *.vq-fe-us-west-2.amazon-adsystem.com

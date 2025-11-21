@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Nov 2025 10:31 UTC
-# Version: 2025.1120.1031.26
+# Last modified: 21 Nov 2025 17:54 UTC
+# Version: 2025.1121.1754.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7023
+# Number of entries: 7036
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -926,6 +926,7 @@ local=/closetruth.date/
 local=/dns.cloud-admin.xyz/
 local=/doh.cloud-sekeng.com/
 local=/dns.cloudfiction.eu/
+local=/meow.partedu.club.cdn.cloudflare.net/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/learn.wiki-edu.xyz.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
@@ -972,6 +973,7 @@ local=/d25x2lo7c2cgcg.cloudfront.net/
 local=/d26hytpp1egyak.cloudfront.net/
 local=/d2aie540xlenvh.cloudfront.net/
 local=/d2bt0exxr0npbv.cloudfront.net/
+local=/d2cyx9a3blkf0d.cloudfront.net/
 local=/d2j70jcgnynkmz.cloudfront.net/
 local=/d2jt5ch84ucw3d.cloudfront.net/
 local=/d2lc4c1pqsbcnb.cloudfront.net/
@@ -984,6 +986,7 @@ local=/d2wkmoh47zvvhf.cloudfront.net/
 local=/d2xl5j5majlxvm.cloudfront.net/
 local=/d30jxbzqqg5c6b.cloudfront.net/
 local=/d30mgm21mrikqh.cloudfront.net/
+local=/d31cgxvz8e3t9x.cloudfront.net/
 local=/d32z5ni8t5127x.cloudfront.net/
 local=/d33nduswak3e8z.cloudfront.net/
 local=/d33xcky42h0olw.cloudfront.net/
@@ -995,7 +998,9 @@ local=/d39vupl819wjy5.cloudfront.net/
 local=/d3b4y213ksr6z5.cloudfront.net/
 local=/d3cegil552nnks.cloudfront.net/
 local=/d3da4vp433xioa.cloudfront.net/
+local=/d3dd5s5ob7khwz.cloudfront.net/
 local=/d3dfrde26093iw.cloudfront.net/
+local=/d3grgzrk7bgwh8.cloudfront.net/
 local=/d3h88i27t2k9za.cloudfront.net/
 local=/d3ld64f3x32q9b.cloudfront.net/
 local=/d3mbcglufa4kg4.cloudfront.net/
@@ -1008,11 +1013,13 @@ local=/d3vo8ia181ei2.cloudfront.net/
 local=/d4q7uy1bdj3do.cloudfront.net/
 local=/d560g3bzhkqrf.cloudfront.net/
 local=/d8ou8y123d5vy.cloudfront.net/
+local=/d9euurorvnlb5.cloudfront.net/
 local=/dac0miaxap05t.cloudfront.net/
 local=/dbneime5ub7kb.cloudfront.net/
 local=/dg98q1fqxxogp.cloudfront.net/
 local=/djx5taukzt3mb.cloudfront.net/
 local=/djzmgdkxnizyn.cloudfront.net/
+local=/dlernb6jn3kq7.cloudfront.net/
 local=/dmh2vhxzf0tuf.cloudfront.net/
 local=/dqwow4xvbctco.cloudfront.net/
 local=/dt4f1zrb25v4h.cloudfront.net/
@@ -1151,6 +1158,7 @@ local=/isekai.anime.com.my/
 local=/shinano.anime.com.my/
 local=/anonymous-proxy.com.de/
 local=/test.businessconnect.com.tr/
+local=/tome.carladutra.com.br/
 local=/dns.ceai.com.tw/
 local=/dns.cloud88.com.au/
 local=/dns.complianceauditores.com.br/
@@ -3343,6 +3351,7 @@ local=/mapspublications.us/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
 local=/dns.marcbond.uk/
+local=/running.marchd.ru/
 local=/home.marcrnt.de/
 local=/sp.marieblazek.com/
 local=/ag.marschi.de/
@@ -4040,6 +4049,7 @@ local=/papervpn.info/
 local=/paradise-human.shop/
 local=/dns.pari.network/
 local=/parkviewenglish.buzz/
+local=/meow.partedu.club/
 local=/pashagame456.com/
 local=/paskam.xyz/
 local=/a.passcloud.xyz/
@@ -4142,6 +4152,7 @@ local=/dns.pointless.chat/
 local=/pointtoserver.com/
 local=/polargrizzly.com/
 local=/joo.polishmc.pl/
+local=/upon.polishmc.pl/
 local=/polisitogel.beauty/
 local=/polisitogel.builders/
 local=/polisitogel.contractors/
@@ -4508,6 +4519,7 @@ local=/dns.api.rackspacecloud.com/
 local=/radmin-vpn.com/
 local=/radmin-vpn.org/
 local=/radminvpn.org/
+local=/looking.rainbowcup.com/
 local=/raj.pw/
 local=/ns.ral9005.org/
 local=/dns.ramansarda.com/
@@ -6985,6 +6997,7 @@ local=/zendproxy.com/
 local=/zenmate.com/
 local=/zenrows.com/
 local=/zenvpn.net/
+local=/closetome.zeptoinitiative.org/
 local=/adguard-kartoffel.zernico.de/
 local=/zerotier.com/
 local=/oraclejp01.zerotorez.com/

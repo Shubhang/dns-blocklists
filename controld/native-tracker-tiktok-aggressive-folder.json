@@ -1443,13 +1443,6 @@
       }
     },
     {
-      "PK": "mon16-normal-no1a.tiktokv.eu.station",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mon16-normal-sg.capcutapi.com",
       "action": {
         "do": 0,

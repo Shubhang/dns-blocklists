@@ -995,6 +995,13 @@
       }
     },
     {
+      "PK": "h5-ru.video.intl.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "h5.tv.mi.com",
       "action": {
         "do": 0,
@@ -1870,6 +1877,13 @@
       }
     },
     {
+      "PK": "ru.video.intl.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sandbox.xmpush.xiaomi.com",
       "action": {
         "do": 0,
@@ -2046,13 +2060,6 @@
     },
     {
       "PK": "static.game.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "static.geek.miui.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2403,13 +2410,6 @@
     },
     {
       "PK": "userid.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "video.intl.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763634660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763747640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Nov 2025 10:31 UTC
-; Version: 2025.1120.1031.26
+; Last modified: 21 Nov 2025 17:54 UTC
+; Version: 2025.1121.1754.37
 ; Syntax: RPZ
-; Number of entries: 14046
+; Number of entries: 14072
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -355,6 +355,8 @@ allain.com.br CNAME .
 *.allain.com.br CNAME .
 kdgnkjho4od8w40.americasnet.com.br CNAME .
 *.kdgnkjho4od8w40.americasnet.com.br CNAME .
+tome.carladutra.com.br CNAME .
+*.tome.carladutra.com.br CNAME .
 dns.complianceauditores.com.br CNAME .
 *.dns.complianceauditores.com.br CNAME .
 adguard.gbrossi.com.br CNAME .
@@ -849,6 +851,8 @@ meowless.club CNAME .
 *.meowless.club CNAME .
 ps1.modr.club CNAME .
 *.ps1.modr.club CNAME .
+meow.partedu.club CNAME .
+*.meow.partedu.club CNAME .
 proxysite.club CNAME .
 *.proxysite.club CNAME .
 dns.qrtz.club CNAME .
@@ -3639,6 +3643,8 @@ dns.api.rackspacecloud.com CNAME .
 *.dns.api.rackspacecloud.com CNAME .
 radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
+looking.rainbowcup.com CNAME .
+*.looking.rainbowcup.com CNAME .
 dns.ramansarda.com CNAME .
 *.dns.ramansarda.com CNAME .
 rapidprivacy.com CNAME .
@@ -9217,6 +9223,8 @@ cvt-ic-us-adns-001.clearviewtechnology.net CNAME .
 *.cvt-ic-us-adns-001.clearviewtechnology.net CNAME .
 henrialbrechtisdumb.clienturl.net CNAME .
 *.henrialbrechtisdumb.clienturl.net CNAME .
+meow.partedu.club.cdn.cloudflare.net CNAME .
+*.meow.partedu.club.cdn.cloudflare.net CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
 *.dns.233py.com.cdn.cloudflare.net CNAME .
 learn.wiki-edu.xyz.cdn.cloudflare.net CNAME .
@@ -9297,6 +9305,8 @@ d2aie540xlenvh.cloudfront.net CNAME .
 *.d2aie540xlenvh.cloudfront.net CNAME .
 d2bt0exxr0npbv.cloudfront.net CNAME .
 *.d2bt0exxr0npbv.cloudfront.net CNAME .
+d2cyx9a3blkf0d.cloudfront.net CNAME .
+*.d2cyx9a3blkf0d.cloudfront.net CNAME .
 d2j70jcgnynkmz.cloudfront.net CNAME .
 *.d2j70jcgnynkmz.cloudfront.net CNAME .
 d2jt5ch84ucw3d.cloudfront.net CNAME .
@@ -9321,6 +9331,8 @@ d30jxbzqqg5c6b.cloudfront.net CNAME .
 *.d30jxbzqqg5c6b.cloudfront.net CNAME .
 d30mgm21mrikqh.cloudfront.net CNAME .
 *.d30mgm21mrikqh.cloudfront.net CNAME .
+d31cgxvz8e3t9x.cloudfront.net CNAME .
+*.d31cgxvz8e3t9x.cloudfront.net CNAME .
 d32z5ni8t5127x.cloudfront.net CNAME .
 *.d32z5ni8t5127x.cloudfront.net CNAME .
 d33nduswak3e8z.cloudfront.net CNAME .
@@ -9343,8 +9355,12 @@ d3cegil552nnks.cloudfront.net CNAME .
 *.d3cegil552nnks.cloudfront.net CNAME .
 d3da4vp433xioa.cloudfront.net CNAME .
 *.d3da4vp433xioa.cloudfront.net CNAME .
+d3dd5s5ob7khwz.cloudfront.net CNAME .
+*.d3dd5s5ob7khwz.cloudfront.net CNAME .
 d3dfrde26093iw.cloudfront.net CNAME .
 *.d3dfrde26093iw.cloudfront.net CNAME .
+d3grgzrk7bgwh8.cloudfront.net CNAME .
+*.d3grgzrk7bgwh8.cloudfront.net CNAME .
 d3h88i27t2k9za.cloudfront.net CNAME .
 *.d3h88i27t2k9za.cloudfront.net CNAME .
 d3ld64f3x32q9b.cloudfront.net CNAME .
@@ -9369,6 +9385,8 @@ d560g3bzhkqrf.cloudfront.net CNAME .
 *.d560g3bzhkqrf.cloudfront.net CNAME .
 d8ou8y123d5vy.cloudfront.net CNAME .
 *.d8ou8y123d5vy.cloudfront.net CNAME .
+d9euurorvnlb5.cloudfront.net CNAME .
+*.d9euurorvnlb5.cloudfront.net CNAME .
 dac0miaxap05t.cloudfront.net CNAME .
 *.dac0miaxap05t.cloudfront.net CNAME .
 dbneime5ub7kb.cloudfront.net CNAME .
@@ -9379,6 +9397,8 @@ djx5taukzt3mb.cloudfront.net CNAME .
 *.djx5taukzt3mb.cloudfront.net CNAME .
 djzmgdkxnizyn.cloudfront.net CNAME .
 *.djzmgdkxnizyn.cloudfront.net CNAME .
+dlernb6jn3kq7.cloudfront.net CNAME .
+*.dlernb6jn3kq7.cloudfront.net CNAME .
 dmh2vhxzf0tuf.cloudfront.net CNAME .
 *.dmh2vhxzf0tuf.cloudfront.net CNAME .
 dqwow4xvbctco.cloudfront.net CNAME .
@@ -11617,6 +11637,8 @@ bananakun.zapto.org CNAME .
 *.bananakun.zapto.org CNAME .
 schoolwebsite.zapto.org CNAME .
 *.schoolwebsite.zapto.org CNAME .
+closetome.zeptoinitiative.org CNAME .
+*.closetome.zeptoinitiative.org CNAME .
 doh.zknt.org CNAME .
 *.doh.zknt.org CNAME .
 zproxy.org CNAME .
@@ -11729,6 +11751,8 @@ dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
 joo.polishmc.pl CNAME .
 *.joo.polishmc.pl CNAME .
+upon.polishmc.pl CNAME .
+*.upon.polishmc.pl CNAME .
 poxy.pl CNAME .
 *.poxy.pl CNAME .
 ad.r60.pl CNAME .
@@ -12417,6 +12441,8 @@ landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
+running.marchd.ru CNAME .
+*.running.marchd.ru CNAME .
 n10.martkotur.ru CNAME .
 *.n10.martkotur.ru CNAME .
 n50.martkotur.ru CNAME .

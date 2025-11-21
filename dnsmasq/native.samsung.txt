@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:05 UTC
-# Version: 2025.1114.1805.13
+# Last modified: 21 Nov 2025 18:09 UTC
+# Version: 2025.1121.1809.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 199
+# Number of entries: 196
 #
 local=/samsung-com.112.2o7.net/
 local=/metric.account-samsung.com/
@@ -61,9 +61,6 @@ local=/samsung-akcja.e-kei.pl/
 local=/samsung.ecorebates.com/
 local=/samsung.telemetry.eyeo.com/
 local=/ehg-samsungusa.hitbox.com/
-local=/conn-v2.samsung.japps.cn/
-local=/report-v2.samsung.japps.cn/
-local=/sis-v2.samsung.japps.cn/
 local=/moai-dev-samsung.com/
 local=/samsungcard.sc.omtrdc.net/
 local=/samsungnorthamerica.sc.omtrdc.net/

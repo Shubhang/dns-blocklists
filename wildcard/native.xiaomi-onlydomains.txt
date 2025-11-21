@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:04 UTC
-# Version: 2025.1114.1804.18
+# Last modified: 21 Nov 2025 18:08 UTC
+# Version: 2025.1121.1808.08
 # Syntax: Domains (without subdomains)
 # Number of entries: 356
 #
@@ -65,7 +65,6 @@ api.comm.miui.com
 tracking.eu.miui.com
 events.miui.com
 feedback.miui.com
-static.geek.miui.com
 cdn1.static.home.miui.com
 hybrid.miui.com
 india.miui.com
@@ -242,7 +241,8 @@ ruvideo.cdn.pandora.intl.xiaomi.com
 in-miuilog.sms.intl.xiaomi.com
 sec-cdn.static.intl.xiaomi.net
 sys.intl.xiaomi.com
-video.intl.xiaomi.com
+h5-ru.video.intl.xiaomi.com
+ru.video.intl.xiaomi.com
 secure.report.iss.xiaomi.com
 a.market.xiaomi.com
 drm.market.xiaomi.com

@@ -218,13 +218,6 @@
       }
     },
     {
-      "PK": "conn-v2.samsung.japps.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cpu.samsungelectronics.com",
       "action": {
         "do": 0,
@@ -534,13 +527,6 @@
     },
     {
       "PK": "report.gras.samsungdm.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "report-v2.samsung.japps.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -1234,13 +1220,6 @@
     },
     {
       "PK": "sia.internet.apps.samsung.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sis-v2.samsung.japps.cn",
       "action": {
         "do": 0,
         "status": 1

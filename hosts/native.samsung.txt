@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:05 UTC
-# Version: 2025.1114.1805.13
+# Last modified: 21 Nov 2025 18:09 UTC
+# Version: 2025.1121.1809.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 267
+# Number of entries: 264
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -87,9 +87,6 @@
 0.0.0.0 samsung.ecorebates.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
-0.0.0.0 conn-v2.samsung.japps.cn
-0.0.0.0 report-v2.samsung.japps.cn
-0.0.0.0 sis-v2.samsung.japps.cn
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 www.moai-dev-samsung.com
 0.0.0.0 samsungcard.sc.omtrdc.net

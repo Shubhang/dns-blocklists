@@ -890,6 +890,13 @@
       }
     },
     {
+      "PK": "bugsnag.appstore.a2z.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bugsnag-event.monitor.core.app.alexa.a2z.com",
       "action": {
         "do": 0,
@@ -2032,6 +2039,20 @@
     },
     {
       "PK": "vfw-gamma.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vfwm.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vfws.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

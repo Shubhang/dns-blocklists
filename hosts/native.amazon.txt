@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 17:57 UTC
-# Version: 2025.1114.1757.59
+# Last modified: 21 Nov 2025 18:02 UTC
+# Version: 2025.1121.1802.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 606
+# Number of entries: 618
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -122,6 +122,8 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax.us-east.3px.axp.amazon-adsystem.com
+0.0.0.0 aca.bugsnag.appstore.a2z.com
+0.0.0.0 aca.ftv.bugsnag.appstore.a2z.com
 0.0.0.0 ads-beta.aps.amazon-adsystem.com
 0.0.0.0 ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 ads-setu-proxy-eu.amazon.com
@@ -222,6 +224,7 @@
 0.0.0.0 bugs.firebat.prime-video.amazon.dev
 0.0.0.0 bugsnag-event.monitor.core.app.alexa.a2z.com
 0.0.0.0 bugsnag-session.monitor.core.app.alexa.a2z.com
+0.0.0.0 bugsnag.appstore.a2z.com
 0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
@@ -285,6 +288,7 @@
 0.0.0.0 device-metrics-us-ud.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dra.amazon-adsystem.com
+0.0.0.0 dub.stv.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
 0.0.0.0 endpoint.prod.us-east-1.forester.a2z.com
 0.0.0.0 endpoint.prod.us-west-2.forester.a2z.com
@@ -320,6 +324,7 @@
 0.0.0.0 fe.ono.axp.amazon-adsystem.com
 0.0.0.0 fe.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 federatedanalytics.amazon.com
+0.0.0.0 firetv.bugsnag.appstore.a2z.com
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fls-cn.amazon.cn
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -350,6 +355,7 @@
 0.0.0.0 fls-na.amazon.com.br
 0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 forester.a2z.com
+0.0.0.0 ftv.bugsnag.appstore.a2z.com
 0.0.0.0 gamma-config.aps.amazon-adsystem.com
 0.0.0.0 gamma-toolbox.aps.amazon-adsystem.com
 0.0.0.0 gamma.useast.rtb.axp.amazon-adsystem.com
@@ -361,7 +367,6 @@
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 h4g3z1-native.amazon.web.app
-0.0.0.0 iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 insights.video.a2z.com
@@ -407,6 +412,10 @@
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mshopbugsnag.irm.amazon.dev
 0.0.0.0 new-telemetry.insights.video.a2z.com
+0.0.0.0 notify.aca.bugsnag.appstore.a2z.com
+0.0.0.0 notify.aca.ftv.bugsnag.appstore.a2z.com
+0.0.0.0 notify.bugsnag.appstore.a2z.com
+0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 ono.axp.amazon-adsystem.com
 0.0.0.0 origin-sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ott.eu-west.aps.axp.amazon-adsystem.com
@@ -472,6 +481,7 @@
 0.0.0.0 service.minerva.devices.a2z.com
 0.0.0.0 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 session.mshopbugsnag.irm.amazon.dev
+0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
@@ -575,6 +585,8 @@
 0.0.0.0 vfw-us-west.amazon-adsystem.com
 0.0.0.0 vfw-us.amazon-adsystem.com
 0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 vfwm.amazon-adsystem.com
+0.0.0.0 vfws.amazon-adsystem.com
 0.0.0.0 video-ads.a2z.com
 0.0.0.0 video-player.aps.amazon-adsystem.com
 0.0.0.0 vq-eu-west-1.amazon-adsystem.com
