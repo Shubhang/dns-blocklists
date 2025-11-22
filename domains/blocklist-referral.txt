@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 09:16 UTC
-# Version: 2025.1121.0916.01
+# Last modified: 22 Nov 2025 09:16 UTC
+# Version: 2025.1122.0916.34
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1549
+# Number of entries: 1552
 #
 1-aclk.net
 1aurl.io
@@ -228,6 +228,7 @@ clckptrl.com
 api.cleverpush.com
 api-eu.cleverpush.com
 api-mobile.cleverpush.com
+api-stage.cleverpush.com
 static.cleverpush.com
 static-eu.cleverpush.com
 static-mobile.cleverpush.com
@@ -238,6 +239,7 @@ seu.cleverreach.com
 23196.seu.cleverreach.com
 31289.seu.cleverreach.com
 seu1.cleverreach.com
+94147.47223.seu1.cleverreach.com
 52586.seu1.cleverreach.com
 57361.seu1.cleverreach.com
 68214.seu1.cleverreach.com
@@ -1043,6 +1045,7 @@ mkto-ab660121.com
 mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
+mkto-abd0206.com
 mkto-abj0022.com
 mkto-abm0229.com
 mkto-cs0007.com
