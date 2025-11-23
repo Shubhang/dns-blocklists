@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 02:26 UTC
-# Version: 2025.1123.0226.55
+# Last modified: 23 Nov 2025 10:26 UTC
+# Version: 2025.1123.1026.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 11356
+# Number of entries: 11355
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -7197,7 +7197,6 @@ papystreaming.com
 papystreaming.stream
 parag.rs
 paranetinfo.com
-parkingcrew.net
 parliamentlive.tv
 tracker.parrotlinux.org
 tracker.parrotsec.org

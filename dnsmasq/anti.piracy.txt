@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 02:26 UTC
-# Version: 2025.1123.0226.55
+# Last modified: 23 Nov 2025 10:26 UTC
+# Version: 2025.1123.1026.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11356
+# Number of entries: 11355
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -7197,7 +7197,6 @@ local=/papystreaming.com/
 local=/papystreaming.stream/
 local=/parag.rs/
 local=/paranetinfo.com/
-local=/parkingcrew.net/
 local=/parliamentlive.tv/
 local=/tracker.parrotlinux.org/
 local=/tracker.parrotsec.org/

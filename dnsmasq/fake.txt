@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 01:28 UTC
-# Version: 2025.1123.0128.47
+# Last modified: 23 Nov 2025 09:28 UTC
+# Version: 2025.1123.0928.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13850
+# Number of entries: 13847
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2698,6 +2698,7 @@ local=/cozygea.shop/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
+local=/cp24.pl/
 local=/cpket.com/
 local=/cpopnow.com/
 local=/cqqodsports.com/
@@ -4499,7 +4500,6 @@ local=/fokoomall.com/
 local=/fokusfinanz.com/
 local=/foldcase.co/
 local=/foldingboxesstore.com/
-local=/foldingsbikedk.com/
 local=/folger-kollegen.com/
 local=/folioflare.com/
 local=/followintg.com/
@@ -5010,7 +5010,6 @@ local=/gesundmedizinische.com/
 local=/get-adel.de/
 local=/get-akusoli.com/
 local=/get-curaball.com/
-local=/get-huusk.com/
 local=/get-hydrogenwaterbottle.com/
 local=/get-klaudena.com/
 local=/get-male-meds.net/
@@ -6144,7 +6143,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -10010,7 +10008,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -12955,7 +12952,6 @@ local=/verbraucher-profis.de/
 local=/verifizierungamericanexpress.com/
 local=/vering-24.de/
 local=/veripro.de/
-local=/verkauf-rezeptfrei.de/
 local=/verkaufelektro.com/
 local=/verkaufenhardwaretools.com/
 local=/verkauffahrradbike.com/
@@ -13545,6 +13541,7 @@ local=/woodeu.de/
 local=/woodoclock.de/
 local=/woodstand-at.com/
 local=/woofgear.de/
+local=/woofz.academy/
 local=/woofz.com/
 local=/wooljacket-shop.com/
 local=/woolyroots.com/

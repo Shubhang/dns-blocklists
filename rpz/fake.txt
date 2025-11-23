@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763861280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763890080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Nov 2025 01:28 UTC
-; Version: 2025.1123.0128.47
+; Last modified: 23 Nov 2025 09:28 UTC
+; Version: 2025.1123.0928.41
 ; Syntax: RPZ
-; Number of entries: 27700
+; Number of entries: 27694
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
+woofz.academy CNAME .
+*.woofz.academy CNAME .
 geldpro.ai CNAME .
 *.geldpro.ai CNAME .
 mindmetric.ai CNAME .
@@ -6702,8 +6704,6 @@ fokusfinanz.com CNAME .
 *.fokusfinanz.com CNAME .
 foldingboxesstore.com CNAME .
 *.foldingboxesstore.com CNAME .
-foldingsbikedk.com CNAME .
-*.foldingsbikedk.com CNAME .
 folger-kollegen.com CNAME .
 *.folger-kollegen.com CNAME .
 folioflare.com CNAME .
@@ -7266,8 +7266,6 @@ get-akusoli.com CNAME .
 *.get-akusoli.com CNAME .
 get-curaball.com CNAME .
 *.get-curaball.com CNAME .
-get-huusk.com CNAME .
-*.get-huusk.com CNAME .
 get-hydrogenwaterbottle.com CNAME .
 *.get-hydrogenwaterbottle.com CNAME .
 get-klaudena.com CNAME .
@@ -8458,8 +8456,6 @@ hybridfahrrader.com CNAME .
 *.hybridfahrrader.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
-hyip.com CNAME .
-*.hyip.com CNAME .
 hype-hoodies.com CNAME .
 *.hype-hoodies.com CNAME .
 hyperstech.com CNAME .
@@ -12834,8 +12830,6 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
-providedes.com CNAME .
-*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 proximitye.com CNAME .
@@ -23246,8 +23240,6 @@ vering-24.de CNAME .
 *.vering-24.de CNAME .
 veripro.de CNAME .
 *.veripro.de CNAME .
-verkauf-rezeptfrei.de CNAME .
-*.verkauf-rezeptfrei.de CNAME .
 verkaufmode.de CNAME .
 *.verkaufmode.de CNAME .
 veromida.de CNAME .
@@ -25436,6 +25428,8 @@ baseballoutlet.pl CNAME .
 *.baseballoutlet.pl CNAME .
 butyveja.pl CNAME .
 *.butyveja.pl CNAME .
+cp24.pl CNAME .
+*.cp24.pl CNAME .
 ctbike.pl CNAME .
 *.ctbike.pl CNAME .
 eccooutletsklep.pl CNAME .

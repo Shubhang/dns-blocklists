@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Nov 2025 01:28 UTC
-! Version: 2025.1123.0128.47
+! Last modified: 23 Nov 2025 09:28 UTC
+! Version: 2025.1123.0928.41
 ! Syntax: AdBlock
-! Number of entries: 13850
+! Number of entries: 13847
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2699,6 +2699,7 @@
 ||cozyhoome.com^
 ||cozyixe.com^
 ||cozysleepzone.com^
+||cp24.pl^
 ||cpket.com^
 ||cpopnow.com^
 ||cqqodsports.com^
@@ -4500,7 +4501,6 @@
 ||fokusfinanz.com^
 ||foldcase.co^
 ||foldingboxesstore.com^
-||foldingsbikedk.com^
 ||folger-kollegen.com^
 ||folioflare.com^
 ||followintg.com^
@@ -5011,7 +5011,6 @@
 ||get-adel.de^
 ||get-akusoli.com^
 ||get-curaball.com^
-||get-huusk.com^
 ||get-hydrogenwaterbottle.com^
 ||get-klaudena.com^
 ||get-male-meds.net^
@@ -6145,7 +6144,6 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
-||hyip.com^
 ||hype-handel.de^
 ||hype-hoodies.com^
 ||hypelaced.co^
@@ -10011,7 +10009,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -12956,7 +12953,6 @@
 ||verifizierungamericanexpress.com^
 ||vering-24.de^
 ||veripro.de^
-||verkauf-rezeptfrei.de^
 ||verkaufelektro.com^
 ||verkaufenhardwaretools.com^
 ||verkauffahrradbike.com^
@@ -13546,6 +13542,7 @@
 ||woodoclock.de^
 ||woodstand-at.com^
 ||woofgear.de^
+||woofz.academy^
 ||woofz.com^
 ||wooljacket-shop.com^
 ||woolyroots.com^
