@@ -2325,6 +2325,13 @@
       }
     },
     {
+      "PK": "jetbrains.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "jitsi.support",
       "action": {
         "do": 1,

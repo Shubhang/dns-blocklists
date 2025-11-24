@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763979960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764023340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Nov 2025 10:26 UTC
-; Version: 2025.1124.1026.58
+; Last modified: 24 Nov 2025 22:29 UTC
+; Version: 2025.1124.2229.50
 ; Syntax: RPZ
-; Number of entries: 150720
+; Number of entries: 150728
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -36568,6 +36568,8 @@ globalmature.com CNAME .
 *.globalmature.com CNAME .
 globalmoldsolutionsexpert.com CNAME .
 *.globalmoldsolutionsexpert.com CNAME .
+globalnewstracker.com CNAME .
+*.globalnewstracker.com CNAME .
 globalnexusexporter.com CNAME .
 *.globalnexusexporter.com CNAME .
 globalogisticsexpress.com CNAME .
@@ -50310,8 +50312,6 @@ mirporeva.com CNAME .
 *.mirporeva.com CNAME .
 mirsexy.com CNAME .
 *.mirsexy.com CNAME .
-mirxxx.com CNAME .
-*.mirxxx.com CNAME .
 misexbox.com CNAME .
 *.misexbox.com CNAME .
 misexperienciasydialogos.com CNAME .
@@ -70466,8 +70466,6 @@ streamingwhore.com CNAME .
 *.streamingwhore.com CNAME .
 streamlivesex.com CNAME .
 *.streamlivesex.com CNAME .
-streamporn.com CNAME .
-*.streamporn.com CNAME .
 streamray.com CNAME .
 *.streamray.com CNAME .
 streamsex.com CNAME .
@@ -76132,6 +76130,8 @@ unluckygirls.com CNAME .
 *.unluckygirls.com CNAME .
 unnaturalsex.com CNAME .
 *.unnaturalsex.com CNAME .
+unpaid-bill.com CNAME .
+*.unpaid-bill.com CNAME .
 unrasiertemuschi.com CNAME .
 *.unrasiertemuschi.com CNAME .
 unrealfuck.com CNAME .
@@ -81210,8 +81210,6 @@ xxxbolt.com CNAME .
 *.xxxbolt.com CNAME .
 xxxbpvideo.com CNAME .
 *.xxxbpvideo.com CNAME .
-xxxbreast.com CNAME .
-*.xxxbreast.com CNAME .
 xxxbrit.com CNAME .
 *.xxxbrit.com CNAME .
 xxxbro.com CNAME .
@@ -85086,6 +85084,8 @@ rotlicht.de CNAME .
 *.rotlicht.de CNAME .
 rotlicht-mv.de CNAME .
 *.rotlicht-mv.de CNAME .
+s-mies.de CNAME .
+*.s-mies.de CNAME .
 s-royal.de CNAME .
 *.s-royal.de CNAME .
 s69.de CNAME .
@@ -94738,6 +94738,8 @@ prostitutkinalchikadosug.info CNAME .
 *.prostitutkinalchikadosug.info CNAME .
 prostitutkinarofomiinskadosug.info CNAME .
 *.prostitutkinarofomiinskadosug.info CNAME .
+prostitutkinovosibirskacase.info CNAME .
+*.prostitutkinovosibirskacase.info CNAME .
 prostitutkipiteraxxx.info CNAME .
 *.prostitutkipiteraxxx.info CNAME .
 prostitutkipuschinodosug.info CNAME .
@@ -95774,6 +95776,8 @@ multiverse-ballance.itch.io CNAME .
 *.multiverse-ballance.itch.io CNAME .
 mushi.itch.io CNAME .
 *.mushi.itch.io CNAME .
+mystery-zone-games.itch.io CNAME .
+*.mystery-zone-games.itch.io CNAME .
 mystica-erotica.itch.io CNAME .
 *.mystica-erotica.itch.io CNAME .
 nadianova.itch.io CNAME .
@@ -103446,6 +103450,8 @@ fotocelebrity.net CNAME .
 *.fotocelebrity.net CNAME .
 fotosdemulheresnuas.net CNAME .
 *.fotosdemulheresnuas.net CNAME .
+pornostravestis.fotosgatas.net CNAME .
+*.pornostravestis.fotosgatas.net CNAME .
 foxporns.net CNAME .
 *.foxporns.net CNAME .
 foxtube.net CNAME .
@@ -107964,6 +107970,8 @@ smaxim.net CNAME .
 *.smaxim.net CNAME .
 smokingfetish.net CNAME .
 *.smokingfetish.net CNAME .
+smother.net CNAME .
+*.smother.net CNAME .
 smotretporno.net CNAME .
 *.smotretporno.net CNAME .
 smutindia.net CNAME .
@@ -112810,8 +112818,6 @@ adultdates.org CNAME .
 *.adultdates.org CNAME .
 adultdatingservices.org CNAME .
 *.adultdatingservices.org CNAME .
-adultdaycentershawaii.org CNAME .
-*.adultdaycentershawaii.org CNAME .
 adulteres.org CNAME .
 *.adulteres.org CNAME .
 adultf.org CNAME .
@@ -113522,6 +113528,8 @@ closenet.org CNAME .
 *.closenet.org CNAME .
 clubhouse2050.org CNAME .
 *.clubhouse2050.org CNAME .
+cmodehradun.org CNAME .
+*.cmodehradun.org CNAME .
 cnporn.org CNAME .
 *.cnporn.org CNAME .
 coalesce-sussex.org CNAME .
