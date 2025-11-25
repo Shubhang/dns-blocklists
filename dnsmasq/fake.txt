@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Nov 2025 09:28 UTC
-# Version: 2025.1124.0928.35
+# Last modified: 25 Nov 2025 09:28 UTC
+# Version: 2025.1125.0928.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13840
+# Number of entries: 13848
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -274,6 +274,7 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
+local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -1246,6 +1247,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -3424,6 +3426,7 @@ local=/dtabgmbh.de/
 local=/dualsuns.com/
 local=/dualtronpower.shop/
 local=/duavital.com/
+local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -7358,6 +7361,7 @@ local=/lh-crypto.com/
 local=/lhk-group.com/
 local=/lhvw-profis.de/
 local=/li-me.com/
+local=/liabilis.com/
 local=/liaopo.top/
 local=/liberalm.com/
 local=/liberalw.com/
@@ -7499,6 +7503,7 @@ local=/lockenbarava.shop/
 local=/lockenbareur.shop/
 local=/locknlock.at/
 local=/lockpickingstore.de/
+local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/loefflerrandalllove.com/
@@ -8950,6 +8955,7 @@ local=/northvapeusa.com/
 local=/northwaveoff.com/
 local=/northwavestore.com/
 local=/norvatix.io/
+local=/norwayhotel.net/
 local=/not-bad.shop/
 local=/not-schlosser.at/
 local=/notationi.com/
@@ -9032,6 +9038,7 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
+local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9201,7 +9208,6 @@ local=/onlinehealthworldtrust.com/
 local=/onlinekamagra.com/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
-local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemessershop.com/
 local=/onlinepharmx.com/
@@ -10003,6 +10009,7 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
+local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -13285,6 +13292,7 @@ local=/wbecrisfro.com/
 local=/wealth-phantom.com/
 local=/wearablemerch.com/
 local=/wearblis.com/
+local=/wearbreeze.de/
 local=/wearebrew-en.com/
 local=/wearekinglife.com/
 local=/weareturbo.io/

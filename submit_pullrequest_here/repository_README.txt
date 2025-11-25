@@ -36,7 +36,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 22. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
 23. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 24. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
-25. [Online DNS Services](#dnsservices)
+25. [Online DNS Services](#dnsservices) : [HaGeZi DNS](#hagezidns) - [DNS Bunker](#dnsbunker)
 26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
 27. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 28. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
@@ -864,6 +864,27 @@ In [ControlD](https://controld.com) you can use my Light, Normal, Pro, Pro++, Ul
 
 Check out Yokoffing's [ControlD Config Guide](https://github.com/yokoffing/Control-D-Config) for recommended [ControlD](https://controld.com) configuration settings.
 
+#### :department_store: **HaGeZi DNS (EU) - free** <a name="hagezidns"></a>
+
+HaGeZi DNS provides free, non-commercial public resolvers for Europe, combining privacy and security with minimal restrictions using Multi Pro and Threat Intelligence Feed blocklists.
+
+For details, visit the [project repository](https://github.com/hagezi/dns-servers).                
+
+| Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Good<br>EU Latency    |
+|--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
+| Germany, Falkenstein| DoH/DoH3      | `https://root.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/root-hagezi-org.mobileconfig) [QR](/mobileconfig/root-hagezi-org.mobileconfig.png)    | DE, PL, CZ, AT, NL, DK, FR, LU, BE |
+|                    | DoT/QUIC      | `root.hagezi.org`                     |                       |                         |
+| Finland, Helsinki   | DoH/DoH3      | `https://juuri.hagezi.org/dns-query`  | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/juuri-hagezi-org.mobileconfig) [QR](/mobileconfig/juuri-hagezi-org.mobileconfig.png)    | FI, EE, SE, LV, LT, PL, DK |
+|                    | DoT/QUIC      | `juuri.hagezi.org`                    |                       |                         |
+
+#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
+
+[DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany.
+              
+| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
+|:-----------|:---------------|:------------------|:--------|
+| Pro plus + TIF + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
+
 #### :department_store: **RethinkDNS - free** <a name="rethinkdns"></a>
 
 In [RethinkDNS](https://rethinkdns.com) you can use my Light, Normal, Pro, Pro++, Ultimate, TIF, DynDNS and Badware Hoster lists.
@@ -890,14 +911,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro + TIF  | `https://dns.dnswarden.com/00000000000000000000018` | `00000000000000000000018.dns.dnswarden.com` |
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
-
-#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
-
-[DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany.
-              
-| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
-|:-----------|:---------------|:------------------|:--------|
-| Pro plus + TIF + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
