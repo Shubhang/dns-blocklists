@@ -1,5 +1,11 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/8108
+receive-lp1.dg.srv.nintendo.net
+receive-lp1.er.srv.nintendo.net
+receive.p01.lp1.dg.srv.nintendo.net
+receive.p01.lp1.er.srv.nintendo.net
+
 # Savegamesync Steam - Train Valley 2 and others
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
