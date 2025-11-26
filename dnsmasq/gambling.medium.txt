@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Nov 2025 10:27 UTC
-# Version: 2025.1126.1027.00
+# Last modified: 26 Nov 2025 14:25 UTC
+# Version: 2025.1126.1425.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 93201
+# Number of entries: 93193
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -545,7 +545,6 @@ local=/13winbets.com/
 local=/1407bets10.top/
 local=/141026.com/
 local=/1410bets10.vip/
-local=/1413betsl0.com/
 local=/1413joycasino.com/
 local=/1414vns.com/
 local=/1422288.com/
@@ -14381,7 +14380,6 @@ local=/betsalvador722.com/
 local=/betsalvador723.com/
 local=/betsalvador724.com/
 local=/betsalvador725.com/
-local=/betsalvadorbonus.com/
 local=/betsalvadorgiris.org/
 local=/betsamerica007.com/
 local=/betsamigo.com/
@@ -16535,7 +16533,6 @@ local=/blackjackmeme.xyz/
 local=/blackjacknadengi.space/
 local=/blackjacknet.pl/
 local=/blackjacknft.xyz/
-local=/blackjackonline.pl/
 local=/blackjackonlinegame.biz/
 local=/blackjackonlineplay8.com/
 local=/blackjackorchard.com/
@@ -18289,7 +18286,6 @@ local=/bwtoto.world/
 local=/bwttagustus.xyz/
 local=/bwttkirana.xyz/
 local=/bwttnarasi.xyz/
-local=/bxpww.com/
 local=/by11147.com/
 local=/by88z.com/
 local=/by983.com/
@@ -20664,7 +20660,6 @@ local=/casino1008.ru/
 local=/casino1009.ru/
 local=/casino100jili.com/
 local=/casino100krgratis.se/
-local=/casino101.online/
 local=/casino1010.ru/
 local=/casino1011.ru/
 local=/casino1012.ru/
@@ -47924,7 +47919,6 @@ local=/jlphpmo.sbs/
 local=/jlphpro.com/
 local=/jlphpromo.com/
 local=/jlphpvip.com/
-local=/jlphq.net/
 local=/jlphregister.com/
 local=/jlphrush.com/
 local=/jlphs.com/
@@ -61376,7 +61370,6 @@ local=/new-retro2.casino/
 local=/new-rtg-casinos.com/
 local=/new-vegas.casino/
 local=/new-wyns-casino.com/
-local=/new-zealand-onlinecasino.org/
 local=/new333casino.com/
 local=/new333casinodeposit.com/
 local=/new333casinologin.com/
@@ -77954,7 +77947,6 @@ local=/slotexpress.com/
 local=/slotfesten.casino/
 local=/slotgaco.com/
 local=/slotgacor108.com/
-local=/slotgacor2025.net/
 local=/slotgacor666.online/
 local=/slotgacorhiu.xyz/
 local=/slotgame66.vip/

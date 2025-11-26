@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Nov 2025 10:27 UTC
-# Version: 2025.1126.1027.35
+# Last modified: 26 Nov 2025 14:26 UTC
+# Version: 2025.1126.1426.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 48313
+# Number of entries: 48305
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -268,7 +268,6 @@ local=/136betsy.com/
 local=/137verdecasino59.com/
 local=/1388.com/
 local=/13hellspin.com/
-local=/1413betsl0.com/
 local=/1413joycasino.com/
 local=/1447joycasino.com/
 local=/144bet.com/
@@ -7478,7 +7477,6 @@ local=/betsala11.com/
 local=/betsalacasinos.com/
 local=/betsalamq.com/
 local=/betsalar.com/
-local=/betsalvadorbonus.com/
 local=/betsalvadorgiris.org/
 local=/betsamerica007.com/
 local=/betsamigo.com/
@@ -8643,7 +8641,6 @@ local=/blackjackjili.com/
 local=/blackjackjoe.com/
 local=/blackjackmeme.xyz/
 local=/blackjacknet.pl/
-local=/blackjackonline.pl/
 local=/blackjackonlinegame.biz/
 local=/blackjackpg.com/
 local=/blackjackpizza.com/
@@ -9530,7 +9527,6 @@ local=/bwinners.sn/
 local=/bwinpartypartners.com/
 local=/bwinpoker.xyz/
 local=/bwredir.com/
-local=/bxpww.com/
 local=/by88z.com/
 local=/bybs.org/
 local=/bycasino.pro/
@@ -10787,7 +10783,6 @@ local=/casino1008.ru/
 local=/casino1009.ru/
 local=/casino100jili.com/
 local=/casino100krgratis.se/
-local=/casino101.online/
 local=/casino1010.ru/
 local=/casino1011.ru/
 local=/casino1012.ru/
@@ -25800,7 +25795,6 @@ local=/jlphotography.fi/
 local=/jlphpc.com/
 local=/jlphpcome.com/
 local=/jlphpinoy.com/
-local=/jlphq.net/
 local=/jlphslot.top/
 local=/jlphslot1.com/
 local=/jlphslotcom.com/
@@ -32668,7 +32662,6 @@ local=/new-retro1.casino/
 local=/new-retro2.casino/
 local=/new-rtg-casinos.com/
 local=/new-wyns-casino.com/
-local=/new-zealand-onlinecasino.org/
 local=/new333phcasino.com/
 local=/new777.com/
 local=/new777bets.com/
@@ -40346,7 +40339,6 @@ local=/slotexo860508.com/
 local=/slotexpress.com/
 local=/slotfesten.casino/
 local=/slotgacor108.com/
-local=/slotgacor2025.net/
 local=/slotgacorhiu.xyz/
 local=/slotgamescasinos.com/
 local=/slotheart-casino.net/

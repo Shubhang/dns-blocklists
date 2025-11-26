@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764152820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764167160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Nov 2025 10:27 UTC
-; Version: 2025.1126.1027.35
+; Last modified: 26 Nov 2025 14:26 UTC
+; Version: 2025.1126.1426.34
 ; Syntax: RPZ
-; Number of entries: 96626
+; Number of entries: 96610
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -10874,8 +10874,6 @@ casinocoupon.codes CNAME .
 *.1388.com CNAME .
 13hellspin.com CNAME .
 *.13hellspin.com CNAME .
-1413betsl0.com CNAME .
-*.1413betsl0.com CNAME .
 1413joycasino.com CNAME .
 *.1413joycasino.com CNAME .
 1447joycasino.com CNAME .
@@ -18296,8 +18294,6 @@ betsalamq.com CNAME .
 *.betsalamq.com CNAME .
 betsalar.com CNAME .
 *.betsalar.com CNAME .
-betsalvadorbonus.com CNAME .
-*.betsalvadorbonus.com CNAME .
 betsamerica007.com CNAME .
 *.betsamerica007.com CNAME .
 betsamigo.com CNAME .
@@ -20748,8 +20744,6 @@ bwinpartypartners.com CNAME .
 *.bwinpartypartners.com CNAME .
 bwredir.com CNAME .
 *.bwredir.com CNAME .
-bxpww.com CNAME .
-*.bxpww.com CNAME .
 by88z.com CNAME .
 *.by88z.com CNAME .
 bycasino29.com CNAME .
@@ -64996,8 +64990,6 @@ jlbetcasino.net CNAME .
 *.jlbetcasino.net CNAME .
 jlbpoker.net CNAME .
 *.jlbpoker.net CNAME .
-jlphq.net CNAME .
-*.jlphq.net CNAME .
 jogoooo.net CNAME .
 *.jogoooo.net CNAME .
 joinslot777.net CNAME .
@@ -66176,8 +66168,6 @@ slotcuan138.net CNAME .
 *.slotcuan138.net CNAME .
 slotecasino.net CNAME .
 *.slotecasino.net CNAME .
-slotgacor2025.net CNAME .
-*.slotgacor2025.net CNAME .
 slotheart-casino.net CNAME .
 *.slotheart-casino.net CNAME .
 slotmafia-casino.net CNAME .
@@ -68582,8 +68572,6 @@ casino-site.online CNAME .
 *.casino-site.online CNAME .
 casino-vegasino.online CNAME .
 *.casino-vegasino.online CNAME .
-casino101.online CNAME .
-*.casino101.online CNAME .
 casino1091.online CNAME .
 *.casino1091.online CNAME .
 casino1092.online CNAME .
@@ -72416,8 +72404,6 @@ nesinecasino-tr.org CNAME .
 *.nesinecasino-tr.org CNAME .
 networktimesecurity.org CNAME .
 *.networktimesecurity.org CNAME .
-new-zealand-onlinecasino.org CNAME .
-*.new-zealand-onlinecasino.org CNAME .
 newcasinos-uk.org CNAME .
 *.newcasinos-uk.org CNAME .
 newcasinosinuk.org CNAME .
@@ -73858,8 +73844,6 @@ needforslots.biz.pl CNAME .
 *.needforslots.biz.pl CNAME .
 blackjacknet.pl CNAME .
 *.blackjacknet.pl CNAME .
-blackjackonline.pl CNAME .
-*.blackjackonline.pl CNAME .
 browinnercasino.pl CNAME .
 *.browinnercasino.pl CNAME .
 captainjack-casino.pl CNAME .
