@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 22:32 UTC
-# Version: 2025.1125.2232.58
+# Last modified: 26 Nov 2025 22:35 UTC
+# Version: 2025.1126.2235.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7001
+# Number of entries: 7014
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -567,6 +567,7 @@ local=/fr-dns2.bancuh.com/
 local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
 local=/sg-dns2.bancuh.com/
+local=/itrsa.banquick.com/
 local=/barnabech.fr/
 local=/base99.com/
 local=/anamoxe.baselinux.net/
@@ -576,6 +577,7 @@ local=/boltnixe.baselinux.net/
 local=/bootnbo.baselinux.net/
 local=/nirbolt.baselinux.net/
 local=/nirbyteproxbolt.baselinux.net/
+local=/peninsulaeducation.baselinux.net/
 local=/shadownxirby.baselinux.net/
 local=/solmariknein.baselinux.net/
 local=/studyeasy.baselinux.net/
@@ -1172,11 +1174,13 @@ local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
 local=/btg.go4it.com.mx/
+local=/securly.com.go4it.com.mx/
 local=/dns2.gregoret.com.ar/
 local=/blackhole.gugainfo.com.br/
 local=/dns.hub.com.de/
 local=/adguardcloud.iasm.com.ar/
 local=/modernlogic.iceage.com.my/
+local=/itrsa.injectoclean.com.mx/
 local=/uptime.injectoclean.com.mx/
 local=/dnssp.koretech.com.br/
 local=/arrakis.korolyzer.com.br/
@@ -1742,6 +1746,8 @@ local=/dotvpn.com/
 local=/family.dns.doubleangels.com/
 local=/doublehop.me/
 local=/douglaster.com/
+local=/idkfun.dougtreadwell.com/
+local=/k12kxploit.dougtreadwell.com/
 local=/dotserver.douyucdn.cn/
 local=/downloadvpnfree.com/
 local=/doyouremember.love/
@@ -2152,6 +2158,7 @@ local=/jp-to.foxyfy.net/
 local=/ro-bu.foxyfy.net/
 local=/us-ny.foxyfy.net/
 local=/us-sj.foxyfy.net/
+local=/hotmoms.fpr.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
 local=/frandcomfort.us/
@@ -2923,6 +2930,7 @@ local=/hk.janebooom.com/
 local=/fvpn.jarvishome.ru/
 local=/hk.jason666.top/
 local=/adguard.jaydub.cloud/
+local=/google.jaygraz.net/
 local=/woodshop.jbworks.com/
 local=/aghome.jcconnell.com/
 local=/dns.jcdn.site/
@@ -2959,6 +2967,7 @@ local=/pi4.jnraptor.net/
 local=/vps1.jnraptor.net/
 local=/vps2.jnraptor.net/
 local=/home.jobytan.com/
+local=/femboy-yaoi.joe.dj/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
@@ -3209,6 +3218,7 @@ local=/us.libost.xyz/
 local=/doh.libredns.gr/
 local=/dot.libredns.gr/
 local=/lifeisa.live/
+local=/neon.lifepixeled.com/
 local=/dns.lifeym.xyz/
 local=/dns.lightmaster.pw/
 local=/dns.lihj.me/
@@ -4613,6 +4623,7 @@ local=/adguard.ruby.ci/
 local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
 local=/uw-dns.rubyfish.cn/
+local=/backup.rude.li/
 local=/adg.rueiliu.space/
 local=/rumpelsepp.org/
 local=/error404becausepar1scantlose.run.place/
@@ -5994,6 +6005,7 @@ local=/rx.techomespace.com/
 local=/vps.techrich.net/
 local=/dns.teckhawk.be/
 local=/tecworx.at/
+local=/sifu.tedbuy.com/
 local=/thakkali.teej.xyz/
 local=/dns.tefuir0829.cn/
 local=/family.dns.teknoholistik.com/
@@ -6725,6 +6737,7 @@ local=/webproxy.com/
 local=/webproxy.online/
 local=/webproxy.to/
 local=/webproxyfree.net/
+local=/google.webrathea.org/
 local=/scienceclasswork.webredirect.org/
 local=/scientist.webredirect.org/
 local=/shark-pan.webredirect.org/

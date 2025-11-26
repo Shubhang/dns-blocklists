@@ -2191,6 +2191,13 @@
       }
     },
     {
+      "PK": "fiedler.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "filemoon.sx",
       "action": {
         "do": 1,
@@ -3067,6 +3074,13 @@
     },
     {
       "PK": "iimwf.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "imgus.cc",
       "action": {
         "do": 1,
         "status": 1

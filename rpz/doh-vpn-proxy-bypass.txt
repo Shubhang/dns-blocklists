@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764109920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764196500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Nov 2025 22:32 UTC
-; Version: 2025.1125.2232.58
+; Last modified: 26 Nov 2025 22:35 UTC
+; Version: 2025.1126.2235.04
 ; Syntax: RPZ
-; Number of entries: 14002
+; Number of entries: 14028
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1397,6 +1397,8 @@ sg-dns1.bancuh.com CNAME .
 *.sg-dns1.bancuh.com CNAME .
 sg-dns2.bancuh.com CNAME .
 *.sg-dns2.bancuh.com CNAME .
+itrsa.banquick.com CNAME .
+*.itrsa.banquick.com CNAME .
 base99.com CNAME .
 *.base99.com CNAME .
 httpdns.bcelive.com CNAME .
@@ -1925,6 +1927,10 @@ family.dns.doubleangels.com CNAME .
 *.family.dns.doubleangels.com CNAME .
 douglaster.com CNAME .
 *.douglaster.com CNAME .
+idkfun.dougtreadwell.com CNAME .
+*.idkfun.dougtreadwell.com CNAME .
+k12kxploit.dougtreadwell.com CNAME .
+*.k12kxploit.dougtreadwell.com CNAME .
 downloadvpnfree.com CNAME .
 *.downloadvpnfree.com CNAME .
 de-adguard.dr3ff1c13nt.com CNAME .
@@ -2837,6 +2843,8 @@ dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 nd.lgprk.com CNAME .
 *.nd.lgprk.com CNAME .
+neon.lifepixeled.com CNAME .
+*.neon.lifepixeled.com CNAME .
 likeproxy.com CNAME .
 *.likeproxy.com CNAME .
 dns.lildinosaur.com CNAME .
@@ -5657,6 +5665,8 @@ dns.technostriker.com CNAME .
 *.dns.technostriker.com CNAME .
 rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
+sifu.tedbuy.com CNAME .
+*.sifu.tedbuy.com CNAME .
 family.dns.teknoholistik.com CNAME .
 *.family.dns.teknoholistik.com CNAME .
 dns.teknologiku.com CNAME .
@@ -6885,6 +6895,8 @@ mabuktogel.directory CNAME .
 *.mabuktogel.directory CNAME .
 polisitogel.diy CNAME .
 *.polisitogel.diy CNAME .
+femboy-yaoi.joe.dj CNAME .
+*.femboy-yaoi.joe.dj CNAME .
 anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast2.servers.censurfridns.dk CNAME .
@@ -8407,6 +8419,8 @@ dns.hva.li CNAME .
 *.dns.hva.li CNAME .
 dns.mni.li CNAME .
 *.dns.mni.li CNAME .
+backup.rude.li CNAME .
+*.backup.rude.li CNAME .
 proxy.schel.li CNAME .
 *.proxy.schel.li CNAME .
 theproxy.li CNAME .
@@ -8923,6 +8937,10 @@ dns.vaguthu.mv CNAME .
 *.dns.vaguthu.mv CNAME .
 btg.go4it.com.mx CNAME .
 *.btg.go4it.com.mx CNAME .
+securly.com.go4it.com.mx CNAME .
+*.securly.com.go4it.com.mx CNAME .
+itrsa.injectoclean.com.mx CNAME .
+*.itrsa.injectoclean.com.mx CNAME .
 uptime.injectoclean.com.mx CNAME .
 *.uptime.injectoclean.com.mx CNAME .
 adg.spacework.com.mx CNAME .
@@ -9099,6 +9117,8 @@ nirbolt.baselinux.net CNAME .
 *.nirbolt.baselinux.net CNAME .
 nirbyteproxbolt.baselinux.net CNAME .
 *.nirbyteproxbolt.baselinux.net CNAME .
+peninsulaeducation.baselinux.net CNAME .
+*.peninsulaeducation.baselinux.net CNAME .
 shadownxirby.baselinux.net CNAME .
 *.shadownxirby.baselinux.net CNAME .
 solmariknein.baselinux.net CNAME .
@@ -9623,6 +9643,8 @@ us-ny.foxyfy.net CNAME .
 *.us-ny.foxyfy.net CNAME .
 us-sj.foxyfy.net CNAME .
 *.us-sj.foxyfy.net CNAME .
+hotmoms.fpr.net CNAME .
+*.hotmoms.fpr.net CNAME .
 free-proxy-list.net CNAME .
 *.free-proxy-list.net CNAME .
 freedome-vpn.net CNAME .
@@ -9753,6 +9775,8 @@ securifi.jagalabs.net CNAME .
 *.securifi.jagalabs.net CNAME .
 jailbreaked.net CNAME .
 *.jailbreaked.net CNAME .
+google.jaygraz.net CNAME .
+*.google.jaygraz.net CNAME .
 green2.jnraptor.net CNAME .
 *.green2.jnraptor.net CNAME .
 green3.jnraptor.net CNAME .
@@ -11541,6 +11565,8 @@ vpnproxy.org CNAME .
 *.vpnproxy.org CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
+google.webrathea.org CNAME .
+*.google.webrathea.org CNAME .
 scienceclasswork.webredirect.org CNAME .
 *.scienceclasswork.webredirect.org CNAME .
 scientist.webredirect.org CNAME .

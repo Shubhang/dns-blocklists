@@ -77,7 +77,9 @@ crcon.cc
 dhilosnetworks.cc
 dict.cc
 fanbox.cc
+fiedler.cc
 frontrow.cc
+imgus.cc
 is.cc
 libstc.cc
 lilygo.cc

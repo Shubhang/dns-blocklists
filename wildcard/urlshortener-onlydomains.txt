@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Nov 2025 09:30 UTC
-# Version: 2025.1124.0930.15
+# Last modified: 26 Nov 2025 21:30 UTC
+# Version: 2025.1126.2130.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 9542
+# Number of entries: 9543
 #
 0.gp
 00m.in
@@ -3472,6 +3472,7 @@ ilyadin.com
 imaxl.ink
 urls.imcompanion.co
 imdb.to
+imgus.cc
 imlcc.link
 imo.cx
 imo-call.shop
