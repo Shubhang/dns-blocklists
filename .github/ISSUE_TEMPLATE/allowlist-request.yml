@@ -110,6 +110,8 @@ body:
         - pfBlockerNG
         - uBlock Origin
         - ControlD
+        - HaGeZi DNS
+        - DNSBunker
         - DNSwarden
         - NextDNS
         - RethinkDNS
