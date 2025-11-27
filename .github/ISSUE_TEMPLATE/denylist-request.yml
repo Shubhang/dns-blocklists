@@ -34,9 +34,9 @@ body:
         - pfBlockerNG
         - uBlock Origin
         - ControlD
-        - HaGeZi DNS
         - DNSBunker
         - DNSwarden
+        - HaGeZi DNS
         - NextDNS
         - RethinkDNS
         - Other
