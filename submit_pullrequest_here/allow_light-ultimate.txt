@@ -1,6 +1,22 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+#
+
+
+# https://github.com/hagezi/dns-blocklists/issues/8126
+llamamegratis.es
+
+# https://github.com/hagezi/dns-blocklists/issues/8125
+bywe1.byside.com
+bywe2.byside.com
+we2.byside.com
+
+# https://github.com/hagezi/dns-blocklists/issues/8124
+pics.miarroba.com
+fotos.miarroba.com
+espacioforos.miarroba.com
+
 # https://github.com/hagezi/dns-blocklists/issues/8116
 secure.meine.santander.de
 

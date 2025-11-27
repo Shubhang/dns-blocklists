@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Nov 2025 10:34 UTC
-! Version: 2025.1126.1034.22
+! Last modified: 27 Nov 2025 10:33 UTC
+! Version: 2025.1127.1033.09
 ! Syntax: AdBlock
-! Number of entries: 792
+! Number of entries: 794
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -349,6 +349,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -507,6 +508,7 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
+||adblock.mydns.network^
 ||dns.n23.io^
 ||najiakeji.top^
 ||chungocoai.name.vn^
@@ -528,6 +530,7 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -778,7 +781,6 @@
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||wyx.cloud^
-||xbcpb668.com^
 ||xenergy.cc^
 ||doh.xfinity.com^
 ||dot.xfinity.com^

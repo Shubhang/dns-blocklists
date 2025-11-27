@@ -5580,6 +5580,13 @@
       }
     },
     {
+      "PK": "zander.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "zcyph.cc",
       "action": {
         "do": 1,

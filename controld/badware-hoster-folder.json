@@ -1296,13 +1296,6 @@
       }
     },
     {
-      "PK": "atspace.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "atwebpages.com",
       "action": {
         "do": 0,

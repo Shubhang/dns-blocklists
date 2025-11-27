@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Nov 2025 09:56 UTC
-# Version: 2025.1126.0956.32
+# Last modified: 27 Nov 2025 09:56 UTC
+# Version: 2025.1127.0956.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1330
+# Number of entries: 1329
 #
 local=/000a.de/
 local=/000space.com/
@@ -190,7 +190,6 @@ local=/at.st/
 local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
-local=/atspace.org/
 local=/atwebpages.com/
 local=/au.gp/
 local=/aufbauend.de/
