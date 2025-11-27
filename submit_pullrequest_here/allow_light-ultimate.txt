@@ -1,8 +1,8 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
-#
-
+# https://github.com/hagezi/dns-blocklists/issues/8130
+cdn.pubnub.com
 
 # https://github.com/hagezi/dns-blocklists/issues/8126
 llamamegratis.es

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Nov 2025 09:28 UTC
-# Version: 2025.1127.0928.19
+# Last modified: 27 Nov 2025 13:27 UTC
+# Version: 2025.1127.1327.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13929
+# Number of entries: 13923
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -307,7 +307,6 @@ local=/alessandrozavettijas.com/
 local=/alessandrozavettiromania.com/
 local=/alessandrozavettiuk.com/
 local=/alessandrozavettiweste.de/
-local=/alessistore.com/
 local=/alessoria.de/
 local=/alexander-veyron.de/
 local=/alexasmarthomedevices.com/
@@ -1711,7 +1710,6 @@ local=/bonluda.de/
 local=/bonnieandbloom.com/
 local=/bonprixsho.shop/
 local=/bonsaiexperte.com/
-local=/bonusbuyday.com/
 local=/boohoo-shop.com/
 local=/booken.shop/
 local=/nyhead.bookfocus.surf/
@@ -6668,7 +6666,6 @@ local=/jssolution.com/
 local=/jtgmarket.com/
 local=/jtshoponline.com/
 local=/jtssr.com/
-local=/jubilantdeals.com/
 local=/juenger-versand.de/
 local=/juergen-runge.de/
 local=/juergenkehrer.de/
@@ -8180,7 +8177,6 @@ local=/mergpath.com/
 local=/meriaformation.com/
 local=/meridianfinance.pro/
 local=/meritdeteno.com/
-local=/merits-partner.de/
 local=/merlin-apotheke.com/
 local=/merlin-kinderladen.com/
 local=/mernesberlin.com/
@@ -10353,7 +10349,6 @@ local=/rehaubrandstore.com/
 local=/rehdergmbh.com/
 local=/rehearsalk.com/
 local=/reichwahl.de/
-local=/reicn.shop/
 local=/reifemode.com/
 local=/reifen-dreyer.com/
 local=/reifen-teile-discount.de/
@@ -12566,7 +12561,6 @@ local=/traviro.de/
 local=/travisscottofficial.com/
 local=/traxxas-de.com/
 local=/treasuresshop.top/
-local=/cdrock.treestore.baby/
 local=/treffer-heizoel.de/
 local=/trena-trade.de/
 local=/trencystore.com/

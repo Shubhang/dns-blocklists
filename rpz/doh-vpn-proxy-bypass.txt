@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764239580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764253860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Nov 2025 10:33 UTC
-; Version: 2025.1127.1033.20
+; Last modified: 27 Nov 2025 14:31 UTC
+; Version: 2025.1127.1431.29
 ; Syntax: RPZ
-; Number of entries: 12480
+; Number of entries: 12440
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -301,12 +301,6 @@ bit123.biz CNAME .
 *.bit123.biz CNAME .
 ewon.biz CNAME .
 *.ewon.biz CNAME .
-modernwriting.kionom.biz CNAME .
-*.modernwriting.kionom.biz CNAME .
-sharpcs.kionom.biz CNAME .
-*.sharpcs.kionom.biz CNAME .
-ultrascience.kionom.biz CNAME .
-*.ultrascience.kionom.biz CNAME .
 megaproxy.biz CNAME .
 *.megaproxy.biz CNAME .
 dns.nubecita.biz CNAME .
@@ -699,12 +693,6 @@ te.decolores.cl CNAME .
 *.te.decolores.cl CNAME .
 deepcs.estiloescencial.cl CNAME .
 *.deepcs.estiloescencial.cl CNAME .
-coolscience.iltec.cl CNAME .
-*.coolscience.iltec.cl CNAME .
-megachem.iltec.cl CNAME .
-*.megachem.iltec.cl CNAME .
-primecalc.iltec.cl CNAME .
-*.primecalc.iltec.cl CNAME .
 us-east-production-36887.jpleventos.cl CNAME .
 *.us-east-production-36887.jpleventos.cl CNAME .
 idk.komanda.cl CNAME .
@@ -901,8 +889,6 @@ alphabio.baodacn.cn CNAME .
 *.alphabio.baodacn.cn CNAME .
 fasthistory.baodacn.cn CNAME .
 *.fasthistory.baodacn.cn CNAME .
-stellaralgebra.baodacn.cn CNAME .
-*.stellaralgebra.baodacn.cn CNAME .
 dns.beardic.cn CNAME .
 *.dns.beardic.cn CNAME .
 dns.citystars.cn CNAME .
@@ -1011,12 +997,6 @@ adg.meviusberry.hidns.co CNAME .
 *.adg.meviusberry.hidns.co CNAME .
 mailkyb.co CNAME .
 *.mailkyb.co CNAME .
-easycoding.manutec.co CNAME .
-*.easycoding.manutec.co CNAME .
-keenliterature.manutec.co CNAME .
-*.keenliterature.manutec.co CNAME .
-proalgebra.manutec.co CNAME .
-*.proalgebra.manutec.co CNAME .
 adguard.mapor.co CNAME .
 *.adguard.mapor.co CNAME .
 oceanbrowser.co CNAME .
@@ -5393,12 +5373,6 @@ genscorp.es CNAME .
 *.genscorp.es CNAME .
 getproxi.es CNAME .
 *.getproxi.es CNAME .
-deepmath.ham-tetra.es CNAME .
-*.deepmath.ham-tetra.es CNAME .
-freshphysics.ham-tetra.es CNAME .
-*.freshphysics.ham-tetra.es CNAME .
-megagrammar.ham-tetra.es CNAME .
-*.megagrammar.ham-tetra.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 sacarino.es CNAME .
@@ -10661,14 +10635,6 @@ roadesdyn.go.ro CNAME .
 *.roadesdyn.go.ro CNAME .
 socolov.home.ro CNAME .
 *.socolov.home.ro CNAME .
-hypercoding.ilsatimisoara.ro CNAME .
-*.hypercoding.ilsatimisoara.ro CNAME .
-nextbio.ilsatimisoara.ro CNAME .
-*.nextbio.ilsatimisoara.ro CNAME .
-wisebio.ilsatimisoara.ro CNAME .
-*.wisebio.ilsatimisoara.ro CNAME .
-wisemath.ilsatimisoara.ro CNAME .
-*.wisemath.ilsatimisoara.ro CNAME .
 dns.cloud.ionutl.ro CNAME .
 *.dns.cloud.ionutl.ro CNAME .
 dns.itdata.ro CNAME .
@@ -10677,12 +10643,6 @@ brighthistory.juniorjobs.ro CNAME .
 *.brighthistory.juniorjobs.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
-alphabio.medicfamiliecraiova.ro CNAME .
-*.alphabio.medicfamiliecraiova.ro CNAME .
-epicgeo.medicfamiliecraiova.ro CNAME .
-*.epicgeo.medicfamiliecraiova.ro CNAME .
-megastats.medicfamiliecraiova.ro CNAME .
-*.megastats.medicfamiliecraiova.ro CNAME .
 dns1.slowb.ro CNAME .
 *.dns1.slowb.ro CNAME .
 dns2.slowb.ro CNAME .

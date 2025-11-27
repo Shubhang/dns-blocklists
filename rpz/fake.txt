@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764235680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764250020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Nov 2025 09:28 UTC
-; Version: 2025.1127.0928.19
+; Last modified: 27 Nov 2025 13:27 UTC
+; Version: 2025.1127.1327.56
 ; Syntax: RPZ
-; Number of entries: 27858
+; Number of entries: 27846
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1042,8 +1042,6 @@ befast.cdecho.baby CNAME .
 *.befast.cdecho.baby CNAME .
 eldraw.helplive.baby CNAME .
 *.eldraw.helplive.baby CNAME .
-cdrock.treestore.baby CNAME .
-*.cdrock.treestore.baby CNAME .
 replicauhren.be CNAME .
 *.replicauhren.be CNAME .
 oud.sint-janscollege.be CNAME .
@@ -1998,8 +1996,6 @@ alessandrozavettiromania.com CNAME .
 *.alessandrozavettiromania.com CNAME .
 alessandrozavettiuk.com CNAME .
 *.alessandrozavettiuk.com CNAME .
-alessistore.com CNAME .
-*.alessistore.com CNAME .
 alexasmarthomedevices.com CNAME .
 *.alexasmarthomedevices.com CNAME .
 alfcasino1.com CNAME .
@@ -3638,8 +3634,6 @@ bonnieandbloom.com CNAME .
 *.bonnieandbloom.com CNAME .
 bonsaiexperte.com CNAME .
 *.bonsaiexperte.com CNAME .
-bonusbuyday.com CNAME .
-*.bonusbuyday.com CNAME .
 boohoo-shop.com CNAME .
 *.boohoo-shop.com CNAME .
 boomaya.com CNAME .
@@ -9086,8 +9080,6 @@ jtshoponline.com CNAME .
 *.jtshoponline.com CNAME .
 jtssr.com CNAME .
 *.jtssr.com CNAME .
-jubilantdeals.com CNAME .
-*.jubilantdeals.com CNAME .
 jumbokicks.com CNAME .
 *.jumbokicks.com CNAME .
 jumigoods.com CNAME .
@@ -21268,8 +21260,6 @@ mercedes-parts-and-more.de CNAME .
 *.mercedes-parts-and-more.de CNAME .
 mercimunich.de CNAME .
 *.mercimunich.de CNAME .
-merits-partner.de CNAME .
-*.merits-partner.de CNAME .
 merrelloutletonline.de CNAME .
 *.merrelloutletonline.de CNAME .
 merrells.de CNAME .
@@ -26686,8 +26676,6 @@ rectcg.shop CNAME .
 *.rectcg.shop CNAME .
 reforger.shop CNAME .
 *.reforger.shop CNAME .
-reicn.shop CNAME .
-*.reicn.shop CNAME .
 retter-de.shop CNAME .
 *.retter-de.shop CNAME .
 rieker-eu.shop CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Nov 2025 10:33 UTC
-# Version: 2025.1127.1033.20
+# Last modified: 27 Nov 2025 14:31 UTC
+# Version: 2025.1127.1431.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6240
+# Number of entries: 6220
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -573,7 +573,6 @@ local=/nexthistory.banglaraloprotidin.com/
 local=/itrsa.banquick.com/
 local=/alphabio.baodacn.cn/
 local=/fasthistory.baodacn.cn/
-local=/stellaralgebra.baodacn.cn/
 local=/barnabech.fr/
 local=/base99.com/
 local=/anamoxe.baselinux.net/
@@ -2509,9 +2508,6 @@ local=/dns.hahnjo.de/
 local=/dns.haka.se/
 local=/dns.hakim.one/
 local=/dns.hakutakucn.com/
-local=/deepmath.ham-tetra.es/
-local=/freshphysics.ham-tetra.es/
-local=/megagrammar.ham-tetra.es/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
@@ -2780,13 +2776,6 @@ local=/dns.ikataruto.com/
 local=/ikhebdorst.nl/
 local=/iksde.com/
 local=/ilinhy.com/
-local=/hypercoding.ilsatimisoara.ro/
-local=/nextbio.ilsatimisoara.ro/
-local=/wisebio.ilsatimisoara.ro/
-local=/wisemath.ilsatimisoara.ro/
-local=/coolscience.iltec.cl/
-local=/megachem.iltec.cl/
-local=/primecalc.iltec.cl/
 local=/ilumu.com/
 local=/ilysk.lol/
 local=/noads.imbuffering.com/
@@ -3102,9 +3091,6 @@ local=/kilabit.info/
 local=/doh.killtw.im/
 local=/blog.kimiblock.top/
 local=/kingsurfproxy.com/
-local=/modernwriting.kionom.biz/
-local=/sharpcs.kionom.biz/
-local=/ultrascience.kionom.biz/
 local=/noad.kipp.cool/
 local=/nimeserver.kirjakast.eu/
 local=/dns.kisnet.id/
@@ -3357,9 +3343,6 @@ local=/mallocprivacy.com/
 local=/dns.mandre.dev/
 local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
-local=/easycoding.manutec.co/
-local=/keenliterature.manutec.co/
-local=/proalgebra.manutec.co/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
 local=/mapspublications.us/
@@ -3413,9 +3396,6 @@ local=/douglas.mebrak.fr/
 local=/adguard.meddy94.de/
 local=/mediahint.com/
 local=/mediavpn.com/
-local=/alphabio.medicfamiliecraiova.ro/
-local=/epicgeo.medicfamiliecraiova.ro/
-local=/megastats.medicfamiliecraiova.ro/
 local=/dns.meeo.win/
 local=/doh.meetz.pw/
 local=/redsea.meetz.pw/

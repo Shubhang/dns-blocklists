@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 09:28 UTC
-! Version: 2025.1127.0928.19
+! Last modified: 27 Nov 2025 13:27 UTC
+! Version: 2025.1127.1327.56
 ! Syntax: AdBlock
-! Number of entries: 13929
+! Number of entries: 13923
 !
 ||01broker.com^
 ||01crypto.com^
@@ -308,7 +308,6 @@
 ||alessandrozavettiromania.com^
 ||alessandrozavettiuk.com^
 ||alessandrozavettiweste.de^
-||alessistore.com^
 ||alessoria.de^
 ||alexander-veyron.de^
 ||alexasmarthomedevices.com^
@@ -1712,7 +1711,6 @@
 ||bonnieandbloom.com^
 ||bonprixsho.shop^
 ||bonsaiexperte.com^
-||bonusbuyday.com^
 ||boohoo-shop.com^
 ||booken.shop^
 ||nyhead.bookfocus.surf^
@@ -6669,7 +6667,6 @@
 ||jtgmarket.com^
 ||jtshoponline.com^
 ||jtssr.com^
-||jubilantdeals.com^
 ||juenger-versand.de^
 ||juergen-runge.de^
 ||juergenkehrer.de^
@@ -8181,7 +8178,6 @@
 ||meriaformation.com^
 ||meridianfinance.pro^
 ||meritdeteno.com^
-||merits-partner.de^
 ||merlin-apotheke.com^
 ||merlin-kinderladen.com^
 ||mernesberlin.com^
@@ -10354,7 +10350,6 @@
 ||rehdergmbh.com^
 ||rehearsalk.com^
 ||reichwahl.de^
-||reicn.shop^
 ||reifemode.com^
 ||reifen-dreyer.com^
 ||reifen-teile-discount.de^
@@ -12567,7 +12562,6 @@
 ||travisscottofficial.com^
 ||traxxas-de.com^
 ||treasuresshop.top^
-||cdrock.treestore.baby^
 ||treffer-heizoel.de^
 ||trena-trade.de^
 ||trencystore.com^

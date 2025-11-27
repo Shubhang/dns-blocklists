@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 10:33 UTC
-! Version: 2025.1127.1033.20
+! Last modified: 27 Nov 2025 14:31 UTC
+! Version: 2025.1127.1431.29
 ! Syntax: AdBlock
-! Number of entries: 6240
+! Number of entries: 6220
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -574,7 +574,6 @@
 ||itrsa.banquick.com^
 ||alphabio.baodacn.cn^
 ||fasthistory.baodacn.cn^
-||stellaralgebra.baodacn.cn^
 ||barnabech.fr^
 ||base99.com^
 ||anamoxe.baselinux.net^
@@ -2510,9 +2509,6 @@
 ||dns.haka.se^
 ||dns.hakim.one^
 ||dns.hakutakucn.com^
-||deepmath.ham-tetra.es^
-||freshphysics.ham-tetra.es^
-||megagrammar.ham-tetra.es^
 ||dns.hanahira.dev^
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
@@ -2781,13 +2777,6 @@
 ||ikhebdorst.nl^
 ||iksde.com^
 ||ilinhy.com^
-||hypercoding.ilsatimisoara.ro^
-||nextbio.ilsatimisoara.ro^
-||wisebio.ilsatimisoara.ro^
-||wisemath.ilsatimisoara.ro^
-||coolscience.iltec.cl^
-||megachem.iltec.cl^
-||primecalc.iltec.cl^
 ||ilumu.com^
 ||ilysk.lol^
 ||noads.imbuffering.com^
@@ -3103,9 +3092,6 @@
 ||doh.killtw.im^
 ||blog.kimiblock.top^
 ||kingsurfproxy.com^
-||modernwriting.kionom.biz^
-||sharpcs.kionom.biz^
-||ultrascience.kionom.biz^
 ||noad.kipp.cool^
 ||nimeserver.kirjakast.eu^
 ||dns.kisnet.id^
@@ -3358,9 +3344,6 @@
 ||dns.mandre.dev^
 ||doh.manish.ltd^
 ||adguard.manmademagic.com^
-||easycoding.manutec.co^
-||keenliterature.manutec.co^
-||proalgebra.manutec.co^
 ||dns.maolaohei.xyz^
 ||adguard.mapor.co^
 ||mapspublications.us^
@@ -3414,9 +3397,6 @@
 ||adguard.meddy94.de^
 ||mediahint.com^
 ||mediavpn.com^
-||alphabio.medicfamiliecraiova.ro^
-||epicgeo.medicfamiliecraiova.ro^
-||megastats.medicfamiliecraiova.ro^
 ||dns.meeo.win^
 ||doh.meetz.pw^
 ||redsea.meetz.pw^
