@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 06:33 UTC
-! Version: 2025.1128.0633.16
+! Last modified: 28 Nov 2025 10:31 UTC
+! Version: 2025.1128.1031.57
 ! Syntax: AdBlock
-! Number of entries: 3390
+! Number of entries: 3389
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2758,7 +2758,6 @@
 ||lime.samonte.ovh^
 ||cloud.samutz.com^
 ||dns.saneaki.com^
-||dns.sansetsafe.ru^
 ||router.sapib.ca^
 ||dns.sarak.as^
 ||dns1.sarak.as^

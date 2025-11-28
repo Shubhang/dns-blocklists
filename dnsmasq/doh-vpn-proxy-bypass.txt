@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 06:33 UTC
-# Version: 2025.1128.0633.49
+# Last modified: 28 Nov 2025 10:32 UTC
+# Version: 2025.1128.1032.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6256
+# Number of entries: 6255
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4705,7 +4705,6 @@ local=/frontend.development.sanluix.org/
 local=/mobile.development.sanluix.org/
 local=/tools.development.sanluix.org/
 local=/lol.sanluix.org/
-local=/dns.sansetsafe.ru/
 local=/saoudiproxy.info/
 local=/router.sapib.ca/
 local=/dns.sarak.as/

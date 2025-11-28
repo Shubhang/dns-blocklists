@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 05:28 UTC
-# Version: 2025.1128.0528.07
+# Last modified: 28 Nov 2025 09:28 UTC
+# Version: 2025.1128.0928.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13924
+# Number of entries: 13926
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -275,7 +275,6 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
-local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -742,6 +741,7 @@ local=/artosnomics.com/
 local=/artourose.com/
 local=/artovitel.com/
 local=/installateur.artpro-24.pro/
+local=/artvibe-wellness.com/
 local=/arvato-entertainment.de/
 local=/arwibon.us/
 local=/arzi.de/
@@ -6188,7 +6188,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -7206,6 +7205,7 @@ local=/laites.shop/
 local=/de.lajondo.com/
 local=/lakihair.com/
 local=/lakuwa24.de/
+local=/lalamise.com/
 local=/laltraveu.org/
 local=/lamario.de/
 local=/lamena.de/
@@ -7647,6 +7647,7 @@ local=/lovercloth.com/
 local=/lovert.de/
 local=/lovessivs.life/
 local=/lovethefleamarket.com/
+local=/lovetruar.click/
 local=/lovezhuvs.click/
 local=/lovinal.com/
 local=/lovozo.de/
@@ -13616,6 +13617,7 @@ local=/woodeu.de/
 local=/woodoclock.de/
 local=/woodstand-at.com/
 local=/woofgear.de/
+local=/woofz.academy/
 local=/woofz.com/
 local=/wooljacket-shop.com/
 local=/woolyroots.com/

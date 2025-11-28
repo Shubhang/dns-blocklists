@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 05:28 UTC
-! Version: 2025.1128.0528.07
+! Last modified: 28 Nov 2025 09:28 UTC
+! Version: 2025.1128.0928.08
 ! Syntax: AdBlock
-! Number of entries: 13924
+! Number of entries: 13926
 !
 ||01broker.com^
 ||01crypto.com^
@@ -276,7 +276,6 @@
 ||akku-laden.at^
 ||akku-staubsauger.eu^
 ||akkuschrauber-heinrich.com^
-||akkusmir.de^
 ||akkusnotebook.at^
 ||akronreia.com^
 ||akselinvest.pro^
@@ -743,6 +742,7 @@
 ||artourose.com^
 ||artovitel.com^
 ||installateur.artpro-24.pro^
+||artvibe-wellness.com^
 ||arvato-entertainment.de^
 ||arwibon.us^
 ||arzi.de^
@@ -6189,7 +6189,6 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
-||hyip.com^
 ||hype-handel.de^
 ||hype-hoodies.com^
 ||hypelaced.co^
@@ -7207,6 +7206,7 @@
 ||de.lajondo.com^
 ||lakihair.com^
 ||lakuwa24.de^
+||lalamise.com^
 ||laltraveu.org^
 ||lamario.de^
 ||lamena.de^
@@ -7648,6 +7648,7 @@
 ||lovert.de^
 ||lovessivs.life^
 ||lovethefleamarket.com^
+||lovetruar.click^
 ||lovezhuvs.click^
 ||lovinal.com^
 ||lovozo.de^
@@ -13617,6 +13618,7 @@
 ||woodoclock.de^
 ||woodstand-at.com^
 ||woofgear.de^
+||woofz.academy^
 ||woofz.com^
 ||wooljacket-shop.com^
 ||woolyroots.com^

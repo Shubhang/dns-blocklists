@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 06:27 UTC
-# Version: 2025.1128.0627.26
+# Last modified: 28 Nov 2025 10:26 UTC
+# Version: 2025.1128.1026.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11355
+# Number of entries: 11357
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -791,6 +791,7 @@ local=/tracker.animeworld.cx/
 local=/animex.com/
 local=/animexin.dev/
 local=/animexx.de/
+local=/animeyt.es/
 local=/animeyt.moe/
 local=/animeyume.org/
 local=/animez.org/
@@ -4722,6 +4723,7 @@ local=/hdpopcorns.org/
 local=/hdreactor.info/
 local=/hdreactor.org/
 local=/hdrezka.ag/
+local=/hdrezka-home.tv/
 local=/hdrezka-ua.com/
 local=/hdroad.org/
 local=/tracker.hdroute.org/

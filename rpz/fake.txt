@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764307680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764322080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 05:28 UTC
-; Version: 2025.1128.0528.07
+; Last modified: 28 Nov 2025 09:28 UTC
+; Version: 2025.1128.0928.08
 ; Syntax: RPZ
-; Number of entries: 27848
+; Number of entries: 27852
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
+woofz.academy CNAME .
+*.woofz.academy CNAME .
 geldpro.ai CNAME .
 *.geldpro.ai CNAME .
 mindmetric.ai CNAME .
@@ -1390,6 +1392,8 @@ modernoapn.lichtjj.click CNAME .
 *.modernoapn.lichtjj.click CNAME .
 likeceosk.click CNAME .
 *.likeceosk.click CNAME .
+lovetruar.click CNAME .
+*.lovetruar.click CNAME .
 lovezhuvs.click CNAME .
 *.lovezhuvs.click CNAME .
 weichrn.qualitatmv.click CNAME .
@@ -2472,6 +2476,8 @@ artourose.com CNAME .
 *.artourose.com CNAME .
 artovitel.com CNAME .
 *.artovitel.com CNAME .
+artvibe-wellness.com CNAME .
+*.artvibe-wellness.com CNAME .
 arztebedarf.com CNAME .
 *.arztebedarf.com CNAME .
 ascelteria.com CNAME .
@@ -8526,8 +8532,6 @@ hybridfahrrader.com CNAME .
 *.hybridfahrrader.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
-hyip.com CNAME .
-*.hyip.com CNAME .
 hype-hoodies.com CNAME .
 *.hype-hoodies.com CNAME .
 hyperstech.com CNAME .
@@ -9620,6 +9624,8 @@ de.lajondo.com CNAME .
 *.de.lajondo.com CNAME .
 lakihair.com CNAME .
 *.lakihair.com CNAME .
+lalamise.com CNAME .
+*.lalamise.com CNAME .
 lampenbillig.com CNAME .
 *.lampenbillig.com CNAME .
 lampendream.com CNAME .
@@ -17488,8 +17494,6 @@ airoil.de CNAME .
 *.airoil.de CNAME .
 akd-verkauf.de CNAME .
 *.akd-verkauf.de CNAME .
-akkusmir.de CNAME .
-*.akkusmir.de CNAME .
 aktion-motorrad.de CNAME .
 *.aktion-motorrad.de CNAME .
 aktionheizung.de CNAME .
