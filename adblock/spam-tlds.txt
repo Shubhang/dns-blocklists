@@ -141,7 +141,7 @@
 ||*.help^$denyallow=fastmail.help|gorgias.help|kustomer.help|pixiv.help
 ||*.homes^$denyallow=stremio.homes
 ||*.hot^
-||*.house^$denyallow=lanparty.house|nature.house
+||*.house^$denyallow=nature.house
 ||*.how^$denyallow=mond.how|notrace.how
 ||*.icu^$denyallow=intervals.icu|lunar.icu|mon.icu
 ||*.ink^$denyallow=filepress.ink|ishortn.ink|mez.ink|next.ink|rdl.ink|shrinkme.ink|simple.ink|sumerian.ink|work.ink
