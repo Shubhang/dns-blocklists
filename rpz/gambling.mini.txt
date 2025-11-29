@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764352800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764397680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 18:00 UTC
-; Version: 2025.1128.1800.38
+; Last modified: 29 Nov 2025 06:28 UTC
+; Version: 2025.1129.0628.22
 ; Syntax: RPZ
-; Number of entries: 97776
+; Number of entries: 97778
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -30398,6 +30398,8 @@ gamingclubcasino.com CNAME .
 *.gamingclubcasino.com CNAME .
 gamingclubcasinop.com CNAME .
 *.gamingclubcasinop.com CNAME .
+gampangdeh.com CNAME .
+*.gampangdeh.com CNAME .
 gamrfirstcasinoch.com CNAME .
 *.gamrfirstcasinoch.com CNAME .
 gana777.com CNAME .

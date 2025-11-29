@@ -127,13 +127,6 @@
       }
     },
     {
-      "PK": "0pi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "1.vg",
       "action": {
         "do": 0,
@@ -7758,13 +7751,6 @@
     },
     {
       "PK": "teleporthq.app",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "telrock.org",
       "action": {
         "do": 0,
         "status": 1

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 10:32 UTC
-# Version: 2025.1128.1032.46
+# Last modified: 29 Nov 2025 06:35 UTC
+# Version: 2025.1129.0635.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6255
+# Number of entries: 6256
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2150,6 +2150,7 @@ local=/dns.flwagners.com/
 local=/dns.flyer.vn/
 local=/dns.flymc.cc/
 local=/biying.flymlc.com/
+local=/flyproxy.com/
 local=/flyssh.com/
 local=/flyvpn.com/
 local=/hk154.flyzhouyc.win/

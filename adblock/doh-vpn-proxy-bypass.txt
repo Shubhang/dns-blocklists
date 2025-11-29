@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 10:32 UTC
-! Version: 2025.1128.1032.46
+! Last modified: 29 Nov 2025 06:35 UTC
+! Version: 2025.1129.0635.14
 ! Syntax: AdBlock
-! Number of entries: 6255
+! Number of entries: 6256
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2151,6 +2151,7 @@
 ||dns.flyer.vn^
 ||dns.flymc.cc^
 ||biying.flymlc.com^
+||flyproxy.com^
 ||flyssh.com^
 ||flyvpn.com^
 ||hk154.flyzhouyc.win^

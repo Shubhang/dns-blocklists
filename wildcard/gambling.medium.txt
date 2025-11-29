@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 18:00 UTC
-# Version: 2025.1128.1800.02
+# Last modified: 29 Nov 2025 06:27 UTC
+# Version: 2025.1129.0627.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 94371
+# Number of entries: 94372
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -41062,6 +41062,7 @@
 *.gammacasino-voc.top
 *.gammacasinoj7.buzz
 *.gampang-wd.xyz
+*.gampangdeh.com
 *.gampangmeleduk.com
 *.gampangmenang.website
 *.gamrfirst.ch
