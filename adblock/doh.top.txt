@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 10:32 UTC
-! Version: 2025.1128.1032.38
+! Last modified: 29 Nov 2025 10:31 UTC
+! Version: 2025.1129.1031.55
 ! Syntax: AdBlock
-! Number of entries: 801
+! Number of entries: 805
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -172,6 +172,7 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -274,6 +275,7 @@
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -316,6 +318,7 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
+||pdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -537,6 +540,7 @@
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
+||edge.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

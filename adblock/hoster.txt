@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Nov 2025 05:57 UTC
-! Version: 2025.1129.0557.17
+! Last modified: 29 Nov 2025 09:56 UTC
+! Version: 2025.1129.0956.08
 ! Syntax: AdBlock
-! Number of entries: 1327
+! Number of entries: 1328
 !
 ||000a.de^
 ||000space.com^
@@ -1125,6 +1125,7 @@
 ||teenradio.shop^
 ||tehno-politen.ru^
 ||teleporthq.app^
+||telrock.org^
 ||tempisite.com^
 ||temporary.site^
 ||temporary-demo.site^

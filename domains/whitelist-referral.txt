@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 09:16 UTC
-# Version: 2025.1128.0916.57
+# Last modified: 29 Nov 2025 09:16 UTC
+# Version: 2025.1129.0916.56
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1562
+# Number of entries: 1566
 #
 1-aclk.net
 1aurl.io
@@ -242,6 +242,7 @@ seu1.cleverreach.com
 94147.47223.seu1.cleverreach.com
 52586.seu1.cleverreach.com
 57361.seu1.cleverreach.com
+59131.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
 76216.seu1.cleverreach.com
@@ -266,6 +267,7 @@ seu2.cleverreach.com
 268990.seu2.cleverreach.com
 295398.seu2.cleverreach.com
 315021.seu2.cleverreach.com
+323664.seu2.cleverreach.com
 341722.seu2.cleverreach.com
 344934.seu2.cleverreach.com
 361290.seu2.cleverreach.com
@@ -504,6 +506,7 @@ suite47-cf.emarsys.net
 suite5.emarsys.net
 suite52.emarsys.net
 suite54.emarsys.net
+suite54-cf.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
@@ -597,6 +600,7 @@ click.s4.exacttarget.com
 click-sms.s4.exacttarget.com
 ftp.s4.exacttarget.com
 inbound.s4.exacttarget.com
+inbound-reply.s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
